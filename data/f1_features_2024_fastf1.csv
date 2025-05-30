@@ -1,0 +1,440 @@
+date,season,round,circuit,driver,constructor,grid,position
+2024-03-02 15:00:00,2024,1,Bahrain Grand Prix,Max Verstappen,Red Bull Racing,1.0,1.0
+2024-03-02 15:00:00,2024,1,Bahrain Grand Prix,Sergio Perez,Red Bull Racing,5.0,2.0
+2024-03-02 15:00:00,2024,1,Bahrain Grand Prix,Carlos Sainz,Ferrari,4.0,3.0
+2024-03-02 15:00:00,2024,1,Bahrain Grand Prix,Charles Leclerc,Ferrari,2.0,4.0
+2024-03-02 15:00:00,2024,1,Bahrain Grand Prix,George Russell,Mercedes,3.0,5.0
+2024-03-02 15:00:00,2024,1,Bahrain Grand Prix,Lando Norris,McLaren,7.0,6.0
+2024-03-02 15:00:00,2024,1,Bahrain Grand Prix,Lewis Hamilton,Mercedes,9.0,7.0
+2024-03-02 15:00:00,2024,1,Bahrain Grand Prix,Oscar Piastri,McLaren,8.0,8.0
+2024-03-02 15:00:00,2024,1,Bahrain Grand Prix,Fernando Alonso,Aston Martin,6.0,9.0
+2024-03-02 15:00:00,2024,1,Bahrain Grand Prix,Lance Stroll,Aston Martin,12.0,10.0
+2024-03-02 15:00:00,2024,1,Bahrain Grand Prix,Guanyu Zhou,Kick Sauber,17.0,11.0
+2024-03-02 15:00:00,2024,1,Bahrain Grand Prix,Kevin Magnussen,Haas F1 Team,15.0,12.0
+2024-03-02 15:00:00,2024,1,Bahrain Grand Prix,Daniel Ricciardo,RB,14.0,13.0
+2024-03-02 15:00:00,2024,1,Bahrain Grand Prix,Yuki Tsunoda,RB,11.0,14.0
+2024-03-02 15:00:00,2024,1,Bahrain Grand Prix,Alexander Albon,Williams,13.0,15.0
+2024-03-02 15:00:00,2024,1,Bahrain Grand Prix,Nico Hulkenberg,Haas F1 Team,10.0,16.0
+2024-03-02 15:00:00,2024,1,Bahrain Grand Prix,Esteban Ocon,Alpine,19.0,17.0
+2024-03-02 15:00:00,2024,1,Bahrain Grand Prix,Pierre Gasly,Alpine,20.0,18.0
+2024-03-02 15:00:00,2024,1,Bahrain Grand Prix,Valtteri Bottas,Kick Sauber,16.0,19.0
+2024-03-02 15:00:00,2024,1,Bahrain Grand Prix,Logan Sargeant,Williams,18.0,20.0
+2024-03-09 17:00:00,2024,2,Saudi Arabian Grand Prix,Max Verstappen,Red Bull Racing,1.0,1.0
+2024-03-09 17:00:00,2024,2,Saudi Arabian Grand Prix,Sergio Perez,Red Bull Racing,3.0,2.0
+2024-03-09 17:00:00,2024,2,Saudi Arabian Grand Prix,Charles Leclerc,Ferrari,2.0,3.0
+2024-03-09 17:00:00,2024,2,Saudi Arabian Grand Prix,Oscar Piastri,McLaren,5.0,4.0
+2024-03-09 17:00:00,2024,2,Saudi Arabian Grand Prix,Fernando Alonso,Aston Martin,4.0,5.0
+2024-03-09 17:00:00,2024,2,Saudi Arabian Grand Prix,George Russell,Mercedes,7.0,6.0
+2024-03-09 17:00:00,2024,2,Saudi Arabian Grand Prix,Oliver Bearman,Ferrari,11.0,7.0
+2024-03-09 17:00:00,2024,2,Saudi Arabian Grand Prix,Lando Norris,McLaren,6.0,8.0
+2024-03-09 17:00:00,2024,2,Saudi Arabian Grand Prix,Lewis Hamilton,Mercedes,8.0,9.0
+2024-03-09 17:00:00,2024,2,Saudi Arabian Grand Prix,Nico Hulkenberg,Haas F1 Team,15.0,10.0
+2024-03-09 17:00:00,2024,2,Saudi Arabian Grand Prix,Alexander Albon,Williams,12.0,11.0
+2024-03-09 17:00:00,2024,2,Saudi Arabian Grand Prix,Kevin Magnussen,Haas F1 Team,13.0,12.0
+2024-03-09 17:00:00,2024,2,Saudi Arabian Grand Prix,Esteban Ocon,Alpine,17.0,13.0
+2024-03-09 17:00:00,2024,2,Saudi Arabian Grand Prix,Logan Sargeant,Williams,19.0,14.0
+2024-03-09 17:00:00,2024,2,Saudi Arabian Grand Prix,Yuki Tsunoda,RB,9.0,15.0
+2024-03-09 17:00:00,2024,2,Saudi Arabian Grand Prix,Daniel Ricciardo,RB,14.0,16.0
+2024-03-09 17:00:00,2024,2,Saudi Arabian Grand Prix,Valtteri Bottas,Kick Sauber,16.0,17.0
+2024-03-09 17:00:00,2024,2,Saudi Arabian Grand Prix,Guanyu Zhou,Kick Sauber,20.0,18.0
+2024-03-09 17:00:00,2024,2,Saudi Arabian Grand Prix,Lance Stroll,Aston Martin,10.0,19.0
+2024-03-09 17:00:00,2024,2,Saudi Arabian Grand Prix,Pierre Gasly,Alpine,18.0,20.0
+2024-03-24 04:00:00,2024,3,Australian Grand Prix,Carlos Sainz,Ferrari,2.0,1.0
+2024-03-24 04:00:00,2024,3,Australian Grand Prix,Charles Leclerc,Ferrari,4.0,2.0
+2024-03-24 04:00:00,2024,3,Australian Grand Prix,Lando Norris,McLaren,3.0,3.0
+2024-03-24 04:00:00,2024,3,Australian Grand Prix,Oscar Piastri,McLaren,5.0,4.0
+2024-03-24 04:00:00,2024,3,Australian Grand Prix,Sergio Perez,Red Bull Racing,6.0,5.0
+2024-03-24 04:00:00,2024,3,Australian Grand Prix,Lance Stroll,Aston Martin,9.0,6.0
+2024-03-24 04:00:00,2024,3,Australian Grand Prix,Yuki Tsunoda,RB,8.0,7.0
+2024-03-24 04:00:00,2024,3,Australian Grand Prix,Fernando Alonso,Aston Martin,10.0,8.0
+2024-03-24 04:00:00,2024,3,Australian Grand Prix,Nico Hulkenberg,Haas F1 Team,16.0,9.0
+2024-03-24 04:00:00,2024,3,Australian Grand Prix,Kevin Magnussen,Haas F1 Team,14.0,10.0
+2024-03-24 04:00:00,2024,3,Australian Grand Prix,Alexander Albon,Williams,12.0,11.0
+2024-03-24 04:00:00,2024,3,Australian Grand Prix,Daniel Ricciardo,RB,18.0,12.0
+2024-03-24 04:00:00,2024,3,Australian Grand Prix,Pierre Gasly,Alpine,17.0,13.0
+2024-03-24 04:00:00,2024,3,Australian Grand Prix,Valtteri Bottas,Kick Sauber,13.0,14.0
+2024-03-24 04:00:00,2024,3,Australian Grand Prix,Guanyu Zhou,Kick Sauber,19.0,15.0
+2024-03-24 04:00:00,2024,3,Australian Grand Prix,Esteban Ocon,Alpine,15.0,16.0
+2024-03-24 04:00:00,2024,3,Australian Grand Prix,George Russell,Mercedes,7.0,17.0
+2024-03-24 04:00:00,2024,3,Australian Grand Prix,Lewis Hamilton,Mercedes,11.0,18.0
+2024-03-24 04:00:00,2024,3,Australian Grand Prix,Max Verstappen,Red Bull Racing,1.0,19.0
+2024-04-07 05:00:00,2024,4,Japanese Grand Prix,Max Verstappen,Red Bull Racing,1.0,1.0
+2024-04-07 05:00:00,2024,4,Japanese Grand Prix,Sergio Perez,Red Bull Racing,2.0,2.0
+2024-04-07 05:00:00,2024,4,Japanese Grand Prix,Carlos Sainz,Ferrari,4.0,3.0
+2024-04-07 05:00:00,2024,4,Japanese Grand Prix,Charles Leclerc,Ferrari,8.0,4.0
+2024-04-07 05:00:00,2024,4,Japanese Grand Prix,Lando Norris,McLaren,3.0,5.0
+2024-04-07 05:00:00,2024,4,Japanese Grand Prix,Fernando Alonso,Aston Martin,5.0,6.0
+2024-04-07 05:00:00,2024,4,Japanese Grand Prix,George Russell,Mercedes,9.0,7.0
+2024-04-07 05:00:00,2024,4,Japanese Grand Prix,Oscar Piastri,McLaren,6.0,8.0
+2024-04-07 05:00:00,2024,4,Japanese Grand Prix,Lewis Hamilton,Mercedes,7.0,9.0
+2024-04-07 05:00:00,2024,4,Japanese Grand Prix,Yuki Tsunoda,RB,10.0,10.0
+2024-04-07 05:00:00,2024,4,Japanese Grand Prix,Nico Hulkenberg,Haas F1 Team,12.0,11.0
+2024-04-07 05:00:00,2024,4,Japanese Grand Prix,Lance Stroll,Aston Martin,16.0,12.0
+2024-04-07 05:00:00,2024,4,Japanese Grand Prix,Kevin Magnussen,Haas F1 Team,18.0,13.0
+2024-04-07 05:00:00,2024,4,Japanese Grand Prix,Valtteri Bottas,Kick Sauber,13.0,14.0
+2024-04-07 05:00:00,2024,4,Japanese Grand Prix,Esteban Ocon,Alpine,15.0,15.0
+2024-04-07 05:00:00,2024,4,Japanese Grand Prix,Pierre Gasly,Alpine,17.0,16.0
+2024-04-07 05:00:00,2024,4,Japanese Grand Prix,Logan Sargeant,Williams,19.0,17.0
+2024-04-07 05:00:00,2024,4,Japanese Grand Prix,Guanyu Zhou,Kick Sauber,20.0,18.0
+2024-04-07 05:00:00,2024,4,Japanese Grand Prix,Daniel Ricciardo,RB,11.0,19.0
+2024-04-07 05:00:00,2024,4,Japanese Grand Prix,Alexander Albon,Williams,14.0,20.0
+2024-04-21 07:00:00,2024,5,Chinese Grand Prix,Max Verstappen,Red Bull Racing,1.0,1.0
+2024-04-21 07:00:00,2024,5,Chinese Grand Prix,Lando Norris,McLaren,4.0,2.0
+2024-04-21 07:00:00,2024,5,Chinese Grand Prix,Sergio Perez,Red Bull Racing,2.0,3.0
+2024-04-21 07:00:00,2024,5,Chinese Grand Prix,Charles Leclerc,Ferrari,6.0,4.0
+2024-04-21 07:00:00,2024,5,Chinese Grand Prix,Carlos Sainz,Ferrari,7.0,5.0
+2024-04-21 07:00:00,2024,5,Chinese Grand Prix,George Russell,Mercedes,8.0,6.0
+2024-04-21 07:00:00,2024,5,Chinese Grand Prix,Fernando Alonso,Aston Martin,3.0,7.0
+2024-04-21 07:00:00,2024,5,Chinese Grand Prix,Oscar Piastri,McLaren,5.0,8.0
+2024-04-21 07:00:00,2024,5,Chinese Grand Prix,Lewis Hamilton,Mercedes,18.0,9.0
+2024-04-21 07:00:00,2024,5,Chinese Grand Prix,Nico Hulkenberg,Haas F1 Team,9.0,10.0
+2024-04-21 07:00:00,2024,5,Chinese Grand Prix,Esteban Ocon,Alpine,13.0,11.0
+2024-04-21 07:00:00,2024,5,Chinese Grand Prix,Alexander Albon,Williams,14.0,12.0
+2024-04-21 07:00:00,2024,5,Chinese Grand Prix,Pierre Gasly,Alpine,15.0,13.0
+2024-04-21 07:00:00,2024,5,Chinese Grand Prix,Guanyu Zhou,Kick Sauber,16.0,14.0
+2024-04-21 07:00:00,2024,5,Chinese Grand Prix,Lance Stroll,Aston Martin,11.0,15.0
+2024-04-21 07:00:00,2024,5,Chinese Grand Prix,Kevin Magnussen,Haas F1 Team,17.0,16.0
+2024-04-21 07:00:00,2024,5,Chinese Grand Prix,Logan Sargeant,Williams,20.0,17.0
+2024-04-21 07:00:00,2024,5,Chinese Grand Prix,Daniel Ricciardo,RB,12.0,18.0
+2024-04-21 07:00:00,2024,5,Chinese Grand Prix,Yuki Tsunoda,RB,19.0,19.0
+2024-04-21 07:00:00,2024,5,Chinese Grand Prix,Valtteri Bottas,Kick Sauber,10.0,20.0
+2024-05-05 20:00:00,2024,6,Miami Grand Prix,Lando Norris,McLaren,5.0,1.0
+2024-05-05 20:00:00,2024,6,Miami Grand Prix,Max Verstappen,Red Bull Racing,1.0,2.0
+2024-05-05 20:00:00,2024,6,Miami Grand Prix,Charles Leclerc,Ferrari,2.0,3.0
+2024-05-05 20:00:00,2024,6,Miami Grand Prix,Sergio Perez,Red Bull Racing,4.0,4.0
+2024-05-05 20:00:00,2024,6,Miami Grand Prix,Carlos Sainz,Ferrari,3.0,5.0
+2024-05-05 20:00:00,2024,6,Miami Grand Prix,Lewis Hamilton,Mercedes,8.0,6.0
+2024-05-05 20:00:00,2024,6,Miami Grand Prix,Yuki Tsunoda,RB,10.0,7.0
+2024-05-05 20:00:00,2024,6,Miami Grand Prix,George Russell,Mercedes,7.0,8.0
+2024-05-05 20:00:00,2024,6,Miami Grand Prix,Fernando Alonso,Aston Martin,15.0,9.0
+2024-05-05 20:00:00,2024,6,Miami Grand Prix,Esteban Ocon,Alpine,13.0,10.0
+2024-05-05 20:00:00,2024,6,Miami Grand Prix,Nico Hulkenberg,Haas F1 Team,9.0,11.0
+2024-05-05 20:00:00,2024,6,Miami Grand Prix,Pierre Gasly,Alpine,12.0,12.0
+2024-05-05 20:00:00,2024,6,Miami Grand Prix,Oscar Piastri,McLaren,6.0,13.0
+2024-05-05 20:00:00,2024,6,Miami Grand Prix,Guanyu Zhou,Kick Sauber,19.0,14.0
+2024-05-05 20:00:00,2024,6,Miami Grand Prix,Daniel Ricciardo,RB,20.0,15.0
+2024-05-05 20:00:00,2024,6,Miami Grand Prix,Valtteri Bottas,Kick Sauber,16.0,16.0
+2024-05-05 20:00:00,2024,6,Miami Grand Prix,Lance Stroll,Aston Martin,11.0,17.0
+2024-05-05 20:00:00,2024,6,Miami Grand Prix,Alexander Albon,Williams,14.0,18.0
+2024-05-05 20:00:00,2024,6,Miami Grand Prix,Kevin Magnussen,Haas F1 Team,18.0,19.0
+2024-05-05 20:00:00,2024,6,Miami Grand Prix,Logan Sargeant,Williams,17.0,20.0
+2024-05-19 13:00:00,2024,7,Emilia Romagna Grand Prix,Max Verstappen,Red Bull Racing,1.0,1.0
+2024-05-19 13:00:00,2024,7,Emilia Romagna Grand Prix,Lando Norris,McLaren,2.0,2.0
+2024-05-19 13:00:00,2024,7,Emilia Romagna Grand Prix,Charles Leclerc,Ferrari,3.0,3.0
+2024-05-19 13:00:00,2024,7,Emilia Romagna Grand Prix,Oscar Piastri,McLaren,5.0,4.0
+2024-05-19 13:00:00,2024,7,Emilia Romagna Grand Prix,Carlos Sainz,Ferrari,4.0,5.0
+2024-05-19 13:00:00,2024,7,Emilia Romagna Grand Prix,Lewis Hamilton,Mercedes,8.0,6.0
+2024-05-19 13:00:00,2024,7,Emilia Romagna Grand Prix,George Russell,Mercedes,6.0,7.0
+2024-05-19 13:00:00,2024,7,Emilia Romagna Grand Prix,Sergio Perez,Red Bull Racing,11.0,8.0
+2024-05-19 13:00:00,2024,7,Emilia Romagna Grand Prix,Lance Stroll,Aston Martin,13.0,9.0
+2024-05-19 13:00:00,2024,7,Emilia Romagna Grand Prix,Yuki Tsunoda,RB,7.0,10.0
+2024-05-19 13:00:00,2024,7,Emilia Romagna Grand Prix,Nico Hulkenberg,Haas F1 Team,10.0,11.0
+2024-05-19 13:00:00,2024,7,Emilia Romagna Grand Prix,Kevin Magnussen,Haas F1 Team,18.0,12.0
+2024-05-19 13:00:00,2024,7,Emilia Romagna Grand Prix,Daniel Ricciardo,RB,9.0,13.0
+2024-05-19 13:00:00,2024,7,Emilia Romagna Grand Prix,Esteban Ocon,Alpine,12.0,14.0
+2024-05-19 13:00:00,2024,7,Emilia Romagna Grand Prix,Guanyu Zhou,Kick Sauber,17.0,15.0
+2024-05-19 13:00:00,2024,7,Emilia Romagna Grand Prix,Pierre Gasly,Alpine,15.0,16.0
+2024-05-19 13:00:00,2024,7,Emilia Romagna Grand Prix,Logan Sargeant,Williams,19.0,17.0
+2024-05-19 13:00:00,2024,7,Emilia Romagna Grand Prix,Valtteri Bottas,Kick Sauber,16.0,18.0
+2024-05-19 13:00:00,2024,7,Emilia Romagna Grand Prix,Fernando Alonso,Aston Martin,20.0,19.0
+2024-05-19 13:00:00,2024,7,Emilia Romagna Grand Prix,Alexander Albon,Williams,14.0,20.0
+2024-05-26 13:00:00,2024,8,Monaco Grand Prix,Charles Leclerc,Ferrari,1.0,1.0
+2024-05-26 13:00:00,2024,8,Monaco Grand Prix,Oscar Piastri,McLaren,2.0,2.0
+2024-05-26 13:00:00,2024,8,Monaco Grand Prix,Carlos Sainz,Ferrari,3.0,3.0
+2024-05-26 13:00:00,2024,8,Monaco Grand Prix,Lando Norris,McLaren,4.0,4.0
+2024-05-26 13:00:00,2024,8,Monaco Grand Prix,George Russell,Mercedes,5.0,5.0
+2024-05-26 13:00:00,2024,8,Monaco Grand Prix,Max Verstappen,Red Bull Racing,6.0,6.0
+2024-05-26 13:00:00,2024,8,Monaco Grand Prix,Lewis Hamilton,Mercedes,7.0,7.0
+2024-05-26 13:00:00,2024,8,Monaco Grand Prix,Yuki Tsunoda,RB,8.0,8.0
+2024-05-26 13:00:00,2024,8,Monaco Grand Prix,Alexander Albon,Williams,9.0,9.0
+2024-05-26 13:00:00,2024,8,Monaco Grand Prix,Pierre Gasly,Alpine,10.0,10.0
+2024-05-26 13:00:00,2024,8,Monaco Grand Prix,Fernando Alonso,Aston Martin,14.0,11.0
+2024-05-26 13:00:00,2024,8,Monaco Grand Prix,Daniel Ricciardo,RB,12.0,12.0
+2024-05-26 13:00:00,2024,8,Monaco Grand Prix,Valtteri Bottas,Kick Sauber,17.0,13.0
+2024-05-26 13:00:00,2024,8,Monaco Grand Prix,Lance Stroll,Aston Martin,13.0,14.0
+2024-05-26 13:00:00,2024,8,Monaco Grand Prix,Logan Sargeant,Williams,15.0,15.0
+2024-05-26 13:00:00,2024,8,Monaco Grand Prix,Guanyu Zhou,Kick Sauber,18.0,16.0
+2024-05-26 13:00:00,2024,8,Monaco Grand Prix,Esteban Ocon,Alpine,11.0,17.0
+2024-05-26 13:00:00,2024,8,Monaco Grand Prix,Sergio Perez,Red Bull Racing,16.0,18.0
+2024-05-26 13:00:00,2024,8,Monaco Grand Prix,Nico Hulkenberg,Haas F1 Team,19.0,19.0
+2024-05-26 13:00:00,2024,8,Monaco Grand Prix,Kevin Magnussen,Haas F1 Team,20.0,20.0
+2024-06-09 18:00:00,2024,9,Canadian Grand Prix,Max Verstappen,Red Bull Racing,2.0,1.0
+2024-06-09 18:00:00,2024,9,Canadian Grand Prix,Lando Norris,McLaren,3.0,2.0
+2024-06-09 18:00:00,2024,9,Canadian Grand Prix,George Russell,Mercedes,1.0,3.0
+2024-06-09 18:00:00,2024,9,Canadian Grand Prix,Lewis Hamilton,Mercedes,7.0,4.0
+2024-06-09 18:00:00,2024,9,Canadian Grand Prix,Oscar Piastri,McLaren,4.0,5.0
+2024-06-09 18:00:00,2024,9,Canadian Grand Prix,Fernando Alonso,Aston Martin,6.0,6.0
+2024-06-09 18:00:00,2024,9,Canadian Grand Prix,Lance Stroll,Aston Martin,9.0,7.0
+2024-06-09 18:00:00,2024,9,Canadian Grand Prix,Daniel Ricciardo,RB,5.0,8.0
+2024-06-09 18:00:00,2024,9,Canadian Grand Prix,Pierre Gasly,Alpine,15.0,9.0
+2024-06-09 18:00:00,2024,9,Canadian Grand Prix,Esteban Ocon,Alpine,18.0,10.0
+2024-06-09 18:00:00,2024,9,Canadian Grand Prix,Nico Hulkenberg,Haas F1 Team,17.0,11.0
+2024-06-09 18:00:00,2024,9,Canadian Grand Prix,Kevin Magnussen,Haas F1 Team,14.0,12.0
+2024-06-09 18:00:00,2024,9,Canadian Grand Prix,Valtteri Bottas,Kick Sauber,19.0,13.0
+2024-06-09 18:00:00,2024,9,Canadian Grand Prix,Yuki Tsunoda,RB,8.0,14.0
+2024-06-09 18:00:00,2024,9,Canadian Grand Prix,Guanyu Zhou,Kick Sauber,20.0,15.0
+2024-06-09 18:00:00,2024,9,Canadian Grand Prix,Carlos Sainz,Ferrari,12.0,16.0
+2024-06-09 18:00:00,2024,9,Canadian Grand Prix,Alexander Albon,Williams,10.0,17.0
+2024-06-09 18:00:00,2024,9,Canadian Grand Prix,Sergio Perez,Red Bull Racing,16.0,18.0
+2024-06-09 18:00:00,2024,9,Canadian Grand Prix,Charles Leclerc,Ferrari,11.0,19.0
+2024-06-09 18:00:00,2024,9,Canadian Grand Prix,Logan Sargeant,Williams,13.0,20.0
+2024-06-23 13:00:00,2024,10,Spanish Grand Prix,Max Verstappen,Red Bull Racing,2.0,1.0
+2024-06-23 13:00:00,2024,10,Spanish Grand Prix,Lando Norris,McLaren,1.0,2.0
+2024-06-23 13:00:00,2024,10,Spanish Grand Prix,Lewis Hamilton,Mercedes,3.0,3.0
+2024-06-23 13:00:00,2024,10,Spanish Grand Prix,George Russell,Mercedes,4.0,4.0
+2024-06-23 13:00:00,2024,10,Spanish Grand Prix,Charles Leclerc,Ferrari,5.0,5.0
+2024-06-23 13:00:00,2024,10,Spanish Grand Prix,Carlos Sainz,Ferrari,6.0,6.0
+2024-06-23 13:00:00,2024,10,Spanish Grand Prix,Oscar Piastri,McLaren,9.0,7.0
+2024-06-23 13:00:00,2024,10,Spanish Grand Prix,Sergio Perez,Red Bull Racing,11.0,8.0
+2024-06-23 13:00:00,2024,10,Spanish Grand Prix,Pierre Gasly,Alpine,7.0,9.0
+2024-06-23 13:00:00,2024,10,Spanish Grand Prix,Esteban Ocon,Alpine,8.0,10.0
+2024-06-23 13:00:00,2024,10,Spanish Grand Prix,Nico Hulkenberg,Haas F1 Team,13.0,11.0
+2024-06-23 13:00:00,2024,10,Spanish Grand Prix,Fernando Alonso,Aston Martin,10.0,12.0
+2024-06-23 13:00:00,2024,10,Spanish Grand Prix,Guanyu Zhou,Kick Sauber,15.0,13.0
+2024-06-23 13:00:00,2024,10,Spanish Grand Prix,Lance Stroll,Aston Martin,14.0,14.0
+2024-06-23 13:00:00,2024,10,Spanish Grand Prix,Daniel Ricciardo,RB,18.0,15.0
+2024-06-23 13:00:00,2024,10,Spanish Grand Prix,Valtteri Bottas,Kick Sauber,12.0,16.0
+2024-06-23 13:00:00,2024,10,Spanish Grand Prix,Kevin Magnussen,Haas F1 Team,16.0,17.0
+2024-06-23 13:00:00,2024,10,Spanish Grand Prix,Alexander Albon,Williams,20.0,18.0
+2024-06-23 13:00:00,2024,10,Spanish Grand Prix,Yuki Tsunoda,RB,17.0,19.0
+2024-06-23 13:00:00,2024,10,Spanish Grand Prix,Logan Sargeant,Williams,19.0,20.0
+2024-06-30 13:00:00,2024,11,Austrian Grand Prix,George Russell,Mercedes,3.0,1.0
+2024-06-30 13:00:00,2024,11,Austrian Grand Prix,Oscar Piastri,McLaren,7.0,2.0
+2024-06-30 13:00:00,2024,11,Austrian Grand Prix,Carlos Sainz,Ferrari,4.0,3.0
+2024-06-30 13:00:00,2024,11,Austrian Grand Prix,Lewis Hamilton,Mercedes,5.0,4.0
+2024-06-30 13:00:00,2024,11,Austrian Grand Prix,Max Verstappen,Red Bull Racing,1.0,5.0
+2024-06-30 13:00:00,2024,11,Austrian Grand Prix,Nico Hulkenberg,Haas F1 Team,9.0,6.0
+2024-06-30 13:00:00,2024,11,Austrian Grand Prix,Sergio Perez,Red Bull Racing,8.0,7.0
+2024-06-30 13:00:00,2024,11,Austrian Grand Prix,Kevin Magnussen,Haas F1 Team,12.0,8.0
+2024-06-30 13:00:00,2024,11,Austrian Grand Prix,Daniel Ricciardo,RB,11.0,9.0
+2024-06-30 13:00:00,2024,11,Austrian Grand Prix,Pierre Gasly,Alpine,13.0,10.0
+2024-06-30 13:00:00,2024,11,Austrian Grand Prix,Charles Leclerc,Ferrari,6.0,11.0
+2024-06-30 13:00:00,2024,11,Austrian Grand Prix,Esteban Ocon,Alpine,10.0,12.0
+2024-06-30 13:00:00,2024,11,Austrian Grand Prix,Lance Stroll,Aston Martin,17.0,13.0
+2024-06-30 13:00:00,2024,11,Austrian Grand Prix,Yuki Tsunoda,RB,14.0,14.0
+2024-06-30 13:00:00,2024,11,Austrian Grand Prix,Alexander Albon,Williams,16.0,15.0
+2024-06-30 13:00:00,2024,11,Austrian Grand Prix,Valtteri Bottas,Kick Sauber,18.0,16.0
+2024-06-30 13:00:00,2024,11,Austrian Grand Prix,Guanyu Zhou,Kick Sauber,20.0,17.0
+2024-06-30 13:00:00,2024,11,Austrian Grand Prix,Fernando Alonso,Aston Martin,15.0,18.0
+2024-06-30 13:00:00,2024,11,Austrian Grand Prix,Logan Sargeant,Williams,19.0,19.0
+2024-06-30 13:00:00,2024,11,Austrian Grand Prix,Lando Norris,McLaren,2.0,20.0
+2024-07-07 14:00:00,2024,12,British Grand Prix,Lewis Hamilton,Mercedes,2.0,1.0
+2024-07-07 14:00:00,2024,12,British Grand Prix,Max Verstappen,Red Bull Racing,4.0,2.0
+2024-07-07 14:00:00,2024,12,British Grand Prix,Lando Norris,McLaren,3.0,3.0
+2024-07-07 14:00:00,2024,12,British Grand Prix,Oscar Piastri,McLaren,5.0,4.0
+2024-07-07 14:00:00,2024,12,British Grand Prix,Carlos Sainz,Ferrari,7.0,5.0
+2024-07-07 14:00:00,2024,12,British Grand Prix,Nico Hulkenberg,Haas F1 Team,6.0,6.0
+2024-07-07 14:00:00,2024,12,British Grand Prix,Lance Stroll,Aston Martin,8.0,7.0
+2024-07-07 14:00:00,2024,12,British Grand Prix,Fernando Alonso,Aston Martin,10.0,8.0
+2024-07-07 14:00:00,2024,12,British Grand Prix,Alexander Albon,Williams,9.0,9.0
+2024-07-07 14:00:00,2024,12,British Grand Prix,Yuki Tsunoda,RB,13.0,10.0
+2024-07-07 14:00:00,2024,12,British Grand Prix,Logan Sargeant,Williams,12.0,11.0
+2024-07-07 14:00:00,2024,12,British Grand Prix,Kevin Magnussen,Haas F1 Team,17.0,12.0
+2024-07-07 14:00:00,2024,12,British Grand Prix,Daniel Ricciardo,RB,15.0,13.0
+2024-07-07 14:00:00,2024,12,British Grand Prix,Charles Leclerc,Ferrari,11.0,14.0
+2024-07-07 14:00:00,2024,12,British Grand Prix,Valtteri Bottas,Kick Sauber,16.0,15.0
+2024-07-07 14:00:00,2024,12,British Grand Prix,Esteban Ocon,Alpine,18.0,16.0
+2024-07-07 14:00:00,2024,12,British Grand Prix,Sergio Perez,Red Bull Racing,20.0,17.0
+2024-07-07 14:00:00,2024,12,British Grand Prix,Guanyu Zhou,Kick Sauber,14.0,18.0
+2024-07-07 14:00:00,2024,12,British Grand Prix,George Russell,Mercedes,1.0,19.0
+2024-07-07 14:00:00,2024,12,British Grand Prix,Pierre Gasly,Alpine,19.0,20.0
+2024-07-21 13:00:00,2024,13,Hungarian Grand Prix,Oscar Piastri,McLaren,2.0,1.0
+2024-07-21 13:00:00,2024,13,Hungarian Grand Prix,Lando Norris,McLaren,1.0,2.0
+2024-07-21 13:00:00,2024,13,Hungarian Grand Prix,Lewis Hamilton,Mercedes,5.0,3.0
+2024-07-21 13:00:00,2024,13,Hungarian Grand Prix,Charles Leclerc,Ferrari,6.0,4.0
+2024-07-21 13:00:00,2024,13,Hungarian Grand Prix,Max Verstappen,Red Bull Racing,3.0,5.0
+2024-07-21 13:00:00,2024,13,Hungarian Grand Prix,Carlos Sainz,Ferrari,4.0,6.0
+2024-07-21 13:00:00,2024,13,Hungarian Grand Prix,Sergio Perez,Red Bull Racing,16.0,7.0
+2024-07-21 13:00:00,2024,13,Hungarian Grand Prix,George Russell,Mercedes,17.0,8.0
+2024-07-21 13:00:00,2024,13,Hungarian Grand Prix,Yuki Tsunoda,RB,10.0,9.0
+2024-07-21 13:00:00,2024,13,Hungarian Grand Prix,Lance Stroll,Aston Martin,8.0,10.0
+2024-07-21 13:00:00,2024,13,Hungarian Grand Prix,Fernando Alonso,Aston Martin,7.0,11.0
+2024-07-21 13:00:00,2024,13,Hungarian Grand Prix,Daniel Ricciardo,RB,9.0,12.0
+2024-07-21 13:00:00,2024,13,Hungarian Grand Prix,Nico Hulkenberg,Haas F1 Team,11.0,13.0
+2024-07-21 13:00:00,2024,13,Hungarian Grand Prix,Alexander Albon,Williams,13.0,14.0
+2024-07-21 13:00:00,2024,13,Hungarian Grand Prix,Kevin Magnussen,Haas F1 Team,15.0,15.0
+2024-07-21 13:00:00,2024,13,Hungarian Grand Prix,Valtteri Bottas,Kick Sauber,12.0,16.0
+2024-07-21 13:00:00,2024,13,Hungarian Grand Prix,Logan Sargeant,Williams,14.0,17.0
+2024-07-21 13:00:00,2024,13,Hungarian Grand Prix,Esteban Ocon,Alpine,19.0,18.0
+2024-07-21 13:00:00,2024,13,Hungarian Grand Prix,Guanyu Zhou,Kick Sauber,18.0,19.0
+2024-07-21 13:00:00,2024,13,Hungarian Grand Prix,Pierre Gasly,Alpine,20.0,20.0
+2024-07-28 13:00:00,2024,14,Belgian Grand Prix,Lewis Hamilton,Mercedes,3.0,1.0
+2024-07-28 13:00:00,2024,14,Belgian Grand Prix,Oscar Piastri,McLaren,5.0,2.0
+2024-07-28 13:00:00,2024,14,Belgian Grand Prix,Charles Leclerc,Ferrari,1.0,3.0
+2024-07-28 13:00:00,2024,14,Belgian Grand Prix,Max Verstappen,Red Bull Racing,11.0,4.0
+2024-07-28 13:00:00,2024,14,Belgian Grand Prix,Lando Norris,McLaren,4.0,5.0
+2024-07-28 13:00:00,2024,14,Belgian Grand Prix,Carlos Sainz,Ferrari,7.0,6.0
+2024-07-28 13:00:00,2024,14,Belgian Grand Prix,Sergio Perez,Red Bull Racing,2.0,7.0
+2024-07-28 13:00:00,2024,14,Belgian Grand Prix,Fernando Alonso,Aston Martin,8.0,8.0
+2024-07-28 13:00:00,2024,14,Belgian Grand Prix,Esteban Ocon,Alpine,9.0,9.0
+2024-07-28 13:00:00,2024,14,Belgian Grand Prix,Daniel Ricciardo,RB,13.0,10.0
+2024-07-28 13:00:00,2024,14,Belgian Grand Prix,Lance Stroll,Aston Martin,15.0,11.0
+2024-07-28 13:00:00,2024,14,Belgian Grand Prix,Alexander Albon,Williams,10.0,12.0
+2024-07-28 13:00:00,2024,14,Belgian Grand Prix,Pierre Gasly,Alpine,12.0,13.0
+2024-07-28 13:00:00,2024,14,Belgian Grand Prix,Kevin Magnussen,Haas F1 Team,17.0,14.0
+2024-07-28 13:00:00,2024,14,Belgian Grand Prix,Valtteri Bottas,Kick Sauber,14.0,15.0
+2024-07-28 13:00:00,2024,14,Belgian Grand Prix,Yuki Tsunoda,RB,20.0,16.0
+2024-07-28 13:00:00,2024,14,Belgian Grand Prix,Logan Sargeant,Williams,18.0,17.0
+2024-07-28 13:00:00,2024,14,Belgian Grand Prix,Nico Hulkenberg,Haas F1 Team,16.0,18.0
+2024-07-28 13:00:00,2024,14,Belgian Grand Prix,Guanyu Zhou,Kick Sauber,19.0,19.0
+2024-07-28 13:00:00,2024,14,Belgian Grand Prix,George Russell,Mercedes,6.0,20.0
+2024-08-25 13:00:00,2024,15,Dutch Grand Prix,Lando Norris,McLaren,1.0,1.0
+2024-08-25 13:00:00,2024,15,Dutch Grand Prix,Max Verstappen,Red Bull Racing,2.0,2.0
+2024-08-25 13:00:00,2024,15,Dutch Grand Prix,Charles Leclerc,Ferrari,6.0,3.0
+2024-08-25 13:00:00,2024,15,Dutch Grand Prix,Oscar Piastri,McLaren,3.0,4.0
+2024-08-25 13:00:00,2024,15,Dutch Grand Prix,Carlos Sainz,Ferrari,10.0,5.0
+2024-08-25 13:00:00,2024,15,Dutch Grand Prix,Sergio Perez,Red Bull Racing,5.0,6.0
+2024-08-25 13:00:00,2024,15,Dutch Grand Prix,George Russell,Mercedes,4.0,7.0
+2024-08-25 13:00:00,2024,15,Dutch Grand Prix,Lewis Hamilton,Mercedes,14.0,8.0
+2024-08-25 13:00:00,2024,15,Dutch Grand Prix,Pierre Gasly,Alpine,9.0,9.0
+2024-08-25 13:00:00,2024,15,Dutch Grand Prix,Fernando Alonso,Aston Martin,7.0,10.0
+2024-08-25 13:00:00,2024,15,Dutch Grand Prix,Nico Hulkenberg,Haas F1 Team,12.0,11.0
+2024-08-25 13:00:00,2024,15,Dutch Grand Prix,Daniel Ricciardo,RB,13.0,12.0
+2024-08-25 13:00:00,2024,15,Dutch Grand Prix,Lance Stroll,Aston Martin,8.0,13.0
+2024-08-25 13:00:00,2024,15,Dutch Grand Prix,Alexander Albon,Williams,19.0,14.0
+2024-08-25 13:00:00,2024,15,Dutch Grand Prix,Esteban Ocon,Alpine,15.0,15.0
+2024-08-25 13:00:00,2024,15,Dutch Grand Prix,Logan Sargeant,Williams,18.0,16.0
+2024-08-25 13:00:00,2024,15,Dutch Grand Prix,Yuki Tsunoda,RB,11.0,17.0
+2024-08-25 13:00:00,2024,15,Dutch Grand Prix,Kevin Magnussen,Haas F1 Team,20.0,18.0
+2024-08-25 13:00:00,2024,15,Dutch Grand Prix,Valtteri Bottas,Kick Sauber,16.0,19.0
+2024-08-25 13:00:00,2024,15,Dutch Grand Prix,Guanyu Zhou,Kick Sauber,17.0,20.0
+2024-09-01 13:00:00,2024,16,Italian Grand Prix,Charles Leclerc,Ferrari,4.0,1.0
+2024-09-01 13:00:00,2024,16,Italian Grand Prix,Oscar Piastri,McLaren,2.0,2.0
+2024-09-01 13:00:00,2024,16,Italian Grand Prix,Lando Norris,McLaren,1.0,3.0
+2024-09-01 13:00:00,2024,16,Italian Grand Prix,Carlos Sainz,Ferrari,5.0,4.0
+2024-09-01 13:00:00,2024,16,Italian Grand Prix,Lewis Hamilton,Mercedes,6.0,5.0
+2024-09-01 13:00:00,2024,16,Italian Grand Prix,Max Verstappen,Red Bull Racing,7.0,6.0
+2024-09-01 13:00:00,2024,16,Italian Grand Prix,George Russell,Mercedes,3.0,7.0
+2024-09-01 13:00:00,2024,16,Italian Grand Prix,Sergio Perez,Red Bull Racing,8.0,8.0
+2024-09-01 13:00:00,2024,16,Italian Grand Prix,Alexander Albon,Williams,9.0,9.0
+2024-09-01 13:00:00,2024,16,Italian Grand Prix,Kevin Magnussen,Haas F1 Team,13.0,10.0
+2024-09-01 13:00:00,2024,16,Italian Grand Prix,Fernando Alonso,Aston Martin,11.0,11.0
+2024-09-01 13:00:00,2024,16,Italian Grand Prix,Franco Colapinto,Williams,18.0,12.0
+2024-09-01 13:00:00,2024,16,Italian Grand Prix,Daniel Ricciardo,RB,12.0,13.0
+2024-09-01 13:00:00,2024,16,Italian Grand Prix,Esteban Ocon,Alpine,15.0,14.0
+2024-09-01 13:00:00,2024,16,Italian Grand Prix,Pierre Gasly,Alpine,14.0,15.0
+2024-09-01 13:00:00,2024,16,Italian Grand Prix,Valtteri Bottas,Kick Sauber,19.0,16.0
+2024-09-01 13:00:00,2024,16,Italian Grand Prix,Nico Hulkenberg,Haas F1 Team,10.0,17.0
+2024-09-01 13:00:00,2024,16,Italian Grand Prix,Guanyu Zhou,Kick Sauber,20.0,18.0
+2024-09-01 13:00:00,2024,16,Italian Grand Prix,Lance Stroll,Aston Martin,17.0,19.0
+2024-09-01 13:00:00,2024,16,Italian Grand Prix,Yuki Tsunoda,RB,16.0,20.0
+2024-09-15 11:00:00,2024,17,Azerbaijan Grand Prix,Oscar Piastri,McLaren,2.0,1.0
+2024-09-15 11:00:00,2024,17,Azerbaijan Grand Prix,Charles Leclerc,Ferrari,1.0,2.0
+2024-09-15 11:00:00,2024,17,Azerbaijan Grand Prix,George Russell,Mercedes,5.0,3.0
+2024-09-15 11:00:00,2024,17,Azerbaijan Grand Prix,Lando Norris,McLaren,15.0,4.0
+2024-09-15 11:00:00,2024,17,Azerbaijan Grand Prix,Max Verstappen,Red Bull Racing,6.0,5.0
+2024-09-15 11:00:00,2024,17,Azerbaijan Grand Prix,Fernando Alonso,Aston Martin,7.0,6.0
+2024-09-15 11:00:00,2024,17,Azerbaijan Grand Prix,Alexander Albon,Williams,9.0,7.0
+2024-09-15 11:00:00,2024,17,Azerbaijan Grand Prix,Franco Colapinto,Williams,8.0,8.0
+2024-09-15 11:00:00,2024,17,Azerbaijan Grand Prix,Lewis Hamilton,Mercedes,19.0,9.0
+2024-09-15 11:00:00,2024,17,Azerbaijan Grand Prix,Oliver Bearman,Haas F1 Team,10.0,10.0
+2024-09-15 11:00:00,2024,17,Azerbaijan Grand Prix,Nico Hulkenberg,Haas F1 Team,12.0,11.0
+2024-09-15 11:00:00,2024,17,Azerbaijan Grand Prix,Pierre Gasly,Alpine,18.0,12.0
+2024-09-15 11:00:00,2024,17,Azerbaijan Grand Prix,Daniel Ricciardo,RB,14.0,13.0
+2024-09-15 11:00:00,2024,17,Azerbaijan Grand Prix,Guanyu Zhou,Kick Sauber,17.0,14.0
+2024-09-15 11:00:00,2024,17,Azerbaijan Grand Prix,Esteban Ocon,Alpine,20.0,15.0
+2024-09-15 11:00:00,2024,17,Azerbaijan Grand Prix,Valtteri Bottas,Kick Sauber,16.0,16.0
+2024-09-15 11:00:00,2024,17,Azerbaijan Grand Prix,Sergio Perez,Red Bull Racing,4.0,17.0
+2024-09-15 11:00:00,2024,17,Azerbaijan Grand Prix,Carlos Sainz,Ferrari,3.0,18.0
+2024-09-15 11:00:00,2024,17,Azerbaijan Grand Prix,Lance Stroll,Aston Martin,13.0,19.0
+2024-09-15 11:00:00,2024,17,Azerbaijan Grand Prix,Yuki Tsunoda,RB,11.0,20.0
+2024-09-22 12:00:00,2024,18,Singapore Grand Prix,Lando Norris,McLaren,1.0,1.0
+2024-09-22 12:00:00,2024,18,Singapore Grand Prix,Max Verstappen,Red Bull Racing,2.0,2.0
+2024-09-22 12:00:00,2024,18,Singapore Grand Prix,Oscar Piastri,McLaren,5.0,3.0
+2024-09-22 12:00:00,2024,18,Singapore Grand Prix,George Russell,Mercedes,4.0,4.0
+2024-09-22 12:00:00,2024,18,Singapore Grand Prix,Charles Leclerc,Ferrari,9.0,5.0
+2024-09-22 12:00:00,2024,18,Singapore Grand Prix,Lewis Hamilton,Mercedes,3.0,6.0
+2024-09-22 12:00:00,2024,18,Singapore Grand Prix,Carlos Sainz,Ferrari,10.0,7.0
+2024-09-22 12:00:00,2024,18,Singapore Grand Prix,Fernando Alonso,Aston Martin,7.0,8.0
+2024-09-22 12:00:00,2024,18,Singapore Grand Prix,Nico Hulkenberg,Haas F1 Team,6.0,9.0
+2024-09-22 12:00:00,2024,18,Singapore Grand Prix,Sergio Perez,Red Bull Racing,13.0,10.0
+2024-09-22 12:00:00,2024,18,Singapore Grand Prix,Franco Colapinto,Williams,12.0,11.0
+2024-09-22 12:00:00,2024,18,Singapore Grand Prix,Yuki Tsunoda,RB,8.0,12.0
+2024-09-22 12:00:00,2024,18,Singapore Grand Prix,Esteban Ocon,Alpine,15.0,13.0
+2024-09-22 12:00:00,2024,18,Singapore Grand Prix,Lance Stroll,Aston Martin,17.0,14.0
+2024-09-22 12:00:00,2024,18,Singapore Grand Prix,Guanyu Zhou,Kick Sauber,20.0,15.0
+2024-09-22 12:00:00,2024,18,Singapore Grand Prix,Valtteri Bottas,Kick Sauber,19.0,16.0
+2024-09-22 12:00:00,2024,18,Singapore Grand Prix,Pierre Gasly,Alpine,18.0,17.0
+2024-09-22 12:00:00,2024,18,Singapore Grand Prix,Daniel Ricciardo,RB,16.0,18.0
+2024-09-22 12:00:00,2024,18,Singapore Grand Prix,Kevin Magnussen,Haas F1 Team,14.0,19.0
+2024-09-22 12:00:00,2024,18,Singapore Grand Prix,Alexander Albon,Williams,11.0,20.0
+2024-10-20 19:00:00,2024,19,United States Grand Prix,Charles Leclerc,Ferrari,4.0,1.0
+2024-10-20 19:00:00,2024,19,United States Grand Prix,Carlos Sainz,Ferrari,3.0,2.0
+2024-10-20 19:00:00,2024,19,United States Grand Prix,Max Verstappen,Red Bull Racing,2.0,3.0
+2024-10-20 19:00:00,2024,19,United States Grand Prix,Lando Norris,McLaren,1.0,4.0
+2024-10-20 19:00:00,2024,19,United States Grand Prix,Oscar Piastri,McLaren,5.0,5.0
+2024-10-20 19:00:00,2024,19,United States Grand Prix,George Russell,Mercedes,20.0,6.0
+2024-10-20 19:00:00,2024,19,United States Grand Prix,Sergio Perez,Red Bull Racing,9.0,7.0
+2024-10-20 19:00:00,2024,19,United States Grand Prix,Nico Hulkenberg,Haas F1 Team,11.0,8.0
+2024-10-20 19:00:00,2024,19,United States Grand Prix,Liam Lawson,RB,19.0,9.0
+2024-10-20 19:00:00,2024,19,United States Grand Prix,Franco Colapinto,Williams,15.0,10.0
+2024-10-20 19:00:00,2024,19,United States Grand Prix,Kevin Magnussen,Haas F1 Team,8.0,11.0
+2024-10-20 19:00:00,2024,19,United States Grand Prix,Pierre Gasly,Alpine,6.0,12.0
+2024-10-20 19:00:00,2024,19,United States Grand Prix,Fernando Alonso,Aston Martin,7.0,13.0
+2024-10-20 19:00:00,2024,19,United States Grand Prix,Yuki Tsunoda,RB,10.0,14.0
+2024-10-20 19:00:00,2024,19,United States Grand Prix,Lance Stroll,Aston Martin,13.0,15.0
+2024-10-20 19:00:00,2024,19,United States Grand Prix,Alexander Albon,Williams,14.0,16.0
+2024-10-20 19:00:00,2024,19,United States Grand Prix,Valtteri Bottas,Kick Sauber,16.0,17.0
+2024-10-20 19:00:00,2024,19,United States Grand Prix,Esteban Ocon,Alpine,12.0,18.0
+2024-10-20 19:00:00,2024,19,United States Grand Prix,Guanyu Zhou,Kick Sauber,18.0,19.0
+2024-10-20 19:00:00,2024,19,United States Grand Prix,Lewis Hamilton,Mercedes,17.0,20.0
+2024-10-27 20:00:00,2024,20,Mexico City Grand Prix,Carlos Sainz,Ferrari,1.0,1.0
+2024-10-27 20:00:00,2024,20,Mexico City Grand Prix,Lando Norris,McLaren,3.0,2.0
+2024-10-27 20:00:00,2024,20,Mexico City Grand Prix,Charles Leclerc,Ferrari,4.0,3.0
+2024-10-27 20:00:00,2024,20,Mexico City Grand Prix,Lewis Hamilton,Mercedes,6.0,4.0
+2024-10-27 20:00:00,2024,20,Mexico City Grand Prix,George Russell,Mercedes,5.0,5.0
+2024-10-27 20:00:00,2024,20,Mexico City Grand Prix,Max Verstappen,Red Bull Racing,2.0,6.0
+2024-10-27 20:00:00,2024,20,Mexico City Grand Prix,Kevin Magnussen,Haas F1 Team,7.0,7.0
+2024-10-27 20:00:00,2024,20,Mexico City Grand Prix,Oscar Piastri,McLaren,17.0,8.0
+2024-10-27 20:00:00,2024,20,Mexico City Grand Prix,Nico Hulkenberg,Haas F1 Team,10.0,9.0
+2024-10-27 20:00:00,2024,20,Mexico City Grand Prix,Pierre Gasly,Alpine,8.0,10.0
+2024-10-27 20:00:00,2024,20,Mexico City Grand Prix,Lance Stroll,Aston Martin,14.0,11.0
+2024-10-27 20:00:00,2024,20,Mexico City Grand Prix,Franco Colapinto,Williams,16.0,12.0
+2024-10-27 20:00:00,2024,20,Mexico City Grand Prix,Esteban Ocon,Alpine,0.0,13.0
+2024-10-27 20:00:00,2024,20,Mexico City Grand Prix,Valtteri Bottas,Kick Sauber,15.0,14.0
+2024-10-27 20:00:00,2024,20,Mexico City Grand Prix,Guanyu Zhou,Kick Sauber,19.0,15.0
+2024-10-27 20:00:00,2024,20,Mexico City Grand Prix,Liam Lawson,RB,12.0,16.0
+2024-10-27 20:00:00,2024,20,Mexico City Grand Prix,Sergio Perez,Red Bull Racing,18.0,17.0
+2024-10-27 20:00:00,2024,20,Mexico City Grand Prix,Fernando Alonso,Aston Martin,13.0,18.0
+2024-10-27 20:00:00,2024,20,Mexico City Grand Prix,Alexander Albon,Williams,9.0,19.0
+2024-10-27 20:00:00,2024,20,Mexico City Grand Prix,Yuki Tsunoda,RB,11.0,20.0
+2024-11-03 15:30:00,2024,21,São Paulo Grand Prix,Max Verstappen,Red Bull Racing,17.0,1.0
+2024-11-03 15:30:00,2024,21,São Paulo Grand Prix,Esteban Ocon,Alpine,4.0,2.0
+2024-11-03 15:30:00,2024,21,São Paulo Grand Prix,Pierre Gasly,Alpine,13.0,3.0
+2024-11-03 15:30:00,2024,21,São Paulo Grand Prix,George Russell,Mercedes,2.0,4.0
+2024-11-03 15:30:00,2024,21,São Paulo Grand Prix,Charles Leclerc,Ferrari,6.0,5.0
+2024-11-03 15:30:00,2024,21,São Paulo Grand Prix,Lando Norris,McLaren,1.0,6.0
+2024-11-03 15:30:00,2024,21,São Paulo Grand Prix,Yuki Tsunoda,RB,3.0,7.0
+2024-11-03 15:30:00,2024,21,São Paulo Grand Prix,Oscar Piastri,McLaren,8.0,8.0
+2024-11-03 15:30:00,2024,21,São Paulo Grand Prix,Liam Lawson,RB,5.0,9.0
+2024-11-03 15:30:00,2024,21,São Paulo Grand Prix,Lewis Hamilton,Mercedes,14.0,10.0
+2024-11-03 15:30:00,2024,21,São Paulo Grand Prix,Sergio Perez,Red Bull Racing,12.0,11.0
+2024-11-03 15:30:00,2024,21,São Paulo Grand Prix,Oliver Bearman,Haas F1 Team,15.0,12.0
+2024-11-03 15:30:00,2024,21,São Paulo Grand Prix,Valtteri Bottas,Kick Sauber,11.0,13.0
+2024-11-03 15:30:00,2024,21,São Paulo Grand Prix,Fernando Alonso,Aston Martin,9.0,14.0
+2024-11-03 15:30:00,2024,21,São Paulo Grand Prix,Guanyu Zhou,Kick Sauber,19.0,15.0
+2024-11-03 15:30:00,2024,21,São Paulo Grand Prix,Carlos Sainz,Ferrari,20.0,16.0
+2024-11-03 15:30:00,2024,21,São Paulo Grand Prix,Franco Colapinto,Williams,16.0,17.0
+2024-11-03 15:30:00,2024,21,São Paulo Grand Prix,Alexander Albon,Williams,7.0,18.0
+2024-11-03 15:30:00,2024,21,São Paulo Grand Prix,Lance Stroll,Aston Martin,10.0,19.0
+2024-11-03 15:30:00,2024,21,São Paulo Grand Prix,Nico Hulkenberg,Haas F1 Team,18.0,20.0
+2024-11-24 06:00:00,2024,22,Las Vegas Grand Prix,George Russell,Mercedes,1.0,1.0
+2024-11-24 06:00:00,2024,22,Las Vegas Grand Prix,Lewis Hamilton,Mercedes,10.0,2.0
+2024-11-24 06:00:00,2024,22,Las Vegas Grand Prix,Carlos Sainz,Ferrari,2.0,3.0
+2024-11-24 06:00:00,2024,22,Las Vegas Grand Prix,Charles Leclerc,Ferrari,4.0,4.0
+2024-11-24 06:00:00,2024,22,Las Vegas Grand Prix,Max Verstappen,Red Bull Racing,5.0,5.0
+2024-11-24 06:00:00,2024,22,Las Vegas Grand Prix,Lando Norris,McLaren,6.0,6.0
+2024-11-24 06:00:00,2024,22,Las Vegas Grand Prix,Oscar Piastri,McLaren,8.0,7.0
+2024-11-24 06:00:00,2024,22,Las Vegas Grand Prix,Nico Hulkenberg,Haas F1 Team,9.0,8.0
+2024-11-24 06:00:00,2024,22,Las Vegas Grand Prix,Yuki Tsunoda,RB,7.0,9.0
+2024-11-24 06:00:00,2024,22,Las Vegas Grand Prix,Sergio Perez,Red Bull Racing,15.0,10.0
+2024-11-24 06:00:00,2024,22,Las Vegas Grand Prix,Fernando Alonso,Aston Martin,16.0,11.0
+2024-11-24 06:00:00,2024,22,Las Vegas Grand Prix,Kevin Magnussen,Haas F1 Team,12.0,12.0
+2024-11-24 06:00:00,2024,22,Las Vegas Grand Prix,Guanyu Zhou,Kick Sauber,13.0,13.0
+2024-11-24 06:00:00,2024,22,Las Vegas Grand Prix,Franco Colapinto,Williams,20.0,14.0
+2024-11-24 06:00:00,2024,22,Las Vegas Grand Prix,Lance Stroll,Aston Martin,18.0,15.0
+2024-11-24 06:00:00,2024,22,Las Vegas Grand Prix,Liam Lawson,RB,14.0,16.0
+2024-11-24 06:00:00,2024,22,Las Vegas Grand Prix,Esteban Ocon,Alpine,11.0,17.0
+2024-11-24 06:00:00,2024,22,Las Vegas Grand Prix,Valtteri Bottas,Kick Sauber,19.0,18.0
+2024-11-24 06:00:00,2024,22,Las Vegas Grand Prix,Alexander Albon,Williams,17.0,19.0
+2024-11-24 06:00:00,2024,22,Las Vegas Grand Prix,Pierre Gasly,Alpine,3.0,20.0

@@ -1,0 +1,775 @@
+season,round,race_name,circuit,date,driver,driver_id,constructor,grid,position,status,points,Q1,Q2,Q3,podium,qualifying_time,circuit_encoded,driver_form,constructor_form,grid_advantage
+2022,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2022-06-19,Alexander Albon,albon,Williams,12,13,Finished,0.0,94.047,86.858,,0,86.858,7,10.666666666666666,10.666666666666666,-1
+2022,12,French Grand Prix,Circuit Paul Ricard,2022-07-24,Alexander Albon,albon,Williams,13,13,Finished,0.0,93.423,93.307,,0,93.307,9,10.666666666666666,10.666666666666666,0
+2022,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2022-08-28,Alexander Albon,albon,Williams,6,10,Finished,1.0,105.672,105.675,105.837,0,105.672,12,11.666666666666666,11.666666666666666,-4
+2022,15,Dutch Grand Prix,Circuit Park Zandvoort,2022-09-04,Alexander Albon,albon,Williams,15,12,Finished,0.0,71.695,71.80199999999999,,0,71.695,8,12.0,12.0,3
+2022,19,United States Grand Prix,Circuit of the Americas,2022-10-23,Alexander Albon,albon,Williams,8,13,Finished,0.0,96.932,96.368,,0,96.368,13,11.666666666666666,11.666666666666666,-5
+2022,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2022-11-13,Alexander Albon,albon,Williams,19,15,Finished,0.0,74.324,71.631,,0,71.631,4,11.666666666666666,11.666666666666666,4
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,2023-03-05,Alexander Albon,albon,Williams,15,10,Finished,1.0,91.461,,,0,91.461,5,13.333333333333334,13.333333333333334,5
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,2023-04-30,Alexander Albon,albon,Williams,12,12,Finished,0.0,102.171,101.818,,0,101.818,6,12.666666666666666,12.666666666666666,0
+2023,5,Miami Grand Prix,Miami International Autodrome,2023-05-07,Alexander Albon,albon,Williams,11,14,Finished,0.0,88.23400000000001,87.795,,0,87.795,19,12.333333333333334,12.333333333333334,-3
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,2023-06-18,Alexander Albon,albon,Williams,9,7,Finished,6.0,81.938,78.725,,0,78.725,7,12.0,12.0,2
+2023,9,Austrian Grand Prix,Red Bull Ring,2023-07-02,Alexander Albon,albon,Williams,10,11,Finished,0.0,65.673,65.387,65.82300000000001,0,65.387,20,11.0,11.0,-1
+2023,10,British Grand Prix,Silverstone Circuit,2023-07-09,Alexander Albon,albon,Williams,8,8,Finished,4.0,89.46600000000001,88.06700000000001,87.53,0,87.53,22,10.666666666666666,10.666666666666666,0
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,2023-07-30,Alexander Albon,albon,Williams,15,14,Finished,0.0,120.314,,,0,120.314,12,8.666666666666666,8.666666666666666,1
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,2023-08-27,Alexander Albon,albon,Williams,4,8,Finished,4.0,80.939,79.399,71.419,0,71.419,8,11.0,11.0,-4
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,2023-09-03,Alexander Albon,albon,Williams,6,7,Finished,6.0,81.661,81.27199999999999,80.76,0,80.76,2,10.0,10.0,-1
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,2023-09-17,Alexander Albon,albon,Williams,14,11,Finished,0.0,92.668,93.719,,0,92.668,18,9.666666666666666,9.666666666666666,3
+2023,17,Qatar Grand Prix,Losail International Circuit,2023-10-08,Alexander Albon,albon,Williams,13,13,Finished,0.0,86.118,85.707,,0,85.707,17,8.666666666666666,8.666666666666666,0
+2023,18,United States Grand Prix,Circuit of the Americas,2023-10-22,Alexander Albon,albon,Williams,15,9,Finished,2.0,96.315,,,0,96.315,13,10.333333333333334,10.333333333333334,6
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2023-10-29,Alexander Albon,albon,Williams,14,9,Finished,2.0,78.828,79.14699999999999,,0,78.828,3,11.0,11.0,5
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2023-11-19,Alexander Albon,albon,Williams,5,12,Finished,0.0,94.634,93.588,93.323,0,93.323,16,10.333333333333334,10.333333333333334,-7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2023-11-26,Alexander Albon,albon,Williams,14,14,Finished,0.0,84.298,84.439,,0,84.298,24,10.0,10.0,0
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,Alexander Albon,albon,Williams,12,11,Finished,0.0,89.107,88.98,,0,88.98,15,11.666666666666666,11.666666666666666,1
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,Alexander Albon,albon,Williams,14,12,Finished,0.0,95.384,95.241,,0,95.241,21,12.333333333333334,12.333333333333334,2
+2024,6,Miami Grand Prix,Miami International Autodrome,2024-05-05,Alexander Albon,albon,Williams,14,18,Finished,0.0,88.343,88.413,,0,88.343,19,12.333333333333334,12.333333333333334,-4
+2024,12,British Grand Prix,Silverstone Circuit,2024-07-07,Alexander Albon,albon,Williams,9,9,Finished,2.0,91.135,86.93299999999999,86.64,0,86.64,22,13.666666666666666,13.666666666666666,0
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2024-07-28,Alexander Albon,albon,Williams,10,12,Finished,0.0,115.722,114.473,,0,114.473,12,13.0,13.0,-2
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,2024-09-01,Alexander Albon,albon,Williams,9,9,Finished,2.0,80.542,80.314,80.299,0,80.299,2,13.0,13.0,0
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,2024-09-15,Alexander Albon,albon,Williams,9,7,Finished,6.0,102.899,102.84,102.859,0,102.84,6,10.0,10.0,2
+2022,6,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2022-05-22,Carlos Sainz,sainz,Ferrari,3,4,Finished,12.0,79.892,79.453,79.166,0,79.166,10,2.6666666666666665,2.6666666666666665,-1
+2022,7,Monaco Grand Prix,Circuit de Monaco,2022-05-29,Carlos Sainz,sainz,Ferrari,2,2,Finished,18.0,72.616,72.074,71.601,1,71.601,11,3.3333333333333335,3.3333333333333335,0
+2022,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2022-06-19,Carlos Sainz,sainz,Ferrari,3,2,Finished,19.0,92.781,85.197,82.096,1,82.096,7,3.0,3.0,1
+2022,10,British Grand Prix,Silverstone Circuit,2022-07-03,Carlos Sainz,sainz,Ferrari,1,1,Finished,25.0,100.19,101.602,100.983,1,100.19,22,2.6666666666666665,2.6666666666666665,0
+2022,12,French Grand Prix,Circuit Paul Ricard,2022-07-24,Carlos Sainz,sainz,Ferrari,19,5,Finished,11.0,92.297,91.081,,0,91.081,9,1.6666666666666667,1.6666666666666667,14
+2022,13,Hungarian Grand Prix,Hungaroring,2022-07-31,Carlos Sainz,sainz,Ferrari,2,4,Finished,12.0,78.434,77.946,77.42099999999999,0,77.42099999999999,14,2.6666666666666665,2.6666666666666665,-2
+2022,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2022-08-28,Carlos Sainz,sainz,Ferrari,1,3,Finished,15.0,105.05,105.418,104.297,1,104.297,12,3.3333333333333335,3.3333333333333335,-2
+2022,15,Dutch Grand Prix,Circuit Park Zandvoort,2022-09-04,Carlos Sainz,sainz,Ferrari,3,8,Finished,4.0,71.767,70.814,70.434,0,70.434,8,4.0,4.0,-5
+2022,16,Italian Grand Prix,Autodromo Nazionale di Monza,2022-09-11,Carlos Sainz,sainz,Ferrari,18,4,Finished,12.0,81.348,80.878,80.429,0,80.429,2,5.0,5.0,14
+2022,17,Singapore Grand Prix,Marina Bay Street Circuit,2022-10-02,Carlos Sainz,sainz,Ferrari,4,3,Finished,15.0,114.559,113.219,109.583,1,109.583,18,5.0,5.0,1
+2022,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2022-10-30,Carlos Sainz,sainz,Ferrari,5,5,Finished,10.0,79.566,78.56,78.351,0,78.351,3,5.0,5.0,0
+2022,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2022-11-13,Carlos Sainz,sainz,Ferrari,7,3,Finished,15.0,74.68,70.89,72.357,1,70.89,4,4.0,4.0,4
+2022,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2022-11-20,Carlos Sainz,sainz,Ferrari,4,4,Finished,12.0,85.09,84.521,84.242,0,84.242,24,3.6666666666666665,3.6666666666666665,0
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,2023-03-05,Carlos Sainz,sainz,Ferrari,4,4,Finished,12.0,90.993,90.515,90.154,0,90.154,5,4.0,4.0,0
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2023-03-19,Carlos Sainz,sainz,Ferrari,4,6,Finished,8.0,89.411,88.957,88.931,0,88.931,15,3.6666666666666665,3.6666666666666665,-2
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2023-04-02,Carlos Sainz,sainz,Ferrari,5,12,Finished,0.0,77.928,77.349,77.27,0,77.27,0,4.666666666666667,4.666666666666667,-7
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,2023-04-30,Carlos Sainz,sainz,Ferrari,4,5,Finished,10.0,102.197,101.369,101.016,0,101.016,6,7.333333333333333,7.333333333333333,-1
+2023,5,Miami Grand Prix,Miami International Autodrome,2023-05-07,Carlos Sainz,sainz,Ferrari,3,5,Finished,10.0,87.686,87.148,87.349,0,87.148,19,7.666666666666667,7.666666666666667,-2
+2023,6,Monaco Grand Prix,Circuit de Monaco,2023-05-28,Carlos Sainz,sainz,Ferrari,4,8,Finished,4.0,72.717,72.21000000000001,71.63,0,71.63,11,7.333333333333333,7.333333333333333,-4
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2023-06-04,Carlos Sainz,sainz,Ferrari,2,5,Finished,10.0,73.411,72.78999999999999,72.734,0,72.734,10,6.0,6.0,-3
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,2023-06-18,Carlos Sainz,sainz,Ferrari,11,5,Finished,10.0,82.248,79.856,89.294,0,79.856,7,6.0,6.0,6
+2023,9,Austrian Grand Prix,Red Bull Ring,2023-07-02,Carlos Sainz,sainz,Ferrari,3,6,Finished,8.0,65.339,64.975,64.581,0,64.581,20,6.0,6.0,-3
+2023,10,British Grand Prix,Silverstone Circuit,2023-07-09,Carlos Sainz,sainz,Ferrari,5,10,Finished,1.0,89.865,88.265,87.148,0,87.148,22,5.333333333333333,5.333333333333333,-5
+2023,11,Hungarian Grand Prix,Hungaroring,2023-07-23,Carlos Sainz,sainz,Ferrari,11,8,Finished,4.0,78.393,77.703,,0,77.703,14,7.0,7.0,3
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,2023-08-27,Carlos Sainz,sainz,Ferrari,6,5,Finished,10.0,81.321,79.929,71.754,0,71.754,8,8.0,8.0,1
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,2023-09-03,Carlos Sainz,sainz,Ferrari,1,3,Finished,15.0,81.965,80.991,80.294,1,80.294,2,7.666666666666667,7.666666666666667,-2
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,2023-09-17,Carlos Sainz,sainz,Ferrari,1,1,Finished,25.0,92.339,91.439,90.984,1,90.984,18,5.333333333333333,5.333333333333333,0
+2023,16,Japanese Grand Prix,Suzuka Circuit,2023-09-24,Carlos Sainz,sainz,Ferrari,6,6,Finished,8.0,90.651,90.06700000000001,89.85,0,89.85,23,3.0,3.0,0
+2023,18,United States Grand Prix,Circuit of the Americas,2023-10-22,Carlos Sainz,sainz,Ferrari,4,3,Finished,15.0,95.824,95.302,94.945,1,94.945,13,3.3333333333333335,3.3333333333333335,1
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2023-10-29,Carlos Sainz,sainz,Ferrari,2,4,Finished,12.0,78.755,78.382,77.233,0,77.233,3,3.3333333333333335,3.3333333333333335,-2
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,2023-11-05,Carlos Sainz,sainz,Ferrari,7,6,Finished,8.0,70.624,70.254,71.989,0,70.254,4,4.333333333333333,4.333333333333333,1
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2023-11-19,Carlos Sainz,sainz,Ferrari,12,6,Finished,8.0,93.851,93.338,92.77,0,92.77,16,4.333333333333333,4.333333333333333,6
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,Carlos Sainz,sainz,Ferrari,4,3,Finished,15.0,89.90899999999999,89.57300000000001,89.507,1,89.507,5,5.333333333333333,5.333333333333333,1
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,Carlos Sainz,sainz,Ferrari,2,1,Finished,25.0,76.731,76.189,76.185,1,76.185,0,5.0,5.0,1
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,Carlos Sainz,sainz,Ferrari,4,3,Finished,15.0,89.513,89.099,88.682,1,88.682,23,3.3333333333333335,3.3333333333333335,1
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,Carlos Sainz,sainz,Ferrari,7,5,Finished,10.0,94.97,94.368,94.297,0,94.297,21,2.3333333333333335,2.3333333333333335,2
+2024,6,Miami Grand Prix,Miami International Autodrome,2024-05-05,Carlos Sainz,sainz,Ferrari,3,5,Finished,10.0,87.937,87.941,87.455,0,87.455,19,3.0,3.0,-2
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2024-05-19,Carlos Sainz,sainz,Ferrari,4,5,Finished,10.0,76.015,75.512,75.233,0,75.233,1,4.333333333333333,4.333333333333333,-1
+2024,8,Monaco Grand Prix,Circuit de Monaco,2024-05-26,Carlos Sainz,sainz,Ferrari,3,3,Finished,15.0,71.543,71.075,70.518,1,70.518,11,5.0,5.0,0
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2024-06-23,Carlos Sainz,sainz,Ferrari,6,6,Finished,8.0,72.403,71.874,71.736,0,71.736,10,4.333333333333333,4.333333333333333,0
+2024,11,Austrian Grand Prix,Red Bull Ring,2024-06-30,Carlos Sainz,sainz,Ferrari,4,3,Finished,15.0,65.263,65.016,64.851,1,64.851,20,4.666666666666667,4.666666666666667,1
+2024,12,British Grand Prix,Silverstone Circuit,2024-07-07,Carlos Sainz,sainz,Ferrari,7,5,Finished,11.0,90.557,86.843,86.509,0,86.509,22,4.0,4.0,2
+2024,13,Hungarian Grand Prix,Hungaroring,2024-07-21,Carlos Sainz,sainz,Ferrari,4,6,Finished,8.0,77.244,75.885,75.696,0,75.696,14,4.666666666666667,4.666666666666667,-2
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2024-07-28,Carlos Sainz,sainz,Ferrari,7,6,Finished,8.0,115.169,114.112,114.477,0,114.112,12,4.666666666666667,4.666666666666667,1
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,2024-08-25,Carlos Sainz,sainz,Ferrari,10,5,Finished,10.0,71.327,70.914,,0,70.914,8,5.666666666666667,5.666666666666667,5
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,2024-09-01,Carlos Sainz,sainz,Ferrari,5,4,Finished,12.0,80.149,79.799,79.467,0,79.467,2,5.666666666666667,5.666666666666667,1
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,2024-09-22,Carlos Sainz,sainz,Ferrari,10,7,Finished,6.0,90.67,90.108,,0,90.108,18,5.0,5.0,3
+2024,19,United States Grand Prix,Circuit of the Americas,2024-10-20,Carlos Sainz,sainz,Ferrari,3,2,Finished,18.0,93.556,92.836,92.652,1,92.652,13,5.333333333333333,5.333333333333333,1
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2024-10-27,Carlos Sainz,sainz,Ferrari,1,1,Finished,25.0,76.77799999999999,76.515,75.946,1,75.946,3,4.333333333333333,4.333333333333333,0
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2024-11-23,Carlos Sainz,sainz,Ferrari,2,3,Finished,15.0,93.484,92.711,92.41,1,92.41,16,3.3333333333333335,3.3333333333333335,-1
+2024,23,Qatar Grand Prix,Losail International Circuit,2024-12-01,Carlos Sainz,sainz,Ferrari,7,6,Finished,8.0,81.447,81.199,81.041,0,81.041,17,2.0,2.0,1
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2024-12-08,Carlos Sainz,sainz,Ferrari,3,2,Finished,18.0,83.487,82.985,82.824,1,82.824,24,3.3333333333333335,3.3333333333333335,1
+2022,4,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2022-04-24,Charles Leclerc,leclerc,Ferrari,2,6,Finished,8.0,78.79599999999999,79.584,88.77799999999999,0,78.79599999999999,1,1.3333333333333333,1.3333333333333333,-4
+2022,5,Miami Grand Prix,Miami International Autodrome,2022-05-08,Charles Leclerc,leclerc,Ferrari,1,2,Finished,18.0,89.474,89.13,88.79599999999999,1,88.79599999999999,19,3.0,3.0,-1
+2022,7,Monaco Grand Prix,Circuit de Monaco,2022-05-29,Charles Leclerc,leclerc,Ferrari,1,4,Finished,12.0,72.569,71.864,71.376,0,71.376,11,3.0,3.0,-3
+2022,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2022-06-19,Charles Leclerc,leclerc,Ferrari,19,5,Finished,10.0,93.008,,,0,93.008,7,4.0,4.0,14
+2022,10,British Grand Prix,Silverstone Circuit,2022-07-03,Charles Leclerc,leclerc,Ferrari,3,4,Finished,12.0,99.846,101.247,101.298,0,99.846,22,3.6666666666666665,3.6666666666666665,-1
+2022,11,Austrian Grand Prix,Red Bull Ring,2022-07-10,Charles Leclerc,leclerc,Ferrari,2,1,Finished,25.0,65.419,65.287,65.013,1,65.013,20,4.333333333333333,4.333333333333333,1
+2022,13,Hungarian Grand Prix,Hungaroring,2022-07-31,Charles Leclerc,leclerc,Ferrari,3,6,Finished,8.0,78.806,77.768,77.56700000000001,0,77.56700000000001,14,3.3333333333333335,3.3333333333333335,-3
+2022,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2022-08-28,Charles Leclerc,leclerc,Ferrari,15,6,Finished,8.0,105.572,104.551,104.553,0,104.551,12,3.6666666666666665,3.6666666666666665,9
+2022,15,Dutch Grand Prix,Circuit Park Zandvoort,2022-09-04,Charles Leclerc,leclerc,Ferrari,2,3,Finished,15.0,71.443,70.988,70.363,1,70.363,8,4.333333333333333,4.333333333333333,-1
+2022,16,Italian Grand Prix,Autodromo Nazionale di Monza,2022-09-11,Charles Leclerc,leclerc,Ferrari,1,2,Finished,18.0,81.28,81.208,80.161,1,80.161,2,5.0,5.0,-1
+2022,17,Singapore Grand Prix,Marina Bay Street Circuit,2022-10-02,Charles Leclerc,leclerc,Ferrari,1,2,Finished,18.0,114.129,112.343,109.412,1,109.412,18,3.6666666666666665,3.6666666666666665,-1
+2022,18,Japanese Grand Prix,Suzuka Circuit,2022-10-09,Charles Leclerc,leclerc,Ferrari,2,3,Finished,15.0,90.402,90.486,89.314,1,89.314,23,2.3333333333333335,2.3333333333333335,-1
+2022,19,United States Grand Prix,Circuit of the Americas,2022-10-23,Charles Leclerc,leclerc,Ferrari,12,3,Finished,15.0,95.795,95.246,94.421,1,94.421,13,2.3333333333333335,2.3333333333333335,9
+2022,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2022-10-30,Charles Leclerc,leclerc,Ferrari,7,6,Finished,8.0,79.505,79.10900000000001,78.555,0,78.555,3,2.6666666666666665,2.6666666666666665,1
+2022,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2022-11-13,Charles Leclerc,leclerc,Ferrari,5,4,Finished,12.0,74.486,70.95,,0,70.95,4,4.0,4.0,1
+2022,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2022-11-20,Charles Leclerc,leclerc,Ferrari,3,2,Finished,18.0,85.211,84.517,84.092,1,84.092,24,4.333333333333333,4.333333333333333,1
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2023-03-19,Charles Leclerc,leclerc,Ferrari,12,7,Finished,6.0,89.376,88.90299999999999,88.42,0,88.42,15,4.0,4.0,5
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,2023-04-30,Charles Leclerc,leclerc,Ferrari,1,3,Finished,15.0,101.269,101.037,100.203,1,100.203,6,4.333333333333333,4.333333333333333,-2
+2023,5,Miami Grand Prix,Miami International Autodrome,2023-05-07,Charles Leclerc,leclerc,Ferrari,7,7,Finished,6.0,87.713,86.964,87.861,0,86.964,19,4.0,4.0,0
+2023,6,Monaco Grand Prix,Circuit de Monaco,2023-05-28,Charles Leclerc,leclerc,Ferrari,6,6,Finished,8.0,72.912,72.103,71.471,0,71.471,11,5.666666666666667,5.666666666666667,0
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2023-06-04,Charles Leclerc,leclerc,Ferrari,19,11,Finished,0.0,74.07900000000001,,,0,74.07900000000001,10,5.333333333333333,5.333333333333333,8
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,2023-06-18,Charles Leclerc,leclerc,Ferrari,10,4,Finished,12.0,81.843,80.615,,0,80.615,7,8.0,8.0,6
+2023,9,Austrian Grand Prix,Red Bull Ring,2023-07-02,Charles Leclerc,leclerc,Ferrari,2,2,Finished,18.0,65.577,65.087,64.439,1,64.439,20,7.0,7.0,0
+2023,10,British Grand Prix,Silverstone Circuit,2023-07-09,Charles Leclerc,leclerc,Ferrari,4,9,Finished,2.0,89.143,88.361,87.136,0,87.136,22,5.666666666666667,5.666666666666667,-5
+2023,11,Hungarian Grand Prix,Hungaroring,2023-07-23,Charles Leclerc,leclerc,Ferrari,6,7,Finished,6.0,78.44,77.58,76.992,0,76.992,14,5.0,5.0,-1
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,2023-07-30,Charles Leclerc,leclerc,Ferrari,1,3,Finished,15.0,118.3,112.017,106.988,1,106.988,12,6.0,6.0,-2
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,2023-09-03,Charles Leclerc,leclerc,Ferrari,3,4,Finished,12.0,81.788,80.977,80.361,0,80.361,2,6.333333333333333,6.333333333333333,-1
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,2023-09-17,Charles Leclerc,leclerc,Ferrari,3,4,Finished,12.0,92.406,92.012,91.063,0,91.063,18,4.666666666666667,4.666666666666667,-1
+2023,16,Japanese Grand Prix,Suzuka Circuit,2023-09-24,Charles Leclerc,leclerc,Ferrari,4,4,Finished,12.0,90.393,89.94,89.542,0,89.542,23,3.6666666666666665,3.6666666666666665,0
+2023,17,Qatar Grand Prix,Losail International Circuit,2023-10-08,Charles Leclerc,leclerc,Ferrari,5,5,Finished,10.0,85.452,85.07900000000001,84.424,0,84.424,17,4.0,4.0,0
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2023-10-29,Charles Leclerc,leclerc,Ferrari,1,3,Finished,15.0,78.401,77.901,77.166,1,77.166,3,4.333333333333333,4.333333333333333,-2
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2023-11-19,Charles Leclerc,leclerc,Ferrari,1,2,Finished,18.0,93.617,92.775,92.726,1,92.726,16,4.0,4.0,-1
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2023-11-26,Charles Leclerc,leclerc,Ferrari,2,2,Finished,18.0,84.459,83.969,83.584,1,83.584,24,3.3333333333333335,3.3333333333333335,0
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,Charles Leclerc,leclerc,Ferrari,2,4,Finished,12.0,90.243,89.16499999999999,89.407,0,89.16499999999999,5,2.3333333333333335,2.3333333333333335,-2
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,Charles Leclerc,leclerc,Ferrari,2,3,Finished,16.0,88.318,88.112,87.791,1,87.791,15,2.6666666666666665,2.6666666666666665,-1
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,Charles Leclerc,leclerc,Ferrari,4,2,Finished,19.0,76.98400000000001,76.304,76.435,1,76.304,0,3.0,3.0,2
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,Charles Leclerc,leclerc,Ferrari,8,4,Finished,12.0,89.338,89.196,88.786,0,88.786,23,3.0,3.0,4
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,Charles Leclerc,leclerc,Ferrari,6,4,Finished,12.0,94.797,94.399,94.289,0,94.289,21,3.0,3.0,2
+2024,6,Miami Grand Prix,Miami International Autodrome,2024-05-05,Charles Leclerc,leclerc,Ferrari,2,3,Finished,15.0,88.081,87.533,87.382,1,87.382,19,3.3333333333333335,3.3333333333333335,-1
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2024-05-19,Charles Leclerc,leclerc,Ferrari,3,3,Finished,15.0,75.82300000000001,75.328,74.97,1,74.97,1,3.6666666666666665,3.6666666666666665,0
+2024,8,Monaco Grand Prix,Circuit de Monaco,2024-05-26,Charles Leclerc,leclerc,Ferrari,1,1,Finished,25.0,71.584,70.825,70.27,1,70.27,11,3.3333333333333335,3.3333333333333335,0
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2024-06-23,Charles Leclerc,leclerc,Ferrari,5,5,Finished,10.0,72.257,72.038,71.731,0,71.731,10,2.3333333333333335,2.3333333333333335,0
+2024,11,Austrian Grand Prix,Red Bull Ring,2024-06-30,Charles Leclerc,leclerc,Ferrari,6,11,Finished,0.0,65.509,65.104,65.044,0,65.044,20,3.0,3.0,-5
+2024,13,Hungarian Grand Prix,Hungaroring,2024-07-21,Charles Leclerc,leclerc,Ferrari,6,4,Finished,12.0,77.437,75.891,75.905,0,75.891,14,5.666666666666667,5.666666666666667,2
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2024-07-28,Charles Leclerc,leclerc,Ferrari,1,3,Finished,15.0,115.349,114.193,113.754,1,113.754,12,6.666666666666667,6.666666666666667,-2
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,2024-08-25,Charles Leclerc,leclerc,Ferrari,6,3,Finished,15.0,71.37,70.689,70.582,1,70.582,8,6.0,6.0,3
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,2024-09-01,Charles Leclerc,leclerc,Ferrari,4,1,Finished,25.0,80.074,80.007,79.461,1,79.461,2,3.3333333333333335,3.3333333333333335,3
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,2024-09-15,Charles Leclerc,leclerc,Ferrari,1,2,Finished,18.0,102.775,102.056,101.365,1,101.365,6,2.3333333333333335,2.3333333333333335,-1
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,2024-09-22,Charles Leclerc,leclerc,Ferrari,9,5,Finished,10.0,90.786,89.747,,0,89.747,18,2.0,2.0,4
+2024,19,United States Grand Prix,Circuit of the Americas,2024-10-20,Charles Leclerc,leclerc,Ferrari,4,1,Finished,25.0,93.241,92.962,92.74,1,92.74,13,2.6666666666666665,2.6666666666666665,3
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2024-10-27,Charles Leclerc,leclerc,Ferrari,4,3,Finished,16.0,76.97200000000001,76.64099999999999,76.265,1,76.265,3,2.6666666666666665,2.6666666666666665,1
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2024-11-03,Charles Leclerc,leclerc,Ferrari,6,5,Finished,10.0,89.839,86.09700000000001,84.525,0,84.525,4,3.0,3.0,1
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2024-11-23,Charles Leclerc,leclerc,Ferrari,4,4,Finished,12.0,93.446,93.016,92.783,0,92.783,16,3.0,3.0,0
+2024,23,Qatar Grand Prix,Losail International Circuit,2024-12-01,Charles Leclerc,leclerc,Ferrari,5,2,Finished,18.0,81.27799999999999,81.0,80.852,1,80.852,17,4.0,4.0,3
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2024-12-08,Charles Leclerc,leclerc,Ferrari,19,3,Finished,15.0,83.30199999999999,83.833,,1,83.30199999999999,24,3.6666666666666665,3.6666666666666665,16
+2022,7,Monaco Grand Prix,Circuit de Monaco,2022-05-29,Daniel Ricciardo,ricciardo,McLaren,14,13,Finished,0.0,73.338,72.964,,0,72.964,11,11.0,11.0,1
+2022,8,Azerbaijan Grand Prix,Baku City Circuit,2022-06-12,Daniel Ricciardo,ricciardo,McLaren,12,8,Finished,4.0,104.437,103.574,,0,103.574,6,10.666666666666666,10.666666666666666,4
+2022,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2022-06-19,Daniel Ricciardo,ricciardo,McLaren,9,11,Finished,0.0,93.636,86.375,83.749,0,83.749,7,11.333333333333334,11.333333333333334,-2
+2022,10,British Grand Prix,Silverstone Circuit,2022-07-03,Daniel Ricciardo,ricciardo,McLaren,14,13,Finished,0.0,101.933,104.355,,0,101.933,22,10.666666666666666,10.666666666666666,1
+2022,12,French Grand Prix,Circuit Paul Ricard,2022-07-24,Daniel Ricciardo,ricciardo,McLaren,9,9,Finished,2.0,93.404,92.922,,0,92.922,9,10.666666666666666,10.666666666666666,0
+2022,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2022-08-28,Daniel Ricciardo,ricciardo,McLaren,7,15,Finished,0.0,106.212,105.767,,0,105.767,12,11.0,11.0,-8
+2022,15,Dutch Grand Prix,Circuit Park Zandvoort,2022-09-04,Daniel Ricciardo,ricciardo,McLaren,17,17,Finished,0.0,72.081,,,0,72.081,8,12.333333333333334,12.333333333333334,0
+2022,17,Singapore Grand Prix,Marina Bay Street Circuit,2022-10-02,Daniel Ricciardo,ricciardo,McLaren,16,5,Finished,10.0,116.226,,,0,116.226,18,13.666666666666666,13.666666666666666,11
+2022,18,Japanese Grand Prix,Suzuka Circuit,2022-10-09,Daniel Ricciardo,ricciardo,McLaren,11,11,Finished,0.0,90.88,90.659,,0,90.659,23,12.333333333333334,12.333333333333334,0
+2022,19,United States Grand Prix,Circuit of the Americas,2022-10-23,Daniel Ricciardo,ricciardo,McLaren,15,16,Finished,0.0,97.046,,,0,97.046,13,11.0,11.0,-1
+2022,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2022-11-20,Daniel Ricciardo,ricciardo,McLaren,13,9,Finished,2.0,85.76599999999999,85.068,85.045,0,85.045,24,10.666666666666666,10.666666666666666,4
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2023-11-26,Daniel Ricciardo,ricciardo,AlphaTauri,15,11,Finished,0.0,84.461,84.44200000000001,,0,84.44200000000001,24,12.333333333333334,12.333333333333334,4
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2024-07-28,Daniel Ricciardo,ricciardo,RB F1 Team,13,10,Finished,1.0,115.451,114.682,,0,114.682,12,10.666666666666666,10.666666666666666,3
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,2024-09-01,Daniel Ricciardo,ricciardo,RB F1 Team,12,13,Finished,0.0,80.901,80.479,,0,80.479,2,9.0,9.0,-1
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,2024-09-15,Daniel Ricciardo,ricciardo,RB F1 Team,14,13,Finished,0.0,103.547,,,0,103.547,6,10.666666666666666,10.666666666666666,1
+2022,6,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2022-05-22,Esteban Ocon,ocon,Alpine F1 Team,12,7,Finished,6.0,80.88,80.638,,0,80.638,10,7.0,7.0,5
+2022,7,Monaco Grand Prix,Circuit de Monaco,2022-05-29,Esteban Ocon,ocon,Alpine F1 Team,10,12,Finished,0.0,72.848,72.528,73.047,0,72.528,11,7.333333333333333,7.333333333333333,-2
+2022,8,Azerbaijan Grand Prix,Baku City Circuit,2022-06-12,Esteban Ocon,ocon,Alpine F1 Team,13,10,Finished,1.0,103.903,103.585,,0,103.585,6,9.0,9.0,3
+2022,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2022-06-19,Esteban Ocon,ocon,Alpine F1 Team,7,6,Finished,8.0,93.012,86.135,83.529,0,83.529,7,9.666666666666666,9.666666666666666,1
+2022,11,Austrian Grand Prix,Red Bull Ring,2022-07-10,Esteban Ocon,ocon,Alpine F1 Team,6,5,Finished,10.0,66.468,65.993,65.726,0,65.726,20,9.333333333333334,9.333333333333334,1
+2022,12,French Grand Prix,Circuit Paul Ricard,2022-07-24,Esteban Ocon,ocon,Alpine F1 Team,10,8,Finished,4.0,93.346,93.048,,0,93.048,9,7.0,7.0,2
+2022,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2022-08-28,Esteban Ocon,ocon,Alpine F1 Team,16,7,Finished,6.0,106.039,105.475,105.18,0,105.18,12,6.333333333333333,6.333333333333333,9
+2022,15,Dutch Grand Prix,Circuit Park Zandvoort,2022-09-04,Esteban Ocon,ocon,Alpine F1 Team,12,9,Finished,2.0,71.748,71.605,,0,71.605,8,6.666666666666667,6.666666666666667,3
+2022,16,Italian Grand Prix,Autodromo Nazionale di Monza,2022-09-11,Esteban Ocon,ocon,Alpine F1 Team,14,11,Finished,0.0,82.166,82.13,,0,82.13,2,8.0,8.0,3
+2022,18,Japanese Grand Prix,Suzuka Circuit,2022-10-09,Esteban Ocon,ocon,Alpine F1 Team,5,4,Finished,12.0,90.696,90.357,90.165,0,90.165,23,9.0,9.0,1
+2022,19,United States Grand Prix,Circuit of the Americas,2022-10-23,Esteban Ocon,ocon,Alpine F1 Team,0,11,Finished,0.0,97.068,,,0,97.068,13,8.0,8.0,-11
+2022,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2022-11-13,Esteban Ocon,ocon,Alpine F1 Team,16,8,Finished,4.0,74.663,71.587,72.425,0,71.587,4,8.666666666666666,8.666666666666666,8
+2022,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2022-11-20,Esteban Ocon,ocon,Alpine F1 Team,8,7,Finished,6.0,85.735,85.007,84.83,0,84.83,24,7.666666666666667,7.666666666666667,1
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2023-03-19,Esteban Ocon,ocon,Alpine F1 Team,6,8,Finished,4.0,89.707,89.255,89.078,0,89.078,15,8.666666666666666,8.666666666666666,-2
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,2023-04-30,Esteban Ocon,ocon,Alpine F1 Team,0,15,Finished,0.0,102.622,101.798,,0,101.798,6,7.666666666666667,7.666666666666667,-15
+2023,5,Miami Grand Prix,Miami International Autodrome,2023-05-07,Esteban Ocon,ocon,Alpine F1 Team,8,9,Finished,2.0,87.872,87.444,87.935,0,87.444,19,10.0,10.0,-1
+2023,6,Monaco Grand Prix,Circuit de Monaco,2023-05-28,Esteban Ocon,ocon,Alpine F1 Team,3,3,Finished,15.0,72.967,72.248,71.553,1,71.553,11,10.666666666666666,10.666666666666666,0
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2023-06-04,Esteban Ocon,ocon,Alpine F1 Team,6,8,Finished,4.0,73.43299999999999,73.001,73.083,0,73.001,10,9.0,9.0,-2
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,2023-06-18,Esteban Ocon,ocon,Alpine F1 Team,6,8,Finished,4.0,82.114,80.406,87.945,0,80.406,7,6.666666666666667,6.666666666666667,-2
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,2023-07-30,Esteban Ocon,ocon,Alpine F1 Team,14,8,Finished,4.0,119.634,116.372,,0,116.372,12,6.333333333333333,6.333333333333333,6
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,2023-08-27,Esteban Ocon,ocon,Alpine F1 Team,16,10,Finished,1.0,82.11,,,0,82.11,8,8.0,8.0,6
+2023,16,Japanese Grand Prix,Suzuka Circuit,2023-09-24,Esteban Ocon,ocon,Alpine F1 Team,14,9,Finished,2.0,90.96,90.586,,0,90.586,23,8.666666666666666,8.666666666666666,5
+2023,17,Qatar Grand Prix,Losail International Circuit,2023-10-08,Esteban Ocon,ocon,Alpine F1 Team,8,7,Finished,6.0,85.711,84.928,84.763,0,84.763,17,9.0,9.0,1
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2023-10-29,Esteban Ocon,ocon,Alpine F1 Team,15,10,Finished,1.0,79.08,,,0,79.08,3,8.666666666666666,8.666666666666666,5
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2023-11-19,Esteban Ocon,ocon,Alpine F1 Team,16,4,Finished,12.0,94.834,,,0,94.834,16,8.666666666666666,8.666666666666666,12
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2023-11-26,Esteban Ocon,ocon,Alpine F1 Team,12,12,Finished,0.0,84.565,84.39099999999999,,0,84.39099999999999,24,7.0,7.0,0
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,Esteban Ocon,ocon,Alpine F1 Team,13,11,Finished,0.0,95.356,95.223,,0,95.223,21,8.666666666666666,8.666666666666666,2
+2024,6,Miami Grand Prix,Miami International Autodrome,2024-05-05,Esteban Ocon,ocon,Alpine F1 Team,13,10,Finished,1.0,88.209,88.371,,0,88.209,19,9.0,9.0,3
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2024-06-09,Esteban Ocon,ocon,Alpine F1 Team,18,10,Finished,1.0,73.435,,,0,73.435,7,11.0,11.0,8
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2024-06-23,Esteban Ocon,ocon,Alpine F1 Team,8,10,Finished,1.0,72.691,72.109,72.125,0,72.109,10,10.333333333333334,10.333333333333334,-2
+2024,11,Austrian Grand Prix,Red Bull Ring,2024-06-30,Esteban Ocon,ocon,Alpine F1 Team,10,12,Finished,0.0,65.574,65.274,65.883,0,65.274,20,10.0,10.0,-2
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2024-07-28,Esteban Ocon,ocon,Alpine F1 Team,9,9,Finished,2.0,115.417,114.46,114.81,0,114.46,12,10.666666666666666,10.666666666666666,0
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2024-11-03,Esteban Ocon,ocon,Alpine F1 Team,4,2,Finished,18.0,89.17099999999999,86.206,84.475,1,84.475,4,10.333333333333334,10.333333333333334,2
+2022,8,Azerbaijan Grand Prix,Baku City Circuit,2022-06-12,Fernando Alonso,alonso,Alpine F1 Team,10,7,Finished,6.0,104.083,103.36,103.173,0,103.173,6,9.0,9.0,3
+2022,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2022-06-19,Fernando Alonso,alonso,Alpine F1 Team,2,9,Finished,2.0,92.277,84.848,81.944,0,81.944,7,8.333333333333334,8.333333333333334,-7
+2022,10,British Grand Prix,Silverstone Circuit,2022-07-03,Fernando Alonso,alonso,Alpine F1 Team,7,5,Finished,10.0,101.598,102.209,102.116,0,101.598,22,7.666666666666667,7.666666666666667,2
+2022,12,French Grand Prix,Circuit Paul Ricard,2022-07-24,Fernando Alonso,alonso,Alpine F1 Team,7,6,Finished,8.0,92.819,92.631,92.552,0,92.552,9,7.0,7.0,1
+2022,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2022-08-28,Fernando Alonso,alonso,Alpine F1 Team,3,5,Finished,10.0,106.075,105.552,105.368,0,105.368,12,6.666666666666667,6.666666666666667,-2
+2022,15,Dutch Grand Prix,Circuit Park Zandvoort,2022-09-04,Fernando Alonso,alonso,Alpine F1 Team,13,6,Finished,8.0,71.667,71.613,,0,71.613,8,5.333333333333333,5.333333333333333,7
+2022,18,Japanese Grand Prix,Suzuka Circuit,2022-10-09,Fernando Alonso,alonso,Alpine F1 Team,7,7,Finished,6.0,90.603,90.343,90.322,0,90.322,23,5.666666666666667,5.666666666666667,0
+2022,19,United States Grand Prix,Circuit of the Americas,2022-10-23,Fernando Alonso,alonso,Alpine F1 Team,14,7,Finished,6.0,96.446,95.988,95.876,0,95.876,13,6.0,6.0,7
+2022,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2022-11-13,Fernando Alonso,alonso,Alpine F1 Team,17,5,Finished,10.0,73.542,71.394,72.504,0,71.394,4,6.666666666666667,6.666666666666667,12
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,2023-04-30,Fernando Alonso,alonso,Aston Martin,6,4,Finished,12.0,101.72,101.37,101.253,0,101.253,6,3.0,3.0,2
+2023,5,Miami Grand Prix,Miami International Autodrome,2023-05-07,Fernando Alonso,alonso,Aston Martin,2,3,Finished,15.0,88.179,87.09700000000001,87.202,1,87.09700000000001,19,3.3333333333333335,3.3333333333333335,-1
+2023,6,Monaco Grand Prix,Circuit de Monaco,2023-05-28,Fernando Alonso,alonso,Aston Martin,2,2,Finished,18.0,72.886,72.107,71.449,1,71.449,11,3.3333333333333335,3.3333333333333335,0
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2023-06-04,Fernando Alonso,alonso,Aston Martin,8,7,Finished,6.0,73.747,73.098,73.507,0,73.098,10,3.0,3.0,1
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,2023-06-18,Fernando Alonso,alonso,Aston Martin,2,2,Finished,18.0,81.481,79.776,87.286,1,79.776,7,4.0,4.0,0
+2023,9,Austrian Grand Prix,Red Bull Ring,2023-07-02,Fernando Alonso,alonso,Aston Martin,7,5,Finished,10.0,65.655,65.181,64.911,0,64.911,20,3.6666666666666665,3.6666666666666665,2
+2023,10,British Grand Prix,Silverstone Circuit,2023-07-09,Fernando Alonso,alonso,Aston Martin,9,7,Finished,6.0,89.949,88.368,87.65899999999999,0,87.65899999999999,22,4.666666666666667,4.666666666666667,2
+2023,11,Hungarian Grand Prix,Hungaroring,2023-07-23,Fernando Alonso,alonso,Aston Martin,8,9,Finished,2.0,78.58,77.701,77.035,0,77.035,14,4.666666666666667,4.666666666666667,-1
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,2023-07-30,Fernando Alonso,alonso,Aston Martin,9,5,Finished,10.0,118.834,112.751,107.843,0,107.843,12,7.0,7.0,4
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,2023-08-27,Fernando Alonso,alonso,Aston Martin,5,2,Finished,19.0,81.84,79.429,71.506,1,71.506,8,7.0,7.0,3
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,2023-09-03,Fernando Alonso,alonso,Aston Martin,10,9,Finished,2.0,82.043,81.543,81.417,0,81.417,2,5.333333333333333,5.333333333333333,1
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,2023-09-17,Fernando Alonso,alonso,Aston Martin,7,15,Finished,0.0,92.584,91.835,91.615,0,91.615,18,5.333333333333333,5.333333333333333,-8
+2023,16,Japanese Grand Prix,Suzuka Circuit,2023-09-24,Fernando Alonso,alonso,Aston Martin,10,8,Finished,4.0,90.971,90.465,90.56,0,90.465,23,8.666666666666666,8.666666666666666,2
+2023,17,Qatar Grand Prix,Losail International Circuit,2023-10-08,Fernando Alonso,alonso,Aston Martin,4,6,Finished,8.0,85.223,85.241,84.369,0,84.369,17,10.666666666666666,10.666666666666666,-2
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,2023-11-05,Fernando Alonso,alonso,Aston Martin,4,3,Finished,15.0,70.557,70.237,71.387,1,70.237,4,9.666666666666666,9.666666666666666,1
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2023-11-19,Fernando Alonso,alonso,Aston Martin,9,9,Finished,2.0,94.422,93.617,93.555,0,93.555,16,5.666666666666667,5.666666666666667,0
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2023-11-26,Fernando Alonso,alonso,Aston Martin,7,7,Finished,6.0,84.501,84.131,84.084,0,84.084,24,6.0,6.0,0
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,Fernando Alonso,alonso,Aston Martin,6,9,Finished,2.0,90.179,89.801,89.542,0,89.542,5,6.333333333333333,6.333333333333333,-3
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,Fernando Alonso,alonso,Aston Martin,4,5,Finished,10.0,88.706,88.122,87.846,0,87.846,15,8.333333333333334,8.333333333333334,-1
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,Fernando Alonso,alonso,Aston Martin,10,8,Finished,4.0,76.991,76.71000000000001,77.55199999999999,0,76.71000000000001,0,7.0,7.0,2
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,Fernando Alonso,alonso,Aston Martin,5,6,Finished,8.0,89.254,89.082,88.686,0,88.686,23,7.333333333333333,7.333333333333333,-1
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,Fernando Alonso,alonso,Aston Martin,3,7,Finished,7.0,95.116,94.652,94.148,0,94.148,21,6.333333333333333,6.333333333333333,-4
+2024,6,Miami Grand Prix,Miami International Autodrome,2024-05-05,Fernando Alonso,alonso,Aston Martin,15,9,Finished,2.0,88.453,88.42699999999999,,0,88.42699999999999,19,7.0,7.0,6
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2024-06-09,Fernando Alonso,alonso,Aston Martin,6,6,Finished,8.0,73.117,72.635,72.228,0,72.228,7,7.333333333333333,7.333333333333333,0
+2024,12,British Grand Prix,Silverstone Circuit,2024-07-07,Fernando Alonso,alonso,Aston Martin,10,8,Finished,4.0,91.264,86.73,86.917,0,86.73,22,7.333333333333333,7.333333333333333,2
+2024,13,Hungarian Grand Prix,Hungaroring,2024-07-21,Fernando Alonso,alonso,Aston Martin,7,11,Finished,0.0,77.624,76.117,76.043,0,76.043,14,7.666666666666667,7.666666666666667,-4
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2024-07-28,Fernando Alonso,alonso,Aston Martin,8,8,Finished,4.0,115.489,114.258,114.765,0,114.258,12,8.333333333333334,8.333333333333334,0
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,2024-09-01,Fernando Alonso,alonso,Aston Martin,11,11,Finished,0.0,80.617,80.42099999999999,,0,80.42099999999999,2,9.0,9.0,0
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,2024-09-15,Fernando Alonso,alonso,Aston Martin,7,6,Finished,8.0,103.472,102.426,102.369,0,102.369,6,10.0,10.0,1
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2024-11-03,Fernando Alonso,alonso,Aston Martin,9,14,Finished,0.0,90.207,85.035,88.998,0,85.035,4,8.333333333333334,8.333333333333334,-5
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2024-11-23,Fernando Alonso,alonso,Aston Martin,16,11,Finished,0.0,94.258,,,0,94.258,16,10.333333333333334,10.333333333333334,5
+2024,23,Qatar Grand Prix,Losail International Circuit,2024-12-01,Fernando Alonso,alonso,Aston Martin,8,7,Finished,6.0,81.608,81.208,81.251,0,81.208,17,10.333333333333334,10.333333333333334,1
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2024-12-08,Fernando Alonso,alonso,Aston Martin,8,9,Finished,2.0,83.794,83.268,83.196,0,83.196,24,10.666666666666666,10.666666666666666,-1
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2024-11-23,Franco Colapinto,colapinto,Williams,0,14,Finished,0.0,93.746,93.749,,0,93.746,16,10.0,10.0,-14
+2022,4,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2022-04-24,George Russell,russell,Mercedes,11,4,Finished,12.0,80.383,80.757,,0,80.383,1,4.0,4.0,7
+2022,5,Miami Grand Prix,Miami International Autodrome,2022-05-08,George Russell,russell,Mercedes,12,5,Finished,10.0,90.49,90.173,,0,90.173,19,4.0,4.0,7
+2022,6,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2022-05-22,George Russell,russell,Mercedes,4,3,Finished,15.0,80.218,79.47,79.393,1,79.393,10,4.0,4.0,1
+2022,7,Monaco Grand Prix,Circuit de Monaco,2022-05-29,George Russell,russell,Mercedes,6,5,Finished,10.0,72.787,72.617,72.112,0,72.112,11,4.0,4.0,1
+2022,8,Azerbaijan Grand Prix,Baku City Circuit,2022-06-12,George Russell,russell,Mercedes,5,3,Finished,15.0,103.754,103.281,102.712,1,102.712,6,4.333333333333333,4.333333333333333,2
+2022,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2022-06-19,George Russell,russell,Mercedes,8,4,Finished,12.0,93.16,84.95,83.557,0,83.557,7,3.6666666666666665,3.6666666666666665,4
+2022,11,Austrian Grand Prix,Red Bull Ring,2022-07-10,George Russell,russell,Mercedes,4,4,Finished,12.0,66.235,65.697,65.431,0,65.431,20,4.0,4.0,0
+2022,12,French Grand Prix,Circuit Paul Ricard,2022-07-24,George Russell,russell,Mercedes,6,3,Finished,15.0,93.109,92.633,92.131,1,92.131,9,3.6666666666666665,3.6666666666666665,3
+2022,13,Hungarian Grand Prix,Hungaroring,2022-07-31,George Russell,russell,Mercedes,1,3,Finished,15.0,78.407,78.154,77.377,1,77.377,14,3.6666666666666665,3.6666666666666665,-2
+2022,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2022-08-28,George Russell,russell,Mercedes,5,4,Finished,12.0,105.65,105.461,105.776,0,105.461,12,3.3333333333333335,3.3333333333333335,1
+2022,15,Dutch Grand Prix,Circuit Park Zandvoort,2022-09-04,George Russell,russell,Mercedes,6,2,Finished,18.0,71.561,70.824,71.147,1,70.824,8,3.3333333333333335,3.3333333333333335,4
+2022,16,Italian Grand Prix,Autodromo Nazionale di Monza,2022-09-11,George Russell,russell,Mercedes,2,3,Finished,15.0,81.785,81.747,81.542,1,81.542,2,3.0,3.0,-1
+2022,18,Japanese Grand Prix,Suzuka Circuit,2022-10-09,George Russell,russell,Mercedes,8,8,Finished,4.0,90.865,90.465,90.389,0,90.389,23,3.0,3.0,0
+2022,19,United States Grand Prix,Circuit of the Americas,2022-10-23,George Russell,russell,Mercedes,4,5,Finished,11.0,96.195,95.692,94.988,0,94.988,13,4.333333333333333,4.333333333333333,-1
+2022,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2022-10-30,George Russell,russell,Mercedes,2,4,Finished,13.0,79.583,78.565,78.07900000000001,0,78.07900000000001,3,5.333333333333333,5.333333333333333,-2
+2022,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2022-11-13,George Russell,russell,Mercedes,1,1,Finished,26.0,74.42699999999999,71.318,72.059,1,71.318,4,5.666666666666667,5.666666666666667,0
+2022,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2022-11-20,George Russell,russell,Mercedes,6,5,Finished,10.0,85.545,84.94,84.511,0,84.511,24,3.3333333333333335,3.3333333333333335,1
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,2023-03-05,George Russell,russell,Mercedes,6,7,Finished,6.0,91.057,90.507,90.34,0,90.34,5,3.3333333333333335,3.3333333333333335,-1
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2023-03-19,George Russell,russell,Mercedes,3,4,Finished,12.0,89.592,89.132,88.857,0,88.857,15,4.333333333333333,4.333333333333333,-1
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,2023-04-30,George Russell,russell,Mercedes,11,8,Finished,5.0,102.073,101.654,,0,101.654,6,5.333333333333333,5.333333333333333,3
+2023,5,Miami Grand Prix,Miami International Autodrome,2023-05-07,George Russell,russell,Mercedes,6,4,Finished,12.0,88.086,87.743,87.804,0,87.743,19,6.333333333333333,6.333333333333333,2
+2023,6,Monaco Grand Prix,Circuit de Monaco,2023-05-28,George Russell,russell,Mercedes,8,5,Finished,10.0,72.769,72.151,71.964,0,71.964,11,5.333333333333333,5.333333333333333,3
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2023-06-04,George Russell,russell,Mercedes,12,3,Finished,15.0,73.326,73.447,,1,73.326,10,5.666666666666667,5.666666666666667,9
+2023,9,Austrian Grand Prix,Red Bull Ring,2023-07-02,George Russell,russell,Mercedes,11,7,Finished,6.0,65.686,65.428,,0,65.428,20,4.0,4.0,4
+2023,10,British Grand Prix,Silverstone Circuit,2023-07-09,George Russell,russell,Mercedes,6,5,Finished,10.0,89.412,88.782,87.155,0,87.155,22,5.0,5.0,1
+2023,11,Hungarian Grand Prix,Hungaroring,2023-07-23,George Russell,russell,Mercedes,18,6,Finished,8.0,79.027,,,0,79.027,14,5.0,5.0,12
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,2023-07-30,George Russell,russell,Mercedes,8,6,Finished,8.0,119.035,112.605,107.805,0,107.805,12,6.0,6.0,2
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,2023-08-27,George Russell,russell,Mercedes,3,17,Finished,0.0,81.345,79.62,71.294,0,71.294,8,5.666666666666667,5.666666666666667,-14
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,2023-09-03,George Russell,russell,Mercedes,4,5,Finished,10.0,82.148,81.382,80.67099999999999,0,80.67099999999999,2,9.666666666666666,9.666666666666666,-1
+2023,16,Japanese Grand Prix,Suzuka Circuit,2023-09-24,George Russell,russell,Mercedes,8,7,Finished,6.0,90.811,90.268,90.219,0,90.219,23,9.333333333333334,9.333333333333334,1
+2023,17,Qatar Grand Prix,Losail International Circuit,2023-10-08,George Russell,russell,Mercedes,2,4,Finished,12.0,85.334,84.827,84.219,0,84.219,17,9.666666666666666,9.666666666666666,-2
+2023,18,United States Grand Prix,Circuit of the Americas,2023-10-22,George Russell,russell,Mercedes,5,5,Finished,10.0,96.165,95.606,95.079,0,95.079,13,5.333333333333333,5.333333333333333,0
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2023-10-29,George Russell,russell,Mercedes,8,6,Finished,8.0,78.893,77.673,77.674,0,77.673,3,5.333333333333333,5.333333333333333,2
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2023-11-19,George Russell,russell,Mercedes,3,8,Finished,4.0,94.137,93.351,93.112,0,93.112,16,5.0,5.0,-5
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2023-11-26,George Russell,russell,Mercedes,4,3,Finished,15.0,84.337,84.013,83.788,1,83.788,24,6.333333333333333,6.333333333333333,1
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,George Russell,russell,Mercedes,3,5,Finished,10.0,90.35,89.922,89.485,0,89.485,5,5.666666666666667,5.666666666666667,-2
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,George Russell,russell,Mercedes,7,6,Finished,8.0,88.749,88.44800000000001,88.316,0,88.316,15,5.333333333333333,5.333333333333333,1
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,George Russell,russell,Mercedes,9,7,Finished,6.0,89.799,89.14,89.008,0,89.008,23,4.666666666666667,4.666666666666667,2
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,George Russell,russell,Mercedes,8,6,Finished,8.0,95.084,94.609,94.433,0,94.433,21,6.0,6.0,2
+2024,6,Miami Grand Prix,Miami International Autodrome,2024-05-05,George Russell,russell,Mercedes,7,8,Finished,4.0,88.15899999999999,88.095,88.06700000000001,0,88.06700000000001,19,6.333333333333333,6.333333333333333,-1
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2024-05-19,George Russell,russell,Mercedes,6,7,Finished,7.0,76.107,75.67099999999999,75.234,0,75.234,1,7.0,7.0,-1
+2024,8,Monaco Grand Prix,Circuit de Monaco,2024-05-26,George Russell,russell,Mercedes,5,5,Finished,10.0,71.492,70.929,70.543,0,70.543,11,7.0,7.0,0
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2024-06-09,George Russell,russell,Mercedes,1,3,Finished,15.0,73.013,71.742,72.0,1,71.742,7,6.666666666666667,6.666666666666667,-2
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2024-06-23,George Russell,russell,Mercedes,4,4,Finished,12.0,72.456,71.812,71.703,0,71.703,10,5.0,5.0,0
+2024,11,Austrian Grand Prix,Red Bull Ring,2024-06-30,George Russell,russell,Mercedes,3,1,Finished,25.0,65.585,65.016,64.84,1,64.84,20,4.0,4.0,2
+2024,13,Hungarian Grand Prix,Hungaroring,2024-07-21,George Russell,russell,Mercedes,17,8,Finished,5.0,77.968,,,0,77.968,14,2.6666666666666665,2.6666666666666665,9
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,2024-08-25,George Russell,russell,Mercedes,4,7,Finished,6.0,71.049,70.55199999999999,70.244,0,70.244,8,4.333333333333333,4.333333333333333,-3
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,2024-09-01,George Russell,russell,Mercedes,3,7,Finished,6.0,80.169,79.877,79.44,0,79.44,2,5.333333333333333,5.333333333333333,-4
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,2024-09-15,George Russell,russell,Mercedes,5,3,Finished,15.0,103.139,102.329,101.874,1,101.874,6,7.333333333333333,7.333333333333333,2
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,2024-09-22,George Russell,russell,Mercedes,4,4,Finished,12.0,90.811,90.153,89.867,0,89.867,18,5.666666666666667,5.666666666666667,0
+2024,19,United States Grand Prix,Circuit of the Americas,2024-10-20,George Russell,russell,Mercedes,20,6,Finished,8.0,93.536,93.142,92.974,0,92.974,13,4.666666666666667,4.666666666666667,14
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2024-10-27,George Russell,russell,Mercedes,5,5,Finished,10.0,77.194,76.937,76.356,0,76.356,3,4.333333333333333,4.333333333333333,0
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2024-11-03,George Russell,russell,Mercedes,2,4,Finished,12.0,89.121,86.307,83.578,0,83.578,4,5.0,5.0,-2
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2024-11-23,George Russell,russell,Mercedes,1,1,Finished,25.0,93.186,92.779,92.312,1,92.312,16,5.0,5.0,0
+2024,23,Qatar Grand Prix,Losail International Circuit,2024-12-01,George Russell,russell,Mercedes,1,4,Finished,12.0,81.241,81.069,80.575,0,80.575,17,3.3333333333333335,3.3333333333333335,-3
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2024-12-08,George Russell,russell,Mercedes,6,5,Finished,10.0,83.678,83.283,83.132,0,83.132,24,3.0,3.0,1
+2022,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2022-06-19,Guanyu Zhou,zhou,Alfa Romeo,10,8,Finished,4.0,93.692,86.116,84.03,0,84.03,7,10.666666666666666,10.666666666666666,2
+2022,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2022-08-28,Guanyu Zhou,zhou,Alfa Romeo,18,14,Finished,0.0,106.178,106.085,,0,106.085,12,10.0,10.0,4
+2022,15,Dutch Grand Prix,Circuit Park Zandvoort,2022-09-04,Guanyu Zhou,zhou,Alfa Romeo,14,16,Finished,0.0,71.826,71.70400000000001,,0,71.70400000000001,8,11.0,11.0,-2
+2022,16,Italian Grand Prix,Autodromo Nazionale di Monza,2022-09-11,Guanyu Zhou,zhou,Alfa Romeo,9,10,Finished,1.0,82.003,82.577,,0,82.003,2,12.666666666666666,12.666666666666666,-1
+2022,18,Japanese Grand Prix,Suzuka Circuit,2022-10-09,Guanyu Zhou,zhou,Alfa Romeo,14,16,Finished,0.0,90.894,90.953,,0,90.894,23,13.333333333333334,13.333333333333334,-2
+2022,19,United States Grand Prix,Circuit of the Americas,2022-10-23,Guanyu Zhou,zhou,Alfa Romeo,18,12,Finished,0.0,96.656,96.97,,0,96.656,13,14.0,14.0,6
+2022,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2022-11-13,Guanyu Zhou,zhou,Alfa Romeo,13,12,Finished,0.0,75.197,,,0,75.197,4,12.666666666666666,12.666666666666666,1
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2023-03-19,Guanyu Zhou,zhou,Alfa Romeo,11,13,Finished,0.0,89.654,89.461,,0,89.461,15,13.333333333333334,13.333333333333334,-2
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2023-04-02,Guanyu Zhou,zhou,Alfa Romeo,17,9,Finished,2.0,78.53999999999999,,,0,78.53999999999999,0,12.333333333333334,12.333333333333334,8
+2023,5,Miami Grand Prix,Miami International Autodrome,2023-05-07,Guanyu Zhou,zhou,Alfa Romeo,14,16,Finished,0.0,88.18,88.09100000000001,,0,88.09100000000001,19,11.333333333333334,11.333333333333334,-2
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2023-06-04,Guanyu Zhou,zhou,Alfa Romeo,13,9,Finished,2.0,73.67699999999999,73.521,,0,73.521,10,12.666666666666666,12.666666666666666,4
+2023,10,British Grand Prix,Silverstone Circuit,2023-07-09,Guanyu Zhou,zhou,Alfa Romeo,17,15,Finished,0.0,90.123,,,0,90.123,22,11.333333333333334,11.333333333333334,2
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,2023-07-30,Guanyu Zhou,zhou,Alfa Romeo,17,13,Finished,0.0,120.832,,,0,120.832,12,13.333333333333334,13.333333333333334,4
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,2023-09-03,Guanyu Zhou,zhou,Alfa Romeo,16,14,Finished,0.0,82.39,,,0,82.39,2,12.333333333333334,12.333333333333334,2
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,2023-09-17,Guanyu Zhou,zhou,Alfa Romeo,0,12,Finished,0.0,93.258,,,0,93.258,18,14.0,14.0,-12
+2023,17,Qatar Grand Prix,Losail International Circuit,2023-10-08,Guanyu Zhou,zhou,Alfa Romeo,19,9,Finished,2.0,87.432,,,0,87.432,17,13.0,13.0,10
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2023-10-29,Guanyu Zhou,zhou,Alfa Romeo,10,14,Finished,0.0,79.01599999999999,78.44,78.05,0,78.05,3,11.666666666666666,11.666666666666666,-4
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2023-11-19,Guanyu Zhou,zhou,Alfa Romeo,17,15,Finished,0.0,94.849,,,0,94.849,16,11.666666666666666,11.666666666666666,2
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2023-11-26,Guanyu Zhou,zhou,Alfa Romeo,19,17,Finished,0.0,85.15899999999999,,,0,85.15899999999999,24,12.666666666666666,12.666666666666666,2
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2024-11-03,Guanyu Zhou,zhou,Sauber,19,15,Finished,0.0,92.263,,,0,92.263,4,14.0,14.0,4
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2024-11-23,Guanyu Zhou,zhou,Sauber,13,13,Finished,0.0,94.079,93.566,,0,93.566,16,14.333333333333334,14.333333333333334,0
+2024,23,Qatar Grand Prix,Losail International Circuit,2024-12-01,Guanyu Zhou,zhou,Sauber,12,8,Finished,4.0,82.10300000000001,81.501,,0,81.501,17,14.0,14.0,4
+2022,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2022-06-19,Kevin Magnussen,kevin_magnussen,Haas F1 Team,5,17,Finished,0.0,92.957,86.254,82.96000000000001,0,82.96000000000001,7,7.666666666666667,7.666666666666667,-12
+2022,10,British Grand Prix,Silverstone Circuit,2022-07-03,Kevin Magnussen,kevin_magnussen,Haas F1 Team,17,10,Finished,1.0,102.159,,,0,102.159,22,11.666666666666666,11.666666666666666,7
+2022,15,Dutch Grand Prix,Circuit Park Zandvoort,2022-09-04,Kevin Magnussen,kevin_magnussen,Haas F1 Team,18,15,Finished,0.0,72.319,,,0,72.319,8,12.0,12.0,3
+2022,17,Singapore Grand Prix,Marina Bay Street Circuit,2022-10-02,Kevin Magnussen,kevin_magnussen,Haas F1 Team,9,12,Finished,0.0,115.103,114.006,111.573,0,111.573,18,14.0,14.0,-3
+2022,18,Japanese Grand Prix,Suzuka Circuit,2022-10-09,Kevin Magnussen,kevin_magnussen,Haas F1 Team,18,14,Finished,0.0,91.352,,,0,91.352,23,12.333333333333334,12.333333333333334,4
+2022,19,United States Grand Prix,Circuit of the Americas,2022-10-23,Kevin Magnussen,kevin_magnussen,Haas F1 Team,13,9,Finished,2.0,96.949,,,0,96.949,13,13.666666666666666,13.666666666666666,4
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2023-03-19,Kevin Magnussen,kevin_magnussen,Haas F1 Team,13,10,Finished,1.0,89.744,89.634,,0,89.634,15,11.666666666666666,11.666666666666666,3
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,2023-04-30,Kevin Magnussen,kevin_magnussen,Haas F1 Team,16,13,Finished,0.0,103.417,,,0,103.417,6,11.0,11.0,3
+2023,5,Miami Grand Prix,Miami International Autodrome,2023-05-07,Kevin Magnussen,kevin_magnussen,Haas F1 Team,4,10,Finished,1.0,87.809,87.673,87.767,0,87.673,19,10.666666666666666,10.666666666666666,-6
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,2023-07-30,Kevin Magnussen,kevin_magnussen,Haas F1 Team,16,15,Finished,0.0,120.02,114.16,,0,114.16,12,11.0,11.0,1
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,2023-08-27,Kevin Magnussen,kevin_magnussen,Haas F1 Team,0,16,Finished,0.0,82.19200000000001,,,0,82.19200000000001,8,12.666666666666666,12.666666666666666,-16
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,2023-09-17,Kevin Magnussen,kevin_magnussen,Haas F1 Team,6,10,Finished,1.0,92.242,91.892,91.575,0,91.575,18,13.666666666666666,13.666666666666666,-4
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2023-11-19,Kevin Magnussen,kevin_magnussen,Haas F1 Team,8,13,Finished,0.0,94.337,93.664,93.537,0,93.537,16,13.666666666666666,13.666666666666666,-5
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,Kevin Magnussen,kevin_magnussen,Haas F1 Team,13,12,Finished,0.0,89.069,89.02,,0,89.02,15,13.0,13.0,1
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,Kevin Magnussen,kevin_magnussen,Haas F1 Team,17,16,Finished,0.0,95.516,,,0,95.516,21,11.666666666666666,11.666666666666666,1
+2024,6,Miami Grand Prix,Miami International Autodrome,2024-05-05,Kevin Magnussen,kevin_magnussen,Haas F1 Team,18,19,Finished,0.0,88.619,,,0,88.619,19,13.666666666666666,13.666666666666666,-1
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2024-06-09,Kevin Magnussen,kevin_magnussen,Haas F1 Team,14,12,Finished,0.0,73.217,72.916,,0,72.916,7,15.666666666666666,15.666666666666666,2
+2024,11,Austrian Grand Prix,Red Bull Ring,2024-06-30,Kevin Magnussen,kevin_magnussen,Haas F1 Team,12,8,Finished,4.0,65.508,65.347,,0,65.347,20,15.666666666666666,15.666666666666666,4
+2024,12,British Grand Prix,Silverstone Circuit,2024-07-07,Kevin Magnussen,kevin_magnussen,Haas F1 Team,17,12,Finished,0.0,92.905,,,0,92.905,22,13.0,13.0,5
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2024-07-28,Kevin Magnussen,kevin_magnussen,Haas F1 Team,17,14,Finished,0.0,116.5,,,0,116.5,12,10.666666666666666,10.666666666666666,3
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,2024-09-01,Kevin Magnussen,kevin_magnussen,Haas F1 Team,13,10,Finished,1.0,80.856,80.69800000000001,,0,80.69800000000001,2,11.333333333333334,11.333333333333334,3
+2024,19,United States Grand Prix,Circuit of the Americas,2024-10-20,Kevin Magnussen,kevin_magnussen,Haas F1 Team,8,11,Finished,0.0,93.564,93.474,93.481,0,93.474,13,12.0,12.0,-3
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2024-10-27,Kevin Magnussen,kevin_magnussen,Haas F1 Team,7,7,Finished,6.0,77.125,77.003,76.886,0,76.886,3,11.666666666666666,11.666666666666666,0
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2024-11-23,Kevin Magnussen,kevin_magnussen,Haas F1 Team,12,12,Finished,0.0,93.991,93.297,,0,93.297,16,9.333333333333334,9.333333333333334,0
+2024,23,Qatar Grand Prix,Losail International Circuit,2024-12-01,Kevin Magnussen,kevin_magnussen,Haas F1 Team,10,9,Finished,2.0,81.89099999999999,81.387,81.5,0,81.387,17,10.0,10.0,1
+2022,7,Monaco Grand Prix,Circuit de Monaco,2022-05-29,Lance Stroll,stroll,Aston Martin,18,14,Finished,0.0,73.678,,,0,73.678,11,11.333333333333334,11.333333333333334,4
+2022,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2022-06-19,Lance Stroll,stroll,Aston Martin,17,10,Finished,1.0,95.532,,,0,95.532,7,12.0,12.0,7
+2022,10,British Grand Prix,Silverstone Circuit,2022-07-03,Lance Stroll,stroll,Aston Martin,20,11,Finished,0.0,103.43,,,0,103.43,22,11.333333333333334,11.333333333333334,9
+2022,12,French Grand Prix,Circuit Paul Ricard,2022-07-24,Lance Stroll,stroll,Aston Martin,15,10,Finished,1.0,93.439,,,0,93.439,9,11.666666666666666,11.666666666666666,5
+2022,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2022-08-28,Lance Stroll,stroll,Aston Martin,9,11,Finished,0.0,106.256,106.611,,0,106.256,12,10.333333333333334,10.333333333333334,-2
+2022,15,Dutch Grand Prix,Circuit Park Zandvoort,2022-09-04,Lance Stroll,stroll,Aston Martin,10,10,Finished,1.0,71.568,71.416,,0,71.416,8,10.666666666666666,10.666666666666666,0
+2022,17,Singapore Grand Prix,Marina Bay Street Circuit,2022-10-02,Lance Stroll,stroll,Aston Martin,11,6,Finished,8.0,115.629,114.211,,0,114.211,18,10.333333333333334,10.333333333333334,5
+2022,18,Japanese Grand Prix,Suzuka Circuit,2022-10-09,Lance Stroll,stroll,Aston Martin,19,12,Finished,0.0,91.419,,,0,91.419,23,9.0,9.0,7
+2022,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2022-11-13,Lance Stroll,stroll,Aston Martin,15,10,Finished,1.0,74.398,72.21000000000001,,0,72.21000000000001,4,9.333333333333334,9.333333333333334,5
+2022,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2022-11-20,Lance Stroll,stroll,Aston Martin,14,8,Finished,4.0,85.741,85.35900000000001,,0,85.35900000000001,24,9.333333333333334,9.333333333333334,6
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,2023-03-05,Lance Stroll,stroll,Aston Martin,8,6,Finished,8.0,91.184,91.127,90.836,0,90.836,5,10.0,10.0,2
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2023-04-02,Lance Stroll,stroll,Aston Martin,6,4,Finished,12.0,77.873,77.616,77.30799999999999,0,77.30799999999999,0,8.0,8.0,2
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,2023-04-30,Lance Stroll,stroll,Aston Martin,9,7,Finished,6.0,102.524,101.576,101.611,0,101.576,6,6.0,6.0,2
+2023,5,Miami Grand Prix,Miami International Autodrome,2023-05-07,Lance Stroll,stroll,Aston Martin,18,12,Finished,0.0,88.476,,,0,88.476,19,5.666666666666667,5.666666666666667,6
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2023-06-04,Lance Stroll,stroll,Aston Martin,5,6,Finished,8.0,73.766,73.082,72.994,0,72.994,10,7.666666666666667,7.666666666666667,-1
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,2023-06-18,Lance Stroll,stroll,Aston Martin,16,9,Finished,2.0,82.67699999999999,81.48400000000001,,0,81.48400000000001,7,8.333333333333334,8.333333333333334,7
+2023,9,Austrian Grand Prix,Red Bull Ring,2023-07-02,Lance Stroll,stroll,Aston Martin,6,9,Finished,2.0,65.71,65.121,64.893,0,64.893,20,9.0,9.0,-3
+2023,10,British Grand Prix,Silverstone Circuit,2023-07-09,Lance Stroll,stroll,Aston Martin,12,14,Finished,0.0,89.44800000000001,88.935,,0,88.935,22,8.0,8.0,-2
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,2023-07-30,Lance Stroll,stroll,Aston Martin,10,9,Finished,2.0,119.663,112.193,108.841,0,108.841,12,10.666666666666666,10.666666666666666,1
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,2023-08-27,Lance Stroll,stroll,Aston Martin,11,11,Finished,0.0,81.57,80.121,,0,80.121,8,10.666666666666666,10.666666666666666,0
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,2023-09-03,Lance Stroll,stroll,Aston Martin,20,16,Finished,0.0,82.86,,,0,82.86,2,11.333333333333334,11.333333333333334,4
+2023,17,Qatar Grand Prix,Losail International Circuit,2023-10-08,Lance Stroll,stroll,Aston Martin,16,11,Finished,0.0,86.345,,,0,86.345,17,12.0,12.0,5
+2023,18,United States Grand Prix,Circuit of the Americas,2023-10-22,Lance Stroll,stroll,Aston Martin,0,7,Finished,6.0,96.589,,,0,96.589,13,12.666666666666666,12.666666666666666,-7
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,2023-11-05,Lance Stroll,stroll,Aston Martin,3,5,Finished,10.0,70.551,70.375,71.344,0,70.375,4,11.333333333333334,11.333333333333334,-2
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2023-11-19,Lance Stroll,stroll,Aston Martin,19,5,Finished,10.0,94.504,94.199,,0,94.199,16,7.666666666666667,7.666666666666667,14
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2023-11-26,Lance Stroll,stroll,Aston Martin,13,10,Finished,1.0,84.405,84.422,,0,84.405,24,5.666666666666667,5.666666666666667,3
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,Lance Stroll,stroll,Aston Martin,12,10,Finished,1.0,89.965,90.2,,0,89.965,5,6.666666666666667,6.666666666666667,2
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,Lance Stroll,stroll,Aston Martin,9,6,Finished,8.0,77.376,76.78,77.072,0,76.78,0,8.333333333333334,8.333333333333334,3
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,Lance Stroll,stroll,Aston Martin,11,15,Finished,0.0,95.334,94.838,,0,94.838,21,8.666666666666666,8.666666666666666,-4
+2024,6,Miami Grand Prix,Miami International Autodrome,2024-05-05,Lance Stroll,stroll,Aston Martin,11,17,Finished,0.0,88.17699999999999,88.22200000000001,,0,88.17699999999999,19,10.333333333333334,10.333333333333334,-6
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2024-05-19,Lance Stroll,stroll,Aston Martin,13,9,Finished,2.0,76.458,75.992,,0,75.992,1,12.666666666666666,12.666666666666666,4
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2024-06-09,Lance Stroll,stroll,Aston Martin,9,7,Finished,6.0,73.088,72.659,72.701,0,72.659,7,13.666666666666666,13.666666666666666,2
+2024,12,British Grand Prix,Silverstone Circuit,2024-07-07,Lance Stroll,stroll,Aston Martin,8,7,Finished,6.0,91.41,86.938,86.58500000000001,0,86.58500000000001,22,11.0,11.0,1
+2024,13,Hungarian Grand Prix,Hungaroring,2024-07-21,Lance Stroll,stroll,Aston Martin,8,10,Finished,1.0,77.405,76.075,76.244,0,76.075,14,7.666666666666667,7.666666666666667,-2
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2024-07-28,Lance Stroll,stroll,Aston Martin,15,11,Finished,0.0,116.072,115.716,,0,115.716,12,8.0,8.0,4
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2024-11-23,Lance Stroll,stroll,Aston Martin,18,15,Finished,0.0,94.484,,,0,94.484,16,9.333333333333334,9.333333333333334,3
+2022,4,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2022-04-24,Lando Norris,norris,McLaren,5,3,Finished,15.0,80.168,79.294,89.131,1,79.294,1,9.0,9.0,2
+2022,6,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2022-05-22,Lando Norris,norris,McLaren,11,8,Finished,4.0,80.838,80.471,,0,80.471,10,5.0,5.0,3
+2022,7,Monaco Grand Prix,Circuit de Monaco,2022-05-29,Lando Norris,norris,McLaren,5,6,Finished,9.0,72.92699999999999,72.266,71.849,0,71.849,11,5.333333333333333,5.333333333333333,-1
+2022,8,Azerbaijan Grand Prix,Baku City Circuit,2022-06-12,Lando Norris,norris,McLaren,11,9,Finished,2.0,104.237,103.398,,0,103.398,6,5.666666666666667,5.666666666666667,2
+2022,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2022-06-19,Lando Norris,norris,McLaren,14,15,Finished,0.0,94.066,,,0,94.066,7,7.666666666666667,7.666666666666667,-1
+2022,10,British Grand Prix,Silverstone Circuit,2022-07-03,Lando Norris,norris,McLaren,6,6,Finished,8.0,101.515,101.821,102.084,0,101.515,22,10.0,10.0,0
+2022,12,French Grand Prix,Circuit Paul Ricard,2022-07-24,Lando Norris,norris,McLaren,5,7,Finished,6.0,92.672,92.777,92.032,0,92.032,9,10.0,10.0,-2
+2022,13,Hungarian Grand Prix,Hungaroring,2022-07-31,Lando Norris,norris,McLaren,4,7,Finished,6.0,78.65299999999999,78.121,77.769,0,77.769,14,9.333333333333334,9.333333333333334,-3
+2022,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2022-08-28,Lando Norris,norris,McLaren,17,12,Finished,0.0,105.745,105.603,106.178,0,105.603,12,6.666666666666667,6.666666666666667,5
+2022,15,Dutch Grand Prix,Circuit Park Zandvoort,2022-09-04,Lando Norris,norris,McLaren,7,7,Finished,6.0,71.556,71.116,71.174,0,71.116,8,8.666666666666666,8.666666666666666,0
+2022,16,Italian Grand Prix,Autodromo Nazionale di Monza,2022-09-11,Lando Norris,norris,McLaren,3,7,Finished,6.0,82.13,81.831,81.584,0,81.584,2,8.666666666666666,8.666666666666666,-4
+2022,17,Singapore Grand Prix,Marina Bay Street Circuit,2022-10-02,Lando Norris,norris,McLaren,6,4,Finished,12.0,115.914,113.942,110.584,0,110.584,18,8.666666666666666,8.666666666666666,2
+2022,18,Japanese Grand Prix,Suzuka Circuit,2022-10-09,Lando Norris,norris,McLaren,10,10,Finished,1.0,90.881,90.473,91.003,0,90.473,23,6.0,6.0,0
+2022,19,United States Grand Prix,Circuit of the Americas,2022-10-23,Lando Norris,norris,McLaren,6,6,Finished,8.0,96.465,96.341,95.69,0,95.69,13,7.0,7.0,0
+2022,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2022-11-20,Lando Norris,norris,McLaren,7,6,Finished,9.0,85.387,84.90299999999999,84.769,0,84.769,24,6.666666666666667,6.666666666666667,1
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2023-03-19,Lando Norris,norris,McLaren,19,17,Finished,0.0,90.447,,,0,90.447,15,7.333333333333333,7.333333333333333,2
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2023-04-02,Lando Norris,norris,McLaren,13,6,Finished,8.0,78.243,78.119,,0,78.119,0,9.666666666666666,9.666666666666666,7
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,2023-04-30,Lando Norris,norris,McLaren,7,9,Finished,2.0,102.154,101.485,101.281,0,101.281,6,9.666666666666666,9.666666666666666,-2
+2023,5,Miami Grand Prix,Miami International Autodrome,2023-05-07,Lando Norris,norris,McLaren,16,17,Finished,0.0,88.394,,,0,88.394,19,10.666666666666666,10.666666666666666,-1
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,2023-06-18,Lando Norris,norris,McLaren,7,13,Finished,0.0,81.998,79.34700000000001,88.04599999999999,0,79.34700000000001,7,10.666666666666666,10.666666666666666,-6
+2023,9,Austrian Grand Prix,Red Bull Ring,2023-07-02,Lando Norris,norris,McLaren,4,4,Finished,12.0,65.617,65.038,64.658,0,64.658,20,13.0,13.0,0
+2023,10,British Grand Prix,Silverstone Circuit,2023-07-09,Lando Norris,norris,McLaren,2,2,Finished,18.0,88.917,88.042,86.961,1,86.961,22,11.333333333333334,11.333333333333334,0
+2023,11,Hungarian Grand Prix,Hungaroring,2023-07-23,Lando Norris,norris,McLaren,3,2,Finished,18.0,78.697,77.328,76.694,1,76.694,14,6.333333333333333,6.333333333333333,1
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,2023-07-30,Lando Norris,norris,McLaren,7,7,Finished,6.0,119.981,112.252,107.669,0,107.669,12,2.6666666666666665,2.6666666666666665,0
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,2023-08-27,Lando Norris,norris,McLaren,2,7,Finished,6.0,81.276,79.769,71.104,0,71.104,8,3.6666666666666665,3.6666666666666665,-5
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,2023-09-03,Lando Norris,norris,McLaren,9,8,Finished,4.0,81.995,81.581,80.979,0,80.979,2,5.333333333333333,5.333333333333333,1
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,2023-09-17,Lando Norris,norris,McLaren,4,2,Finished,18.0,92.483,91.951,91.27,1,91.27,18,7.333333333333333,7.333333333333333,2
+2023,16,Japanese Grand Prix,Suzuka Circuit,2023-09-24,Lando Norris,norris,McLaren,3,2,Finished,18.0,90.063,90.296,89.493,1,89.493,23,5.666666666666667,5.666666666666667,1
+2023,17,Qatar Grand Prix,Losail International Circuit,2023-10-08,Lando Norris,norris,McLaren,10,3,Finished,15.0,85.131,84.685,,1,84.685,17,4.0,4.0,7
+2023,18,United States Grand Prix,Circuit of the Americas,2023-10-22,Lando Norris,norris,McLaren,2,2,Finished,18.0,95.11,95.441,94.853,1,94.853,13,2.3333333333333335,2.3333333333333335,0
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2023-10-29,Lando Norris,norris,McLaren,17,5,Finished,10.0,81.554,,,0,81.554,3,2.3333333333333335,2.3333333333333335,12
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,2023-11-05,Lando Norris,norris,McLaren,6,2,Finished,19.0,70.623,70.021,71.987,1,70.021,4,3.3333333333333335,3.3333333333333335,4
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2023-11-26,Lando Norris,norris,McLaren,5,5,Finished,10.0,84.368,83.92,83.816,0,83.816,24,3.0,3.0,0
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,Lando Norris,norris,McLaren,7,6,Finished,8.0,90.143,89.941,89.614,0,89.614,5,4.0,4.0,1
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,Lando Norris,norris,McLaren,6,8,Finished,4.0,88.805,88.479,88.132,0,88.132,15,4.333333333333333,4.333333333333333,-2
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,Lando Norris,norris,McLaren,3,3,Finished,15.0,77.43,76.75,76.315,1,76.315,0,6.333333333333333,6.333333333333333,0
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,Lando Norris,norris,McLaren,3,5,Finished,10.0,89.536,88.94,88.489,0,88.489,23,5.666666666666667,5.666666666666667,-2
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,Lando Norris,norris,McLaren,4,2,Finished,18.0,94.842,94.46,94.165,1,94.165,21,5.333333333333333,5.333333333333333,2
+2024,6,Miami Grand Prix,Miami International Autodrome,2024-05-05,Lando Norris,norris,McLaren,5,1,Finished,25.0,87.913,87.871,87.594,1,87.594,19,3.3333333333333335,3.3333333333333335,4
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2024-05-19,Lando Norris,norris,McLaren,2,2,Finished,18.0,75.91499999999999,75.371,74.837,1,74.837,1,2.6666666666666665,2.6666666666666665,0
+2024,8,Monaco Grand Prix,Circuit de Monaco,2024-05-26,Lando Norris,norris,McLaren,4,4,Finished,12.0,71.76,70.732,70.542,0,70.542,11,1.6666666666666667,1.6666666666666667,0
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2024-06-09,Lando Norris,norris,McLaren,3,2,Finished,18.0,72.959,72.201,72.021,1,72.021,7,2.3333333333333335,2.3333333333333335,1
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2024-06-23,Lando Norris,norris,McLaren,1,2,Finished,19.0,72.386,71.872,71.383,1,71.383,10,2.6666666666666665,2.6666666666666665,-1
+2024,12,British Grand Prix,Silverstone Circuit,2024-07-07,Lando Norris,norris,McLaren,3,3,Finished,15.0,91.596,86.559,86.03,1,86.03,22,2.6666666666666665,2.6666666666666665,0
+2024,13,Hungarian Grand Prix,Hungaroring,2024-07-21,Lando Norris,norris,McLaren,1,2,Finished,18.0,77.755,75.53999999999999,75.227,1,75.227,14,2.3333333333333335,2.3333333333333335,-1
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2024-07-28,Lando Norris,norris,McLaren,4,5,Finished,10.0,115.582,114.358,113.981,0,113.981,12,2.3333333333333335,2.3333333333333335,-1
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,2024-08-25,Lando Norris,norris,McLaren,1,1,Finished,26.0,71.377,70.496,69.673,1,69.673,8,3.3333333333333335,3.3333333333333335,0
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,2024-09-01,Lando Norris,norris,McLaren,1,3,Finished,16.0,79.911,79.727,79.327,1,79.327,2,2.6666666666666665,2.6666666666666665,-2
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,2024-09-15,Lando Norris,norris,McLaren,15,4,Finished,13.0,103.609,,,0,103.609,6,3.0,3.0,11
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,2024-09-22,Lando Norris,norris,McLaren,1,1,Finished,25.0,90.002,90.007,89.525,1,89.525,18,2.6666666666666665,2.6666666666666665,0
+2024,19,United States Grand Prix,Circuit of the Americas,2024-10-20,Lando Norris,norris,McLaren,1,4,Finished,12.0,93.616,92.851,92.33,0,92.33,13,2.6666666666666665,2.6666666666666665,-3
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2024-10-27,Lando Norris,norris,McLaren,3,2,Finished,18.0,76.505,76.301,76.26,1,76.26,3,3.0,3.0,1
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2024-11-03,Lando Norris,norris,McLaren,1,6,Finished,8.0,90.944,84.844,83.405,0,83.405,4,2.3333333333333335,2.3333333333333335,-5
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2024-11-23,Lando Norris,norris,McLaren,6,6,Finished,9.0,93.592,93.099,93.008,0,93.008,16,4.0,4.0,0
+2024,23,Qatar Grand Prix,Losail International Circuit,2024-12-01,Lando Norris,norris,McLaren,3,10,Finished,2.0,81.578,80.983,80.77199999999999,0,80.77199999999999,17,4.666666666666667,4.666666666666667,-7
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2024-12-08,Lando Norris,norris,McLaren,1,1,Finished,25.0,83.682,83.098,82.595,1,82.595,24,7.333333333333333,7.333333333333333,0
+2022,5,Miami Grand Prix,Miami International Autodrome,2022-05-08,Lewis Hamilton,hamilton,Mercedes,6,6,Finished,8.0,90.388,89.797,89.625,0,89.625,19,5.666666666666667,5.666666666666667,0
+2022,6,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2022-05-22,Lewis Hamilton,hamilton,Mercedes,6,5,Finished,10.0,80.252,79.794,79.512,0,79.512,10,6.666666666666667,6.666666666666667,1
+2022,7,Monaco Grand Prix,Circuit de Monaco,2022-05-29,Lewis Hamilton,hamilton,Mercedes,8,8,Finished,4.0,73.444,72.595,72.56,0,72.56,11,5.0,5.0,0
+2022,8,Azerbaijan Grand Prix,Baku City Circuit,2022-06-12,Lewis Hamilton,hamilton,Mercedes,7,4,Finished,12.0,103.939,103.182,102.924,0,102.924,6,6.333333333333333,6.333333333333333,3
+2022,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2022-06-19,Lewis Hamilton,hamilton,Mercedes,4,3,Finished,15.0,93.841,85.543,82.89099999999999,1,82.89099999999999,7,5.666666666666667,5.666666666666667,1
+2022,10,British Grand Prix,Silverstone Circuit,2022-07-03,Lewis Hamilton,hamilton,Mercedes,5,3,Finished,16.0,100.428,101.062,101.995,1,100.428,22,5.0,5.0,2
+2022,11,Austrian Grand Prix,Red Bull Ring,2022-07-10,Lewis Hamilton,hamilton,Mercedes,8,3,Finished,15.0,66.079,65.475,73.151,1,65.475,20,3.3333333333333335,3.3333333333333335,5
+2022,12,French Grand Prix,Circuit Paul Ricard,2022-07-24,Lewis Hamilton,hamilton,Mercedes,4,2,Finished,18.0,93.041,92.274,91.765,1,91.765,9,3.0,3.0,2
+2022,13,Hungarian Grand Prix,Hungaroring,2022-07-31,Lewis Hamilton,hamilton,Mercedes,7,2,Finished,19.0,78.374,78.035,78.142,1,78.035,14,2.6666666666666665,2.6666666666666665,5
+2022,15,Dutch Grand Prix,Circuit Park Zandvoort,2022-09-04,Lewis Hamilton,hamilton,Mercedes,4,4,Finished,12.0,71.331,71.075,70.648,0,70.648,8,2.3333333333333335,2.3333333333333335,0
+2022,16,Italian Grand Prix,Autodromo Nazionale di Monza,2022-09-11,Lewis Hamilton,hamilton,Mercedes,19,5,Finished,10.0,82.048,81.708,81.524,0,81.524,2,2.6666666666666665,2.6666666666666665,14
+2022,17,Singapore Grand Prix,Marina Bay Street Circuit,2022-10-02,Lewis Hamilton,hamilton,Mercedes,3,9,Finished,2.0,113.161,112.691,109.466,0,109.466,18,3.6666666666666665,3.6666666666666665,-6
+2022,18,Japanese Grand Prix,Suzuka Circuit,2022-10-09,Lewis Hamilton,hamilton,Mercedes,6,5,Finished,10.0,90.906,90.443,90.261,0,90.261,23,6.0,6.0,1
+2022,19,United States Grand Prix,Circuit of the Americas,2022-10-23,Lewis Hamilton,hamilton,Mercedes,3,2,Finished,18.0,96.148,95.732,94.947,1,94.947,13,6.333333333333333,6.333333333333333,1
+2022,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2022-10-30,Lewis Hamilton,hamilton,Mercedes,3,2,Finished,18.0,79.169,78.55199999999999,78.084,1,78.084,3,5.333333333333333,5.333333333333333,1
+2022,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2022-11-13,Lewis Hamilton,hamilton,Mercedes,2,2,Finished,18.0,73.403,71.539,72.611,1,71.539,4,3.0,3.0,0
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,2023-03-05,Lewis Hamilton,hamilton,Mercedes,7,5,Finished,10.0,91.543,90.513,90.384,0,90.384,5,2.0,2.0,2
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2023-03-19,Lewis Hamilton,hamilton,Mercedes,7,5,Finished,10.0,89.689,89.374,89.223,0,89.223,15,3.0,3.0,2
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2023-04-02,Lewis Hamilton,hamilton,Mercedes,3,2,Finished,18.0,77.689,77.551,77.104,1,77.104,0,4.0,4.0,1
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,2023-04-30,Lewis Hamilton,hamilton,Mercedes,5,6,Finished,8.0,102.113,101.65,101.177,0,101.177,6,4.0,4.0,-1
+2023,5,Miami Grand Prix,Miami International Autodrome,2023-05-07,Lewis Hamilton,hamilton,Mercedes,13,6,Finished,8.0,87.846,87.975,,0,87.846,19,4.333333333333333,4.333333333333333,7
+2023,6,Monaco Grand Prix,Circuit de Monaco,2023-05-28,Lewis Hamilton,hamilton,Mercedes,5,4,Finished,13.0,72.872,72.156,71.725,0,71.725,11,4.666666666666667,4.666666666666667,1
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2023-06-04,Lewis Hamilton,hamilton,Mercedes,4,2,Finished,18.0,72.937,72.999,72.818,1,72.818,10,5.333333333333333,5.333333333333333,2
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,2023-06-18,Lewis Hamilton,hamilton,Mercedes,3,3,Finished,15.0,81.554,80.426,87.627,1,80.426,7,4.0,4.0,0
+2023,9,Austrian Grand Prix,Red Bull Ring,2023-07-02,Lewis Hamilton,hamilton,Mercedes,5,8,Finished,4.0,65.673,65.188,64.819,0,64.819,20,3.0,3.0,-3
+2023,10,British Grand Prix,Silverstone Circuit,2023-07-09,Lewis Hamilton,hamilton,Mercedes,7,3,Finished,15.0,89.41499999999999,88.545,87.211,1,87.211,22,4.333333333333333,4.333333333333333,4
+2023,11,Hungarian Grand Prix,Hungaroring,2023-07-23,Lewis Hamilton,hamilton,Mercedes,1,4,Finished,12.0,78.577,77.42699999999999,76.60900000000001,0,76.60900000000001,14,4.666666666666667,4.666666666666667,-3
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,2023-07-30,Lewis Hamilton,hamilton,Mercedes,3,4,Finished,13.0,118.563,112.345,107.087,0,107.087,12,5.0,5.0,-1
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,2023-08-27,Lewis Hamilton,hamilton,Mercedes,13,6,Finished,8.0,81.919,80.151,,0,80.151,8,3.6666666666666665,3.6666666666666665,7
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,2023-09-03,Lewis Hamilton,hamilton,Mercedes,8,6,Finished,8.0,81.977,81.369,80.82,0,80.82,2,4.666666666666667,4.666666666666667,2
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,2023-09-17,Lewis Hamilton,hamilton,Mercedes,5,3,Finished,16.0,92.651,92.019,91.485,1,91.485,18,5.333333333333333,5.333333333333333,2
+2023,16,Japanese Grand Prix,Suzuka Circuit,2023-09-24,Lewis Hamilton,hamilton,Mercedes,7,5,Finished,10.0,90.811,90.03999999999999,89.908,0,89.908,23,5.0,5.0,2
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2023-10-29,Lewis Hamilton,hamilton,Mercedes,6,2,Finished,19.0,78.67699999999999,77.571,77.45400000000001,1,77.45400000000001,3,4.666666666666667,4.666666666666667,4
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,2023-11-05,Lewis Hamilton,hamilton,Mercedes,5,8,Finished,4.0,70.604,70.266,71.469,0,70.266,4,3.3333333333333335,3.3333333333333335,-3
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2023-11-19,Lewis Hamilton,hamilton,Mercedes,10,7,Finished,6.0,94.307,93.837,,0,93.837,16,5.0,5.0,3
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2023-11-26,Lewis Hamilton,hamilton,Mercedes,11,9,Finished,2.0,84.437,84.35900000000001,,0,84.35900000000001,24,5.666666666666667,5.666666666666667,2
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,Lewis Hamilton,hamilton,Mercedes,9,7,Finished,6.0,90.451,89.718,89.71000000000001,0,89.71000000000001,5,8.0,8.0,2
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,Lewis Hamilton,hamilton,Mercedes,8,9,Finished,2.0,88.994,88.606,88.46000000000001,0,88.46000000000001,15,7.666666666666667,7.666666666666667,-1
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,Lewis Hamilton,hamilton,Mercedes,7,9,Finished,2.0,89.661,88.887,88.76599999999999,0,88.76599999999999,23,8.333333333333334,8.333333333333334,-2
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,Lewis Hamilton,hamilton,Mercedes,18,9,Finished,2.0,95.573,,,0,95.573,21,8.333333333333334,8.333333333333334,9
+2024,6,Miami Grand Prix,Miami International Autodrome,2024-05-05,Lewis Hamilton,hamilton,Mercedes,8,6,Finished,8.0,88.167,87.697,88.107,0,87.697,19,9.0,9.0,2
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2024-05-19,Lewis Hamilton,hamilton,Mercedes,8,6,Finished,8.0,76.604,75.67699999999999,75.504,0,75.504,1,8.0,8.0,2
+2024,8,Monaco Grand Prix,Circuit de Monaco,2024-05-26,Lewis Hamilton,hamilton,Mercedes,7,7,Finished,7.0,71.528,71.056,70.621,0,70.621,11,7.0,7.0,0
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2024-06-09,Lewis Hamilton,hamilton,Mercedes,7,4,Finished,13.0,72.851,71.979,72.28,0,71.979,7,6.333333333333333,6.333333333333333,3
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2024-06-23,Lewis Hamilton,hamilton,Mercedes,3,3,Finished,15.0,72.143,71.792,71.701,1,71.701,10,5.666666666666667,5.666666666666667,0
+2024,11,Austrian Grand Prix,Red Bull Ring,2024-06-30,Lewis Hamilton,hamilton,Mercedes,5,4,Finished,12.0,65.541,65.053,64.903,0,64.903,20,4.666666666666667,4.666666666666667,1
+2024,12,British Grand Prix,Silverstone Circuit,2024-07-07,Lewis Hamilton,hamilton,Mercedes,2,1,Finished,25.0,89.547,86.77,85.99,1,85.99,22,3.6666666666666665,3.6666666666666665,1
+2024,13,Hungarian Grand Prix,Hungaroring,2024-07-21,Lewis Hamilton,hamilton,Mercedes,5,3,Finished,15.0,77.087,76.307,75.854,1,75.854,14,2.6666666666666665,2.6666666666666665,2
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2024-07-28,Lewis Hamilton,hamilton,Mercedes,3,1,Finished,25.0,115.692,114.037,113.835,1,113.835,12,2.6666666666666665,2.6666666666666665,2
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,2024-08-25,Lewis Hamilton,hamilton,Mercedes,14,8,Finished,4.0,71.375,70.94800000000001,,0,70.94800000000001,8,1.6666666666666667,1.6666666666666667,6
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,2024-09-01,Lewis Hamilton,hamilton,Mercedes,6,5,Finished,10.0,80.477,79.64099999999999,79.513,0,79.513,2,4.0,4.0,1
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,2024-09-15,Lewis Hamilton,hamilton,Mercedes,0,9,Finished,2.0,103.089,102.765,102.289,0,102.289,6,4.666666666666667,4.666666666666667,-9
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,2024-09-22,Lewis Hamilton,hamilton,Mercedes,3,6,Finished,8.0,90.393,89.929,89.84100000000001,0,89.84100000000001,18,7.333333333333333,7.333333333333333,-3
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2024-10-27,Lewis Hamilton,hamilton,Mercedes,6,4,Finished,12.0,77.306,76.973,76.651,0,76.651,3,6.666666666666667,6.666666666666667,2
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2024-11-03,Lewis Hamilton,hamilton,Mercedes,14,10,Finished,1.0,91.15,,,0,91.15,4,6.333333333333333,6.333333333333333,4
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2024-11-23,Lewis Hamilton,hamilton,Mercedes,10,2,Finished,18.0,93.225,92.567,108.106,1,92.567,16,6.666666666666667,6.666666666666667,8
+2024,23,Qatar Grand Prix,Losail International Circuit,2024-12-01,Lewis Hamilton,hamilton,Mercedes,6,12,Finished,0.0,81.637,81.095,81.011,0,81.011,17,5.333333333333333,5.333333333333333,-6
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2024-12-08,Lewis Hamilton,hamilton,Mercedes,16,4,Finished,12.0,83.887,,,0,83.887,24,8.0,8.0,12
+2024,19,United States Grand Prix,Circuit of the Americas,2024-10-20,Liam Lawson,lawson,RB F1 Team,19,9,Finished,2.0,93.339,,,0,93.339,13,11.0,12.0,10
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2024-11-03,Liam Lawson,lawson,RB F1 Team,5,9,Finished,2.0,90.758,85.654,84.48400000000001,0,84.48400000000001,4,9.666666666666666,11.666666666666666,-4
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2024-11-23,Liam Lawson,lawson,RB F1 Team,14,16,Finished,0.0,94.087,94.257,,0,94.087,16,9.0,10.333333333333334,-2
+2024,23,Qatar Grand Prix,Losail International Circuit,2024-12-01,Liam Lawson,lawson,RB F1 Team,17,14,Finished,0.0,82.411,,,0,82.411,17,11.333333333333334,11.333333333333334,3
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,2023-07-30,Logan Sargeant,sargeant,Williams,18,17,Finished,0.0,121.535,,,0,121.535,12,14.333333333333334,14.333333333333334,1
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,2023-09-03,Logan Sargeant,sargeant,Williams,15,13,Finished,0.0,81.93,81.944,,0,81.93,2,14.666666666666666,14.666666666666666,2
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,2023-09-17,Logan Sargeant,sargeant,Williams,18,14,Finished,0.0,93.252,,,0,93.252,18,13.666666666666666,13.666666666666666,4
+2023,18,United States Grand Prix,Circuit of the Americas,2023-10-22,Logan Sargeant,sargeant,Williams,16,10,Finished,1.0,96.827,,,0,96.827,13,14.666666666666666,14.666666666666666,6
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2023-11-19,Logan Sargeant,sargeant,Williams,6,16,Finished,0.0,94.525,93.733,93.513,0,93.513,16,12.333333333333334,12.333333333333334,-10
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,Logan Sargeant,sargeant,Williams,20,17,Finished,0.0,96.358,,,0,96.358,21,14.0,14.0,3
+2024,12,British Grand Prix,Silverstone Circuit,2024-07-07,Logan Sargeant,sargeant,Williams,12,11,Finished,0.0,91.608,87.175,,0,87.175,22,16.333333333333332,16.333333333333332,1
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2024-07-28,Logan Sargeant,sargeant,Williams,18,17,Finished,0.0,117.23,,,0,117.23,12,14.666666666666666,14.666666666666666,1
+2022,6,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2022-05-22,Max Verstappen,max_verstappen,Red Bull,2,1,Finished,25.0,80.09100000000001,79.219,79.07300000000001,1,79.07300000000001,10,1.0,1.0,1
+2022,7,Monaco Grand Prix,Circuit de Monaco,2022-05-29,Max Verstappen,max_verstappen,Red Bull,4,3,Finished,15.0,72.993,72.117,71.666,1,71.666,11,1.0,1.0,1
+2022,8,Azerbaijan Grand Prix,Baku City Circuit,2022-06-12,Max Verstappen,max_verstappen,Red Bull,3,1,Finished,25.0,102.722,102.227,101.706,1,101.706,6,1.6666666666666667,1.6666666666666667,2
+2022,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2022-06-19,Max Verstappen,max_verstappen,Red Bull,1,1,Finished,25.0,92.219,83.746,81.299,1,81.299,7,1.6666666666666667,1.6666666666666667,0
+2022,10,British Grand Prix,Silverstone Circuit,2022-07-03,Max Verstappen,max_verstappen,Red Bull,2,7,Finished,6.0,99.129,100.655,101.055,0,99.129,22,1.6666666666666667,1.6666666666666667,-5
+2022,11,Austrian Grand Prix,Red Bull Ring,2022-07-10,Max Verstappen,max_verstappen,Red Bull,1,2,Finished,19.0,65.852,65.374,64.984,1,64.984,20,3.0,3.0,-1
+2022,12,French Grand Prix,Circuit Paul Ricard,2022-07-24,Max Verstappen,max_verstappen,Red Bull,2,1,Finished,25.0,91.891,91.99,91.176,1,91.176,9,3.3333333333333335,3.3333333333333335,1
+2022,13,Hungarian Grand Prix,Hungaroring,2022-07-31,Max Verstappen,max_verstappen,Red Bull,10,1,Finished,25.0,78.509,77.703,78.82300000000001,1,77.703,14,3.3333333333333335,3.3333333333333335,9
+2022,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2022-08-28,Max Verstappen,max_verstappen,Red Bull,14,1,Finished,26.0,104.581,104.723,103.665,1,103.665,12,1.3333333333333333,1.3333333333333333,13
+2022,15,Dutch Grand Prix,Circuit Park Zandvoort,2022-09-04,Max Verstappen,max_verstappen,Red Bull,1,1,Finished,26.0,71.31700000000001,70.92699999999999,70.342,1,70.342,8,1.0,1.0,0
+2022,16,Italian Grand Prix,Autodromo Nazionale di Monza,2022-09-11,Max Verstappen,max_verstappen,Red Bull,7,1,Finished,25.0,80.922,81.265,80.306,1,80.306,2,1.0,1.0,6
+2022,17,Singapore Grand Prix,Marina Bay Street Circuit,2022-10-02,Max Verstappen,max_verstappen,Red Bull,8,7,Finished,6.0,113.057,112.723,111.395,0,111.395,18,1.0,1.0,1
+2022,18,Japanese Grand Prix,Suzuka Circuit,2022-10-09,Max Verstappen,max_verstappen,Red Bull,1,1,Finished,25.0,90.224,90.346,89.304,1,89.304,23,3.0,3.0,0
+2022,19,United States Grand Prix,Circuit of the Americas,2022-10-23,Max Verstappen,max_verstappen,Red Bull,2,1,Finished,25.0,95.864,95.294,94.448,1,94.448,13,3.0,3.0,1
+2022,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2022-10-30,Max Verstappen,max_verstappen,Red Bull,1,1,Finished,25.0,79.22200000000001,78.566,77.775,1,77.775,3,3.0,3.0,0
+2022,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2022-11-13,Max Verstappen,max_verstappen,Red Bull,3,6,Finished,8.0,73.625,70.881,71.877,0,70.881,4,1.0,1.0,-3
+2022,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2022-11-20,Max Verstappen,max_verstappen,Red Bull,1,1,Finished,25.0,84.754,84.622,83.824,1,83.824,24,2.6666666666666665,2.6666666666666665,0
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,2023-03-05,Max Verstappen,max_verstappen,Red Bull,1,1,Finished,25.0,91.295,90.503,89.708,1,89.708,5,2.6666666666666665,2.6666666666666665,0
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2023-03-19,Max Verstappen,max_verstappen,Red Bull,15,2,Finished,19.0,88.761,109.953,,1,88.761,15,2.6666666666666665,2.6666666666666665,13
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2023-04-02,Max Verstappen,max_verstappen,Red Bull,1,1,Finished,25.0,77.384,77.056,76.732,1,76.732,0,1.3333333333333333,1.3333333333333333,0
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,2023-04-30,Max Verstappen,max_verstappen,Red Bull,2,2,Finished,18.0,101.398,100.822,100.391,1,100.391,6,1.3333333333333333,1.3333333333333333,0
+2023,5,Miami Grand Prix,Miami International Autodrome,2023-05-07,Max Verstappen,max_verstappen,Red Bull,9,1,Finished,26.0,87.363,86.814,,1,86.814,19,1.6666666666666667,1.6666666666666667,8
+2023,6,Monaco Grand Prix,Circuit de Monaco,2023-05-28,Max Verstappen,max_verstappen,Red Bull,1,1,Finished,25.0,72.386,71.908,71.365,1,71.365,11,1.3333333333333333,1.3333333333333333,0
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2023-06-04,Max Verstappen,max_verstappen,Red Bull,1,1,Finished,26.0,73.615,72.76,72.272,1,72.272,10,1.3333333333333333,1.3333333333333333,0
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,2023-06-18,Max Verstappen,max_verstappen,Red Bull,1,1,Finished,25.0,80.851,79.092,85.858,1,79.092,7,1.0,1.0,0
+2023,9,Austrian Grand Prix,Red Bull Ring,2023-07-02,Max Verstappen,max_verstappen,Red Bull,1,1,Finished,26.0,65.116,64.951,64.391,1,64.391,20,1.0,1.0,0
+2023,10,British Grand Prix,Silverstone Circuit,2023-07-09,Max Verstappen,max_verstappen,Red Bull,1,1,Finished,26.0,89.428,87.702,86.72,1,86.72,22,1.0,1.0,0
+2023,11,Hungarian Grand Prix,Hungaroring,2023-07-23,Max Verstappen,max_verstappen,Red Bull,2,1,Finished,26.0,78.318,77.547,76.612,1,76.612,14,1.0,1.0,1
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,2023-07-30,Max Verstappen,max_verstappen,Red Bull,6,1,Finished,25.0,118.515,112.784,106.168,1,106.168,12,1.0,1.0,5
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,2023-08-27,Max Verstappen,max_verstappen,Red Bull,1,1,Finished,25.0,80.965,78.856,70.56700000000001,1,70.56700000000001,8,1.0,1.0,0
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,2023-09-03,Max Verstappen,max_verstappen,Red Bull,2,1,Finished,25.0,81.57300000000001,80.937,80.307,1,80.307,2,1.0,1.0,1
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,2023-09-17,Max Verstappen,max_verstappen,Red Bull,11,5,Finished,10.0,92.398,92.173,,0,92.173,18,1.0,1.0,6
+2023,16,Japanese Grand Prix,Suzuka Circuit,2023-09-24,Max Verstappen,max_verstappen,Red Bull,1,1,Finished,26.0,89.878,89.964,88.877,1,88.877,23,2.3333333333333335,2.3333333333333335,0
+2023,17,Qatar Grand Prix,Losail International Circuit,2023-10-08,Max Verstappen,max_verstappen,Red Bull,1,1,Finished,26.0,85.007,84.483,83.77799999999999,1,83.77799999999999,17,2.3333333333333335,2.3333333333333335,0
+2023,18,United States Grand Prix,Circuit of the Americas,2023-10-22,Max Verstappen,max_verstappen,Red Bull,6,1,Finished,25.0,95.346,95.008,95.081,1,95.008,13,2.3333333333333335,2.3333333333333335,5
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2023-10-29,Max Verstappen,max_verstappen,Red Bull,3,1,Finished,25.0,78.099,77.625,77.263,1,77.263,3,1.0,1.0,2
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,2023-11-05,Max Verstappen,max_verstappen,Red Bull,1,1,Finished,25.0,70.436,70.162,70.727,1,70.162,4,1.0,1.0,0
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2023-11-19,Max Verstappen,max_verstappen,Red Bull,2,1,Finished,25.0,94.19,93.572,93.104,1,93.104,16,1.0,1.0,1
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2023-11-26,Max Verstappen,max_verstappen,Red Bull,1,1,Finished,26.0,84.16,83.74,83.445,1,83.445,24,1.0,1.0,0
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,Max Verstappen,max_verstappen,Red Bull,1,1,Finished,26.0,90.031,89.374,89.179,1,89.179,5,1.0,1.0,0
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,Max Verstappen,max_verstappen,Red Bull,1,1,Finished,25.0,88.17099999999999,88.033,87.47200000000001,1,87.47200000000001,15,1.0,1.0,0
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,Max Verstappen,max_verstappen,Red Bull,1,1,Finished,26.0,88.866,88.74,88.197,1,88.197,23,1.0,1.0,0
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,Max Verstappen,max_verstappen,Red Bull,1,1,Finished,25.0,94.742,93.794,93.66,1,93.66,21,1.0,1.0,0
+2024,6,Miami Grand Prix,Miami International Autodrome,2024-05-05,Max Verstappen,max_verstappen,Red Bull,1,2,Finished,18.0,87.689,87.566,87.241,1,87.241,19,1.0,1.0,-1
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2024-05-19,Max Verstappen,max_verstappen,Red Bull,1,1,Finished,25.0,75.762,75.176,74.746,1,74.746,1,1.3333333333333333,1.3333333333333333,0
+2024,8,Monaco Grand Prix,Circuit de Monaco,2024-05-26,Max Verstappen,max_verstappen,Red Bull,6,6,Finished,8.0,71.711,70.745,70.56700000000001,0,70.56700000000001,11,1.3333333333333333,1.3333333333333333,0
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2024-06-09,Max Verstappen,max_verstappen,Red Bull,2,1,Finished,25.0,72.36,72.549,72.0,1,72.0,7,3.0,3.0,1
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2024-06-23,Max Verstappen,max_verstappen,Red Bull,2,1,Finished,25.0,72.306,71.653,71.403,1,71.403,10,2.6666666666666665,2.6666666666666665,1
+2024,11,Austrian Grand Prix,Red Bull Ring,2024-06-30,Max Verstappen,max_verstappen,Red Bull,1,5,Finished,10.0,65.336,64.469,64.314,0,64.314,20,2.6666666666666665,2.6666666666666665,-4
+2024,12,British Grand Prix,Silverstone Circuit,2024-07-07,Max Verstappen,max_verstappen,Red Bull,4,2,Finished,18.0,91.342,86.79599999999999,86.203,1,86.203,22,2.3333333333333335,2.3333333333333335,2
+2024,13,Hungarian Grand Prix,Hungaroring,2024-07-21,Max Verstappen,max_verstappen,Red Bull,3,5,Finished,10.0,77.087,75.77,75.273,0,75.273,14,2.6666666666666665,2.6666666666666665,-2
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2024-07-28,Max Verstappen,max_verstappen,Red Bull,11,4,Finished,12.0,114.938,113.837,113.159,0,113.159,12,4.0,4.0,7
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,2024-08-25,Max Verstappen,max_verstappen,Red Bull,2,2,Finished,18.0,71.393,70.811,70.029,1,70.029,8,3.6666666666666665,3.6666666666666665,0
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,2024-09-01,Max Verstappen,max_verstappen,Red Bull,7,6,Finished,8.0,80.226,79.662,80.02199999999999,0,79.662,2,3.6666666666666665,3.6666666666666665,1
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,2024-09-15,Max Verstappen,max_verstappen,Red Bull,6,5,Finished,10.0,103.097,102.042,102.023,0,102.023,6,4.0,4.0,1
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,2024-09-22,Max Verstappen,max_verstappen,Red Bull,2,2,Finished,18.0,90.157,89.68,89.72800000000001,1,89.68,18,4.333333333333333,4.333333333333333,0
+2024,19,United States Grand Prix,Circuit of the Americas,2024-10-20,Max Verstappen,max_verstappen,Red Bull,2,3,Finished,15.0,93.046,92.584,92.361,1,92.361,13,4.333333333333333,4.333333333333333,-1
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2024-10-27,Max Verstappen,max_verstappen,Red Bull,2,6,Finished,8.0,76.803,76.514,76.17099999999999,0,76.17099999999999,3,3.3333333333333335,3.3333333333333335,-4
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2024-11-03,Max Verstappen,max_verstappen,Red Bull,17,1,Finished,26.0,88.52199999999999,87.771,,1,87.771,4,3.6666666666666665,3.6666666666666665,16
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2024-11-23,Max Verstappen,max_verstappen,Red Bull,5,5,Finished,10.0,93.299,93.085,92.797,0,92.797,16,3.3333333333333335,3.3333333333333335,0
+2024,23,Qatar Grand Prix,Losail International Circuit,2024-12-01,Max Verstappen,max_verstappen,Red Bull,2,1,Finished,25.0,81.57900000000001,80.687,80.52,1,80.52,17,4.0,4.0,1
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2024-12-08,Max Verstappen,max_verstappen,Red Bull,4,6,Finished,8.0,83.51599999999999,82.998,82.945,0,82.945,24,2.3333333333333335,2.3333333333333335,-2
+2022,12,French Grand Prix,Circuit Paul Ricard,2022-07-24,Mick Schumacher,mick_schumacher,Haas F1 Team,17,15,Finished,0.0,93.701,,,0,93.701,9,11.333333333333334,11.333333333333334,2
+2022,15,Dutch Grand Prix,Circuit Park Zandvoort,2022-09-04,Mick Schumacher,mick_schumacher,Haas F1 Team,8,13,Finished,0.0,71.741,71.42,71.44200000000001,0,71.42,8,12.666666666666666,12.666666666666666,-5
+2022,16,Italian Grand Prix,Autodromo Nazionale di Monza,2022-09-11,Mick Schumacher,mick_schumacher,Haas F1 Team,17,12,Finished,0.0,83.005,,,0,83.005,2,12.0,12.0,5
+2022,18,Japanese Grand Prix,Suzuka Circuit,2022-10-09,Mick Schumacher,mick_schumacher,Haas F1 Team,15,17,Finished,0.0,91.152,91.439,,0,91.152,23,13.333333333333334,13.333333333333334,-2
+2022,19,United States Grand Prix,Circuit of the Americas,2022-10-23,Mick Schumacher,mick_schumacher,Haas F1 Team,16,15,Finished,0.0,97.111,,,0,97.111,13,14.0,14.0,1
+2022,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2022-11-13,Mick Schumacher,mick_schumacher,Haas F1 Team,12,13,Finished,0.0,76.361,,,0,76.361,4,14.666666666666666,14.666666666666666,-1
+2022,10,British Grand Prix,Silverstone Circuit,2022-07-03,Nicholas Latifi,latifi,Williams,10,12,Finished,0.0,101.998,103.273,123.095,0,101.998,22,15.333333333333334,15.333333333333334,-2
+2022,18,Japanese Grand Prix,Suzuka Circuit,2022-10-09,Nicholas Latifi,latifi,Williams,20,9,Finished,2.0,91.511,,,0,91.511,23,14.0,14.0,11
+2022,19,United States Grand Prix,Circuit of the Americas,2022-10-23,Nicholas Latifi,latifi,Williams,17,17,Finished,0.0,97.244,,,0,97.244,13,12.333333333333334,12.333333333333334,0
+2022,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2022-11-13,Nicholas Latifi,latifi,Williams,18,16,Finished,0.0,75.095,,,0,75.095,4,12.666666666666666,12.666666666666666,2
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2023-04-02,Nico Hülkenberg,hulkenberg,Haas F1 Team,10,7,Finished,6.0,78.029,77.412,77.735,0,77.412,0,13.666666666666666,13.333333333333334,3
+2023,5,Miami Grand Prix,Miami International Autodrome,2023-05-07,Nico Hülkenberg,hulkenberg,Haas F1 Team,12,15,Finished,0.0,87.945,87.90299999999999,,0,87.90299999999999,19,10.333333333333334,10.666666666666666,-3
+2023,10,British Grand Prix,Silverstone Circuit,2023-07-09,Nico Hülkenberg,hulkenberg,Haas F1 Team,11,13,Finished,0.0,89.60300000000001,88.896,,0,88.896,22,11.333333333333334,11.333333333333334,-2
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,2023-07-30,Nico Hülkenberg,hulkenberg,Haas F1 Team,0,18,Finished,0.0,123.166,,,0,123.166,12,11.666666666666666,11.666666666666666,-18
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,2023-08-27,Nico Hülkenberg,hulkenberg,Haas F1 Team,14,12,Finished,0.0,81.89099999999999,80.25,,0,80.25,8,15.333333333333334,15.333333333333334,2
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,2023-09-17,Nico Hülkenberg,hulkenberg,Haas F1 Team,9,13,Finished,0.0,92.1,91.994,91.808,0,91.808,18,14.333333333333334,14.333333333333334,-4
+2023,18,United States Grand Prix,Circuit of the Americas,2023-10-22,Nico Hülkenberg,hulkenberg,Haas F1 Team,0,11,Finished,0.0,96.235,,,0,96.235,13,14.333333333333334,14.333333333333334,-11
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2023-10-29,Nico Hülkenberg,hulkenberg,Haas F1 Team,12,13,Finished,0.0,78.969,78.524,,0,78.524,3,12.0,12.0,-1
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2023-11-26,Nico Hülkenberg,hulkenberg,Haas F1 Team,8,15,Finished,0.0,84.425,84.213,84.108,0,84.108,24,12.333333333333334,12.333333333333334,-7
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,Nico Hülkenberg,hulkenberg,Haas F1 Team,15,10,Finished,1.0,89.055,,,0,89.055,15,13.0,13.0,5
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,Nico Hülkenberg,hulkenberg,Haas F1 Team,16,9,Finished,2.0,77.976,,,0,77.976,0,12.666666666666666,12.666666666666666,7
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,Nico Hülkenberg,hulkenberg,Haas F1 Team,9,10,Finished,1.0,95.068,94.667,94.604,0,94.604,21,11.333333333333334,11.333333333333334,-1
+2024,6,Miami Grand Prix,Miami International Autodrome,2024-05-05,Nico Hülkenberg,hulkenberg,Haas F1 Team,9,11,Finished,0.0,88.383,88.2,88.146,0,88.146,19,9.666666666666666,9.666666666666666,-2
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2024-06-09,Nico Hülkenberg,hulkenberg,Haas F1 Team,17,11,Finished,0.0,73.978,,,0,73.978,7,10.0,10.0,6
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2024-06-23,Nico Hülkenberg,hulkenberg,Haas F1 Team,13,11,Finished,0.0,72.708,72.31,,0,72.31,10,10.666666666666666,10.666666666666666,2
+2024,11,Austrian Grand Prix,Red Bull Ring,2024-06-30,Nico Hülkenberg,hulkenberg,Haas F1 Team,9,6,Finished,8.0,65.596,65.262,65.385,0,65.262,20,11.0,11.0,3
+2024,12,British Grand Prix,Silverstone Circuit,2024-07-07,Nico Hülkenberg,hulkenberg,Haas F1 Team,6,6,Finished,8.0,91.929,86.84700000000001,86.338,0,86.338,22,9.333333333333334,9.333333333333334,0
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2024-07-28,Nico Hülkenberg,hulkenberg,Haas F1 Team,16,18,Finished,0.0,116.308,,,0,116.308,12,7.666666666666667,7.666666666666667,-2
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,2024-09-15,Nico Hülkenberg,hulkenberg,Haas F1 Team,12,11,Finished,0.0,103.101,103.191,,0,103.101,6,10.0,10.0,1
+2024,19,United States Grand Prix,Circuit of the Americas,2024-10-20,Nico Hülkenberg,hulkenberg,Haas F1 Team,11,8,Finished,4.0,93.601,93.544,,0,93.544,13,11.666666666666666,11.666666666666666,3
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2024-11-23,Nico Hülkenberg,hulkenberg,Haas F1 Team,9,8,Finished,4.0,93.92,93.114,93.062,0,93.062,16,12.333333333333334,12.333333333333334,1
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2024-12-08,Nico Hülkenberg,hulkenberg,Haas F1 Team,7,8,Finished,4.0,83.72200000000001,83.03999999999999,82.886,0,82.886,24,9.0,9.0,-1
+2023,10,British Grand Prix,Silverstone Circuit,2023-07-09,Nyck de Vries,de_vries,AlphaTauri,18,17,Finished,0.0,90.513,,,0,90.513,22,13.666666666666666,13.666666666666666,1
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,2023-06-18,Oscar Piastri,piastri,McLaren,8,11,Finished,0.0,82.19,79.65899999999999,91.349,0,79.65899999999999,7,11.333333333333334,11.333333333333334,-3
+2023,10,British Grand Prix,Silverstone Circuit,2023-07-09,Oscar Piastri,piastri,McLaren,3,4,Finished,12.0,89.874,87.845,87.092,0,87.092,22,10.0,10.0,-1
+2023,11,Hungarian Grand Prix,Hungaroring,2023-07-23,Oscar Piastri,piastri,McLaren,4,5,Finished,10.0,78.464,77.571,76.905,0,76.905,14,8.666666666666666,8.666666666666666,-1
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,2023-08-27,Oscar Piastri,piastri,McLaren,8,9,Finished,2.0,81.231,79.392,71.938,0,71.938,8,6.666666666666667,6.666666666666667,-1
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,2023-09-03,Oscar Piastri,piastri,McLaren,7,12,Finished,0.0,82.106,81.527,80.785,0,80.785,2,6.0,6.0,-5
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,2023-09-17,Oscar Piastri,piastri,McLaren,17,7,Finished,6.0,92.902,,,0,92.902,18,8.666666666666666,8.666666666666666,10
+2023,16,Japanese Grand Prix,Suzuka Circuit,2023-09-24,Oscar Piastri,piastri,McLaren,2,3,Finished,15.0,90.439,90.122,89.458,1,89.458,23,9.333333333333334,9.333333333333334,-1
+2023,17,Qatar Grand Prix,Losail International Circuit,2023-10-08,Oscar Piastri,piastri,McLaren,6,2,Finished,18.0,85.26599999999999,84.724,84.53999999999999,1,84.53999999999999,17,7.333333333333333,7.333333333333333,4
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2023-10-29,Oscar Piastri,piastri,McLaren,7,8,Finished,4.0,78.241,77.874,77.623,0,77.623,3,4.0,4.0,-1
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2023-11-19,Oscar Piastri,piastri,McLaren,18,10,Finished,2.0,94.85,,,0,94.85,16,4.333333333333333,4.333333333333333,8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2023-11-26,Oscar Piastri,piastri,McLaren,3,6,Finished,8.0,84.487,84.27799999999999,83.782,0,83.782,24,6.666666666666667,6.666666666666667,-3
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,Oscar Piastri,piastri,McLaren,8,8,Finished,4.0,90.531,90.122,89.68299999999999,0,89.68299999999999,5,8.0,8.0,0
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,Oscar Piastri,piastri,McLaren,5,4,Finished,12.0,88.755,88.343,88.089,0,88.089,15,8.0,8.0,1
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,Oscar Piastri,piastri,McLaren,5,4,Finished,12.0,77.369,76.601,76.572,0,76.572,0,6.0,6.0,1
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,Oscar Piastri,piastri,McLaren,6,8,Finished,4.0,89.425,89.148,88.76,0,88.76,23,5.333333333333333,5.333333333333333,-2
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,Oscar Piastri,piastri,McLaren,5,8,Finished,4.0,95.014,94.659,94.273,0,94.273,21,5.333333333333333,5.333333333333333,-3
+2024,6,Miami Grand Prix,Miami International Autodrome,2024-05-05,Oscar Piastri,piastri,McLaren,6,13,Finished,0.0,88.032,87.721,87.675,0,87.675,19,6.666666666666667,6.666666666666667,-7
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2024-05-19,Oscar Piastri,piastri,McLaren,5,4,Finished,12.0,75.94,75.407,74.82,0,74.82,1,9.666666666666666,9.666666666666666,1
+2024,8,Monaco Grand Prix,Circuit de Monaco,2024-05-26,Oscar Piastri,piastri,McLaren,2,2,Finished,18.0,71.5,70.756,70.424,1,70.424,11,8.333333333333334,8.333333333333334,0
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2024-06-09,Oscar Piastri,piastri,McLaren,4,5,Finished,10.0,72.907,72.462,72.103,0,72.103,7,6.333333333333333,6.333333333333333,-1
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2024-06-23,Oscar Piastri,piastri,McLaren,9,7,Finished,6.0,72.46000000000001,72.011,,0,72.011,10,3.6666666666666665,3.6666666666666665,2
+2024,11,Austrian Grand Prix,Red Bull Ring,2024-06-30,Oscar Piastri,piastri,McLaren,7,2,Finished,18.0,65.311,65.07,65.048,1,65.048,20,4.666666666666667,4.666666666666667,5
+2024,12,British Grand Prix,Silverstone Circuit,2024-07-07,Oscar Piastri,piastri,McLaren,5,4,Finished,12.0,90.895,86.733,86.237,0,86.237,22,4.666666666666667,4.666666666666667,1
+2024,13,Hungarian Grand Prix,Hungaroring,2024-07-21,Oscar Piastri,piastri,McLaren,2,1,Finished,25.0,77.504,75.785,75.249,1,75.249,14,4.333333333333333,4.333333333333333,1
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2024-07-28,Oscar Piastri,piastri,McLaren,5,2,Finished,18.0,114.835,114.136,114.027,1,114.027,12,2.3333333333333335,2.3333333333333335,3
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,2024-08-25,Oscar Piastri,piastri,McLaren,3,4,Finished,12.0,71.541,70.505,70.172,0,70.172,8,2.3333333333333335,2.3333333333333335,-1
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,2024-09-01,Oscar Piastri,piastri,McLaren,2,2,Finished,18.0,80.076,79.80799999999999,79.436,1,79.436,2,2.3333333333333335,2.3333333333333335,0
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,2024-09-15,Oscar Piastri,piastri,McLaren,2,1,Finished,25.0,103.033,102.598,101.686,1,101.686,6,2.6666666666666665,2.6666666666666665,1
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,2024-09-22,Oscar Piastri,piastri,McLaren,5,3,Finished,15.0,90.258,89.64,89.953,1,89.64,18,2.3333333333333335,2.3333333333333335,2
+2024,19,United States Grand Prix,Circuit of the Americas,2024-10-20,Oscar Piastri,piastri,McLaren,5,5,Finished,10.0,93.864,93.057,92.95,0,92.95,13,2.0,2.0,0
+2024,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2024-10-27,Oscar Piastri,piastri,McLaren,17,8,Finished,4.0,77.59700000000001,,,0,77.59700000000001,3,3.0,3.0,9
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2024-11-03,Oscar Piastri,piastri,McLaren,8,8,Finished,4.0,90.114,85.179,84.686,0,84.686,4,5.333333333333333,5.333333333333333,0
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2024-11-23,Oscar Piastri,piastri,McLaren,8,7,Finished,6.0,93.45,93.024,93.033,0,93.024,16,7.0,7.0,1
+2024,23,Qatar Grand Prix,Losail International Circuit,2024-12-01,Oscar Piastri,piastri,McLaren,4,3,Finished,15.0,81.821,81.121,80.82900000000001,1,80.82900000000001,17,7.666666666666667,7.666666666666667,1
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2024-12-08,Oscar Piastri,piastri,McLaren,2,10,Finished,1.0,83.64,83.199,82.804,0,82.804,24,6.0,6.0,-8
+2022,8,Azerbaijan Grand Prix,Baku City Circuit,2022-06-12,Pierre Gasly,gasly,AlphaTauri,6,5,Finished,10.0,103.268,103.129,102.845,0,102.845,6,9.333333333333334,9.333333333333334,1
+2022,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2022-06-19,Pierre Gasly,gasly,AlphaTauri,15,14,Finished,0.0,94.492,,,0,94.492,7,8.333333333333334,8.333333333333334,1
+2022,12,French Grand Prix,Circuit Paul Ricard,2022-07-24,Pierre Gasly,gasly,AlphaTauri,14,12,Finished,0.0,93.439,,,0,93.439,9,10.0,10.0,2
+2022,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2022-08-28,Pierre Gasly,gasly,AlphaTauri,0,9,Finished,2.0,106.183,105.827,,0,105.827,12,10.333333333333334,10.333333333333334,-9
+2022,15,Dutch Grand Prix,Circuit Park Zandvoort,2022-09-04,Pierre Gasly,gasly,AlphaTauri,11,11,Finished,0.0,71.705,71.512,,0,71.512,8,11.666666666666666,11.666666666666666,0
+2022,16,Italian Grand Prix,Autodromo Nazionale di Monza,2022-09-11,Pierre Gasly,gasly,AlphaTauri,5,8,Finished,4.0,82.01,82.062,82.648,0,82.01,2,10.666666666666666,10.666666666666666,-3
+2022,17,Singapore Grand Prix,Marina Bay Street Circuit,2022-10-02,Pierre Gasly,gasly,AlphaTauri,7,10,Finished,1.0,115.606,113.546,111.211,0,111.211,18,9.333333333333334,9.333333333333334,-3
+2022,18,Japanese Grand Prix,Suzuka Circuit,2022-10-09,Pierre Gasly,gasly,AlphaTauri,17,18,Finished,0.0,91.322,,,0,91.322,23,9.666666666666666,9.666666666666666,-1
+2022,19,United States Grand Prix,Circuit of the Americas,2022-10-23,Pierre Gasly,gasly,AlphaTauri,11,14,Finished,0.0,96.577,96.74,,0,96.577,13,12.0,12.0,-3
+2022,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2022-11-13,Pierre Gasly,gasly,AlphaTauri,10,14,Finished,0.0,74.371,71.675,,0,71.675,4,14.0,14.0,-4
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,2023-03-05,Pierre Gasly,gasly,Alpine F1 Team,20,9,Finished,2.0,92.181,,,0,92.181,5,15.333333333333334,6.333333333333333,11
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2023-03-19,Pierre Gasly,gasly,Alpine F1 Team,9,9,Finished,2.0,89.89,89.411,89.357,0,89.357,15,12.333333333333334,7.0,0
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,2023-04-30,Pierre Gasly,gasly,Alpine F1 Team,17,14,Finished,0.0,104.853,,,0,104.853,6,10.666666666666666,7.666666666666667,3
+2023,5,Miami Grand Prix,Miami International Autodrome,2023-05-07,Pierre Gasly,gasly,Alpine F1 Team,5,8,Finished,4.0,88.061,87.612,87.786,0,87.612,19,10.666666666666666,10.666666666666666,-3
+2023,6,Monaco Grand Prix,Circuit de Monaco,2023-05-28,Pierre Gasly,gasly,Alpine F1 Team,7,7,Finished,6.0,73.033,72.169,71.93299999999999,0,71.93299999999999,11,10.333333333333334,10.333333333333334,0
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2023-06-04,Pierre Gasly,gasly,Alpine F1 Team,10,10,Finished,1.0,73.471,73.186,72.816,0,72.816,10,9.666666666666666,9.666666666666666,0
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,2023-06-18,Pierre Gasly,gasly,Alpine F1 Team,15,12,Finished,0.0,82.886,,,0,82.886,7,8.333333333333334,8.333333333333334,3
+2023,9,Austrian Grand Prix,Red Bull Ring,2023-07-02,Pierre Gasly,gasly,Alpine F1 Team,9,10,Finished,1.0,65.515,65.30799999999999,65.17,0,65.17,20,9.666666666666666,9.666666666666666,-1
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,2023-07-30,Pierre Gasly,gasly,Alpine F1 Team,12,11,Finished,0.0,119.511,113.671,,0,113.671,12,10.666666666666666,10.666666666666666,1
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,2023-08-27,Pierre Gasly,gasly,Alpine F1 Team,12,3,Finished,15.0,81.735,80.128,,1,80.128,8,11.0,11.0,9
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,2023-09-03,Pierre Gasly,gasly,Alpine F1 Team,17,15,Finished,0.0,82.545,,,0,82.545,2,8.0,8.0,2
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,2023-09-17,Pierre Gasly,gasly,Alpine F1 Team,12,6,Finished,8.0,92.452,92.274,,0,92.274,18,9.666666666666666,9.666666666666666,6
+2023,16,Japanese Grand Prix,Suzuka Circuit,2023-09-24,Pierre Gasly,gasly,Alpine F1 Team,12,10,Finished,1.0,90.843,90.509,,0,90.509,23,8.0,8.0,2
+2023,17,Qatar Grand Prix,Losail International Circuit,2023-10-08,Pierre Gasly,gasly,Alpine F1 Team,7,12,Finished,0.0,85.566,84.918,84.553,0,84.553,17,10.333333333333334,10.333333333333334,-5
+2023,18,United States Grand Prix,Circuit of the Americas,2023-10-22,Pierre Gasly,gasly,Alpine F1 Team,7,6,Finished,8.0,96.158,95.496,95.089,0,95.089,13,9.333333333333334,9.333333333333334,1
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2023-10-29,Pierre Gasly,gasly,Alpine F1 Team,11,11,Finished,0.0,78.945,78.521,,0,78.521,3,9.333333333333334,9.333333333333334,0
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,2023-11-05,Pierre Gasly,gasly,Alpine F1 Team,15,7,Finished,6.0,70.793,70.56700000000001,,0,70.56700000000001,4,9.666666666666666,9.666666666666666,8
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2023-11-19,Pierre Gasly,gasly,Alpine F1 Team,4,11,Finished,0.0,94.272,93.494,93.239,0,93.239,16,8.0,8.0,-7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2023-11-26,Pierre Gasly,gasly,Alpine F1 Team,10,13,Finished,0.0,84.6,84.078,84.548,0,84.078,24,9.666666666666666,9.666666666666666,-3
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,Pierre Gasly,gasly,Alpine F1 Team,15,13,Finished,0.0,95.287,95.463,,0,95.287,21,10.333333333333334,10.333333333333334,2
+2024,6,Miami Grand Prix,Miami International Autodrome,2024-05-05,Pierre Gasly,gasly,Alpine F1 Team,12,12,Finished,0.0,87.976,88.324,,0,87.976,19,12.333333333333334,12.333333333333334,0
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2024-06-09,Pierre Gasly,gasly,Alpine F1 Team,15,9,Finished,2.0,73.289,72.94,,0,72.94,7,12.666666666666666,12.666666666666666,6
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2024-06-23,Pierre Gasly,gasly,Alpine F1 Team,7,9,Finished,2.0,72.651,72.07900000000001,71.857,0,71.857,10,11.333333333333334,11.333333333333334,-2
+2024,11,Austrian Grand Prix,Red Bull Ring,2024-06-30,Pierre Gasly,gasly,Alpine F1 Team,13,10,Finished,1.0,65.598,65.359,,0,65.359,20,10.0,10.0,3
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2024-07-28,Pierre Gasly,gasly,Alpine F1 Team,12,13,Finished,0.0,114.911,114.635,,0,114.635,12,9.333333333333334,9.333333333333334,-1
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,2024-09-15,Pierre Gasly,gasly,Alpine F1 Team,18,12,Finished,0.0,103.088,103.179,,0,103.088,6,10.666666666666666,10.666666666666666,6
+2024,19,United States Grand Prix,Circuit of the Americas,2024-10-20,Pierre Gasly,gasly,Alpine F1 Team,6,12,Finished,0.0,93.55,93.162,93.018,0,93.018,13,11.666666666666666,11.666666666666666,-6
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2024-11-03,Pierre Gasly,gasly,Alpine F1 Team,13,3,Finished,15.0,89.42,89.614,,1,89.42,4,12.333333333333334,12.333333333333334,10
+2024,23,Qatar Grand Prix,Losail International Circuit,2024-12-01,Pierre Gasly,gasly,Alpine F1 Team,11,5,Finished,10.0,81.843,81.437,,0,81.437,17,9.0,9.0,6
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2024-12-08,Pierre Gasly,gasly,Alpine F1 Team,5,7,Finished,6.0,83.548,83.086,82.98400000000001,0,82.98400000000001,24,6.666666666666667,6.666666666666667,-2
+2022,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2022-06-19,Sebastian Vettel,vettel,Aston Martin,16,12,Finished,0.0,94.512,,,0,94.512,7,8.0,8.0,4
+2022,10,British Grand Prix,Silverstone Circuit,2022-07-03,Sebastian Vettel,vettel,Aston Martin,18,9,Finished,2.0,102.666,,,0,102.666,22,9.333333333333334,9.333333333333334,9
+2022,12,French Grand Prix,Circuit Paul Ricard,2022-07-24,Sebastian Vettel,vettel,Aston Martin,12,11,Finished,0.0,93.285,93.276,,0,93.276,9,9.0,9.0,1
+2022,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2022-08-28,Sebastian Vettel,vettel,Aston Martin,10,8,Finished,4.0,106.344,,,0,106.344,12,10.666666666666666,10.666666666666666,2
+2022,15,Dutch Grand Prix,Circuit Park Zandvoort,2022-09-04,Sebastian Vettel,vettel,Aston Martin,19,14,Finished,0.0,72.391,,,0,72.391,8,9.333333333333334,9.333333333333334,5
+2022,17,Singapore Grand Prix,Marina Bay Street Circuit,2022-10-02,Sebastian Vettel,vettel,Aston Martin,13,8,Finished,4.0,115.602,114.38,,0,114.38,18,11.0,11.0,5
+2022,18,Japanese Grand Prix,Suzuka Circuit,2022-10-09,Sebastian Vettel,vettel,Aston Martin,9,6,Finished,8.0,91.256,90.656,90.554,0,90.554,23,10.0,10.0,3
+2022,19,United States Grand Prix,Circuit of the Americas,2022-10-23,Sebastian Vettel,vettel,Aston Martin,10,8,Finished,4.0,96.695,96.398,,0,96.398,13,9.333333333333334,9.333333333333334,2
+2022,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2022-11-13,Sebastian Vettel,vettel,Aston Martin,9,11,Finished,0.0,73.597,71.678,,0,71.678,4,7.333333333333333,7.333333333333333,-2
+2022,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2022-11-20,Sebastian Vettel,vettel,Aston Martin,9,10,Finished,1.0,85.523,84.974,84.961,0,84.961,24,8.333333333333334,8.333333333333334,-1
+2022,5,Miami Grand Prix,Miami International Autodrome,2022-05-08,Sergio Pérez,perez,Red Bull,4,4,Finished,12.0,90.055,89.673,89.036,0,89.036,19,2.6666666666666665,2.6666666666666665,0
+2022,6,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2022-05-22,Sergio Pérez,perez,Red Bull,5,2,Finished,19.0,80.447,79.83,79.42,1,79.42,10,2.6666666666666665,2.6666666666666665,3
+2022,7,Monaco Grand Prix,Circuit de Monaco,2022-05-29,Sergio Pérez,perez,Red Bull,3,1,Finished,25.0,73.004,71.95400000000001,71.629,1,71.629,11,2.6666666666666665,2.6666666666666665,2
+2022,8,Azerbaijan Grand Prix,Baku City Circuit,2022-06-12,Sergio Pérez,perez,Red Bull,2,2,Finished,19.0,102.733,101.955,101.641,1,101.641,6,2.3333333333333335,2.3333333333333335,0
+2022,10,British Grand Prix,Silverstone Circuit,2022-07-03,Sergio Pérez,perez,Red Bull,4,2,Finished,18.0,100.521,102.513,101.616,1,100.521,22,1.6666666666666667,1.6666666666666667,2
+2022,12,French Grand Prix,Circuit Paul Ricard,2022-07-24,Sergio Pérez,perez,Red Bull,3,4,Finished,12.0,92.354,92.12,91.335,0,91.335,9,1.6666666666666667,1.6666666666666667,-1
+2022,13,Hungarian Grand Prix,Hungaroring,2022-07-31,Sergio Pérez,perez,Red Bull,11,5,Finished,10.0,79.118,78.51599999999999,,0,78.51599999999999,14,2.6666666666666665,2.6666666666666665,6
+2022,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2022-08-28,Sergio Pérez,perez,Red Bull,2,2,Finished,18.0,105.377,104.794,104.462,1,104.462,12,3.6666666666666665,3.6666666666666665,0
+2022,15,Dutch Grand Prix,Circuit Park Zandvoort,2022-09-04,Sergio Pérez,perez,Red Bull,5,5,Finished,10.0,71.641,71.314,71.077,0,71.077,8,3.6666666666666665,3.6666666666666665,0
+2022,16,Italian Grand Prix,Autodromo Nazionale di Monza,2022-09-11,Sergio Pérez,perez,Red Bull,13,6,Finished,9.0,81.495,81.358,81.206,0,81.206,2,4.0,4.0,7
+2022,17,Singapore Grand Prix,Marina Bay Street Circuit,2022-10-02,Sergio Pérez,perez,Red Bull,2,1,Finished,25.0,114.404,112.818,109.434,1,109.434,18,4.333333333333333,4.333333333333333,1
+2022,18,Japanese Grand Prix,Suzuka Circuit,2022-10-09,Sergio Pérez,perez,Red Bull,4,2,Finished,18.0,90.622,89.925,89.709,1,89.709,23,4.0,4.0,2
+2022,19,United States Grand Prix,Circuit of the Americas,2022-10-23,Sergio Pérez,perez,Red Bull,9,4,Finished,12.0,96.163,95.864,94.645,0,94.645,13,3.0,3.0,5
+2022,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2022-10-30,Sergio Pérez,perez,Red Bull,4,3,Finished,15.0,79.706,78.615,78.128,1,78.128,3,2.3333333333333335,2.3333333333333335,1
+2022,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2022-11-13,Sergio Pérez,perez,Red Bull,4,7,Finished,6.0,73.613,71.456,75.601,0,71.456,4,3.0,3.0,-3
+2022,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2022-11-20,Sergio Pérez,perez,Red Bull,2,3,Finished,15.0,84.82,84.419,84.05199999999999,1,84.05199999999999,24,4.666666666666667,4.666666666666667,-1
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,2023-03-05,Sergio Pérez,perez,Red Bull,2,2,Finished,18.0,91.479,90.746,89.846,1,89.846,5,4.333333333333333,4.333333333333333,0
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2023-03-19,Sergio Pérez,perez,Red Bull,1,1,Finished,25.0,89.244,88.635,88.265,1,88.265,15,4.0,4.0,0
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,2023-04-30,Sergio Pérez,perez,Red Bull,3,1,Finished,25.0,101.756,101.131,100.495,1,100.495,6,2.6666666666666665,2.6666666666666665,2
+2023,5,Miami Grand Prix,Miami International Autodrome,2023-05-07,Sergio Pérez,perez,Red Bull,1,2,Finished,18.0,87.713,87.328,86.84100000000001,1,86.84100000000001,19,2.3333333333333335,2.3333333333333335,-1
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2023-06-04,Sergio Pérez,perez,Red Bull,11,4,Finished,12.0,73.874,73.334,,0,73.334,10,2.6666666666666665,2.6666666666666665,7
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,2023-06-18,Sergio Pérez,perez,Red Bull,12,6,Finished,9.0,82.151,80.959,,0,80.959,7,2.3333333333333335,2.3333333333333335,6
+2023,9,Austrian Grand Prix,Red Bull Ring,2023-07-02,Sergio Pérez,perez,Red Bull,15,3,Finished,15.0,65.17699999999999,126.688,,1,65.17699999999999,20,4.0,4.0,12
+2023,10,British Grand Prix,Silverstone Circuit,2023-07-09,Sergio Pérez,perez,Red Bull,15,6,Finished,8.0,89.968,,,0,89.968,22,4.333333333333333,4.333333333333333,9
+2023,11,Hungarian Grand Prix,Hungaroring,2023-07-23,Sergio Pérez,perez,Red Bull,9,3,Finished,15.0,78.36,77.675,77.045,1,77.045,14,5.0,5.0,6
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,2023-07-30,Sergio Pérez,perez,Red Bull,2,2,Finished,18.0,118.899,112.353,107.045,1,107.045,12,4.0,4.0,0
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,2023-08-27,Sergio Pérez,perez,Red Bull,7,4,Finished,12.0,81.97200000000001,79.856,71.88,0,71.88,8,3.6666666666666665,3.6666666666666665,3
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,2023-09-03,Sergio Pérez,perez,Red Bull,5,2,Finished,18.0,81.911,81.24,80.688,1,80.688,2,3.0,3.0,3
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,2023-09-17,Sergio Pérez,perez,Red Bull,13,8,Finished,4.0,92.099,92.31,,0,92.099,18,2.6666666666666665,2.6666666666666665,5
+2023,17,Qatar Grand Prix,Losail International Circuit,2023-10-08,Sergio Pérez,perez,Red Bull,0,10,Finished,1.0,85.991,85.462,,0,85.462,17,4.666666666666667,4.666666666666667,-10
+2023,18,United States Grand Prix,Circuit of the Americas,2023-10-22,Sergio Pérez,perez,Red Bull,9,4,Finished,12.0,95.989,95.679,95.173,0,95.173,13,6.666666666666667,6.666666666666667,5
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,2023-11-05,Sergio Pérez,perez,Red Bull,9,4,Finished,12.0,70.668,70.219,72.321,0,70.219,4,7.333333333333333,7.333333333333333,5
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2023-11-19,Sergio Pérez,perez,Red Bull,11,3,Finished,15.0,94.574,93.855,,1,93.855,16,6.0,6.0,8
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2023-11-26,Sergio Pérez,perez,Red Bull,9,4,Finished,12.0,84.209,84.116,84.17099999999999,0,84.116,24,3.6666666666666665,3.6666666666666665,5
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,Sergio Pérez,perez,Red Bull,5,2,Finished,18.0,90.221,89.932,89.537,1,89.537,5,3.6666666666666665,3.6666666666666665,3
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,Sergio Pérez,perez,Red Bull,3,2,Finished,18.0,88.638,88.467,87.807,1,87.807,15,3.0,3.0,1
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,Sergio Pérez,perez,Red Bull,6,5,Finished,10.0,76.805,76.631,76.274,0,76.274,0,2.6666666666666665,2.6666666666666665,1
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,Sergio Pérez,perez,Red Bull,2,2,Finished,18.0,89.303,88.752,88.263,1,88.263,23,3.0,3.0,0
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,Sergio Pérez,perez,Red Bull,2,3,Finished,15.0,95.457,94.026,93.982,1,93.982,21,3.0,3.0,-1
+2024,6,Miami Grand Prix,Miami International Autodrome,2024-05-05,Sergio Pérez,perez,Red Bull,4,4,Finished,12.0,87.77199999999999,87.839,87.46000000000001,0,87.46000000000001,19,3.3333333333333335,3.3333333333333335,0
+2024,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2024-05-19,Sergio Pérez,perez,Red Bull,11,8,Finished,4.0,76.404,75.706,,0,75.706,1,3.0,3.0,3
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2024-06-23,Sergio Pérez,perez,Red Bull,11,8,Finished,4.0,72.477,72.054,72.061,0,72.054,10,5.0,5.0,3
+2024,11,Austrian Grand Prix,Red Bull Ring,2024-06-30,Sergio Pérez,perez,Red Bull,8,7,Finished,6.0,65.587,65.144,65.202,0,65.144,20,6.666666666666667,6.666666666666667,1
+2024,13,Hungarian Grand Prix,Hungaroring,2024-07-21,Sergio Pérez,perez,Red Bull,16,7,Finished,6.0,77.886,,,0,77.886,14,7.666666666666667,7.666666666666667,9
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2024-07-28,Sergio Pérez,perez,Red Bull,2,7,Finished,7.0,115.139,114.47,113.765,0,113.765,12,7.333333333333333,7.333333333333333,-5
+2024,15,Dutch Grand Prix,Circuit Park Zandvoort,2024-08-25,Sergio Pérez,perez,Red Bull,5,6,Finished,8.0,71.006,70.678,70.416,0,70.416,8,7.0,7.0,-1
+2024,16,Italian Grand Prix,Autodromo Nazionale di Monza,2024-09-01,Sergio Pérez,perez,Red Bull,8,8,Finished,4.0,80.598,80.21600000000001,80.062,0,80.062,2,6.666666666666667,6.666666666666667,0
+2024,19,United States Grand Prix,Circuit of the Americas,2024-10-20,Sergio Pérez,perez,Red Bull,9,7,Finished,6.0,93.611,93.02,,0,93.02,13,7.0,7.0,2
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2024-11-03,Sergio Pérez,perez,Red Bull,12,11,Finished,0.0,90.035,88.158,,0,88.158,4,7.0,7.0,1
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2024-11-23,Sergio Pérez,perez,Red Bull,15,10,Finished,1.0,94.155,,,0,94.155,16,8.666666666666666,8.666666666666666,5
+2022,5,Miami Grand Prix,Miami International Autodrome,2022-05-08,Valtteri Bottas,bottas,Alfa Romeo,5,7,Finished,6.0,90.845,89.751,89.475,0,89.475,19,6.333333333333333,6.333333333333333,-2
+2022,6,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2022-05-22,Valtteri Bottas,bottas,Alfa Romeo,7,6,Finished,8.0,80.355,80.053,79.608,0,79.608,10,6.666666666666667,6.666666666666667,1
+2022,7,Monaco Grand Prix,Circuit de Monaco,2022-05-29,Valtteri Bottas,bottas,Alfa Romeo,12,9,Finished,2.0,73.541,72.909,,0,72.909,11,6.0,6.0,3
+2022,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2022-06-19,Valtteri Bottas,bottas,Alfa Romeo,11,7,Finished,6.0,93.689,86.788,,0,86.788,7,7.333333333333333,7.333333333333333,4
+2022,12,French Grand Prix,Circuit Paul Ricard,2022-07-24,Valtteri Bottas,bottas,Alfa Romeo,11,14,Finished,0.0,93.034,93.052,,0,93.034,9,7.333333333333333,7.333333333333333,-3
+2022,17,Singapore Grand Prix,Marina Bay Street Circuit,2022-10-02,Valtteri Bottas,bottas,Alfa Romeo,15,11,Finished,0.0,116.083,,,0,116.083,18,10.0,10.0,4
+2022,18,Japanese Grand Prix,Suzuka Circuit,2022-10-09,Valtteri Bottas,bottas,Alfa Romeo,12,15,Finished,0.0,91.226,90.709,,0,90.709,23,10.666666666666666,10.666666666666666,-3
+2022,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2022-11-13,Valtteri Bottas,bottas,Alfa Romeo,14,9,Finished,2.0,75.486,,,0,75.486,4,13.333333333333334,13.333333333333334,5
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,2023-03-05,Valtteri Bottas,bottas,Alfa Romeo,12,8,Finished,4.0,91.504,91.443,,0,91.443,5,11.666666666666666,11.666666666666666,4
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2023-04-02,Valtteri Bottas,bottas,Alfa Romeo,0,11,Finished,0.0,78.714,,,0,78.714,0,10.666666666666666,10.666666666666666,-11
+2023,5,Miami Grand Prix,Miami International Autodrome,2023-05-07,Valtteri Bottas,bottas,Alfa Romeo,10,13,Finished,0.0,87.864,87.564,,0,87.564,19,9.333333333333334,9.333333333333334,-3
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,2023-06-18,Valtteri Bottas,bottas,Alfa Romeo,14,10,Finished,1.0,82.332,81.821,,0,81.821,7,10.666666666666666,10.666666666666666,4
+2023,10,British Grand Prix,Silverstone Circuit,2023-07-09,Valtteri Bottas,bottas,Alfa Romeo,20,12,Finished,0.0,89.798,,,0,89.798,22,11.333333333333334,11.333333333333334,8
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,2023-07-30,Valtteri Bottas,bottas,Alfa Romeo,13,12,Finished,0.0,119.484,114.694,,0,114.694,12,11.666666666666666,11.666666666666666,1
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,2023-08-27,Valtteri Bottas,bottas,Alfa Romeo,18,14,Finished,0.0,82.26,,,0,82.26,8,11.333333333333334,11.333333333333334,4
+2023,14,Italian Grand Prix,Autodromo Nazionale di Monza,2023-09-03,Valtteri Bottas,bottas,Alfa Romeo,14,10,Finished,1.0,82.249,81.94,,0,81.94,2,12.666666666666666,12.666666666666666,4
+2023,17,Qatar Grand Prix,Losail International Circuit,2023-10-08,Valtteri Bottas,bottas,Alfa Romeo,9,8,Finished,4.0,86.038,85.297,85.05799999999999,0,85.05799999999999,17,12.0,12.0,1
+2023,18,United States Grand Prix,Circuit of the Americas,2023-10-22,Valtteri Bottas,bottas,Alfa Romeo,13,12,Finished,0.0,96.082,95.858,,0,95.858,13,10.666666666666666,10.666666666666666,1
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2023-10-29,Valtteri Bottas,bottas,Alfa Romeo,9,15,Finished,0.0,78.429,78.01599999999999,78.032,0,78.01599999999999,3,10.0,10.0,-6
+2023,21,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2023-11-19,Valtteri Bottas,bottas,Alfa Romeo,7,17,Finished,0.0,94.305,93.809,93.525,0,93.525,16,11.666666666666666,11.666666666666666,-10
+2024,6,Miami Grand Prix,Miami International Autodrome,2024-05-05,Valtteri Bottas,bottas,Sauber,16,16,Finished,0.0,88.463,,,0,88.463,19,14.666666666666666,12.0,0
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2024-06-09,Valtteri Bottas,bottas,Sauber,0,13,Finished,0.0,73.366,,,0,73.366,7,16.0,12.333333333333334,-13
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2024-07-28,Valtteri Bottas,bottas,Sauber,14,15,Finished,0.0,115.531,114.764,,0,114.764,12,15.333333333333334,12.333333333333334,-1
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2024-11-03,Valtteri Bottas,bottas,Sauber,11,13,Finished,0.0,90.633,86.47200000000001,,0,86.47200000000001,4,14.666666666666666,14.666666666666666,-2
+2024,23,Qatar Grand Prix,Losail International Circuit,2024-12-01,Valtteri Bottas,bottas,Sauber,13,11,Finished,0.0,81.92699999999999,81.731,,0,81.731,17,13.666666666666666,13.666666666666666,2
+2022,10,British Grand Prix,Silverstone Circuit,2022-07-03,Yuki Tsunoda,tsunoda,AlphaTauri,13,14,Finished,0.0,101.893,104.311,,0,101.893,22,9.0,9.0,-1
+2022,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2022-08-28,Yuki Tsunoda,tsunoda,AlphaTauri,0,13,Finished,0.0,106.692,,,0,106.692,12,11.0,11.0,-13
+2022,18,Japanese Grand Prix,Suzuka Circuit,2022-10-09,Yuki Tsunoda,tsunoda,AlphaTauri,13,13,Finished,0.0,91.13,90.808,,0,90.808,23,13.0,13.0,0
+2022,19,United States Grand Prix,Circuit of the Americas,2022-10-23,Yuki Tsunoda,tsunoda,AlphaTauri,19,10,Finished,1.0,96.808,97.147,,0,96.808,13,13.333333333333334,13.333333333333334,9
+2022,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2022-11-20,Yuki Tsunoda,tsunoda,AlphaTauri,11,11,Finished,0.0,85.63,85.219,,0,85.219,24,12.0,12.0,0
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,2023-03-05,Yuki Tsunoda,tsunoda,AlphaTauri,14,11,Finished,0.0,91.4,92.51,,0,91.4,5,11.333333333333334,11.333333333333334,3
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2023-03-19,Yuki Tsunoda,tsunoda,AlphaTauri,16,11,Finished,0.0,89.939,,,0,89.939,15,10.666666666666666,10.666666666666666,5
+2023,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2023-04-02,Yuki Tsunoda,tsunoda,AlphaTauri,12,10,Finished,1.0,78.471,78.099,,0,78.099,0,11.0,11.0,2
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,2023-04-30,Yuki Tsunoda,tsunoda,AlphaTauri,8,10,Finished,1.0,102.234,101.569,101.581,0,101.569,6,10.666666666666666,10.666666666666666,-2
+2023,5,Miami Grand Prix,Miami International Autodrome,2023-05-07,Yuki Tsunoda,tsunoda,AlphaTauri,17,11,Finished,0.0,88.429,,,0,88.429,19,10.333333333333334,10.333333333333334,6
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2023-06-04,Yuki Tsunoda,tsunoda,AlphaTauri,15,12,Finished,0.0,73.862,74.477,,0,73.862,10,10.333333333333334,10.333333333333334,3
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,2023-06-18,Yuki Tsunoda,tsunoda,AlphaTauri,19,14,Finished,0.0,82.746,,,0,82.746,7,11.0,11.0,5
+2023,10,British Grand Prix,Silverstone Circuit,2023-07-09,Yuki Tsunoda,tsunoda,AlphaTauri,16,16,Finished,0.0,90.025,,,0,90.025,22,12.333333333333334,12.333333333333334,0
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,2023-07-30,Yuki Tsunoda,tsunoda,AlphaTauri,11,10,Finished,1.0,119.044,113.148,,0,113.148,12,14.0,14.0,1
+2023,13,Dutch Grand Prix,Circuit Park Zandvoort,2023-08-27,Yuki Tsunoda,tsunoda,AlphaTauri,17,15,Finished,0.0,81.781,80.23,,0,80.23,8,13.333333333333334,13.333333333333334,2
+2023,18,United States Grand Prix,Circuit of the Americas,2023-10-22,Yuki Tsunoda,tsunoda,AlphaTauri,11,8,Finished,5.0,95.913,95.697,,0,95.697,13,13.666666666666666,13.666666666666666,3
+2023,19,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2023-10-29,Yuki Tsunoda,tsunoda,AlphaTauri,18,12,Finished,0.0,78.89,,,0,78.89,3,11.0,11.0,6
+2023,20,São Paulo Grand Prix,Autódromo José Carlos Pace,2023-11-05,Yuki Tsunoda,tsunoda,AlphaTauri,16,9,Finished,2.0,70.837,,,0,70.837,4,11.666666666666666,11.666666666666666,7
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,2023-11-26,Yuki Tsunoda,tsunoda,AlphaTauri,6,8,Finished,4.0,84.286,84.207,83.968,0,83.968,24,9.666666666666666,9.666666666666666,-2
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,Yuki Tsunoda,tsunoda,RB F1 Team,8,7,Finished,6.0,77.356,76.791,76.788,0,76.788,0,9.666666666666666,13.0,1
+2024,6,Miami Grand Prix,Miami International Autodrome,2024-05-05,Yuki Tsunoda,tsunoda,RB F1 Team,10,7,Finished,6.0,88.324,88.167,88.19200000000001,0,88.167,19,8.0,12.333333333333334,3
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,2024-06-09,Yuki Tsunoda,tsunoda,RB F1 Team,8,14,Finished,0.0,72.748,72.303,72.414,0,72.303,7,7.333333333333333,9.333333333333334,-6
+2024,12,British Grand Prix,Silverstone Circuit,2024-07-07,Yuki Tsunoda,tsunoda,RB F1 Team,13,10,Finished,1.0,90.994,87.269,,0,87.269,22,9.333333333333334,9.333333333333334,3
+2024,13,Hungarian Grand Prix,Hungaroring,2024-07-21,Yuki Tsunoda,tsunoda,RB F1 Team,10,9,Finished,2.0,77.436,76.121,76.477,0,76.121,14,10.333333333333334,10.333333333333334,1
+2024,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,2024-07-28,Yuki Tsunoda,tsunoda,RB F1 Team,20,16,Finished,0.0,116.593,,,0,116.593,12,11.0,11.0,4
+2024,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2024-11-03,Yuki Tsunoda,tsunoda,RB F1 Team,3,7,Finished,6.0,89.172,86.464,84.111,0,84.111,4,11.666666666666666,11.666666666666666,-4
+2024,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2024-11-23,Yuki Tsunoda,tsunoda,RB F1 Team,7,9,Finished,2.0,93.789,93.089,93.029,0,93.029,16,10.666666666666666,10.666666666666666,-2
+2024,23,Qatar Grand Prix,Losail International Circuit,2024-12-01,Yuki Tsunoda,tsunoda,RB F1 Team,14,13,Finished,0.0,82.364,81.771,,0,81.771,17,10.666666666666666,10.666666666666666,1
