@@ -4,3 +4,5 @@ cache/
 *.pkl
 .env
 .DS_Store
+errpr.txt
+Untitled.ipynb
